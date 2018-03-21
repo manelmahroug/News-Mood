@@ -1,646 +1,627 @@
-,Compound,Date,Negative,Neutral,News Source,Positive,Tweet Count,Tweet Text
-0,0.34,Tue Mar 20 17:33:03 +0000 2018,0.102,0.738,BBC,0.16,1,"Professor Stephen Hawking's funeral will take place in Cambridge - ""the city that he loved so much and which loved… https://t.co/LHh0Nfeh6U"
-1,0.0,Tue Mar 20 17:03:01 +0000 2018,0.0,1.0,BBC,0.0,2,"Un-bee-lievable! 🐝😍 Meet the woman who kept a bee as a pet. 
-https://t.co/5zRxWpSGOH"
-2,0.0,Tue Mar 20 16:05:04 +0000 2018,0.0,1.0,BBC,0.0,3,"Arise, Sir Ringo! 🎖🎶@thebeatles drummer @ringostarrmusic has been knighted for his services to music.… https://t.co/OQLixgO2Zi"
-3,0.0,Tue Mar 20 15:33:03 +0000 2018,0.0,1.0,BBC,0.0,4,The first polar bear cub to be born in the UK for 25 years has emerged from his den at Scotland's Highland Wildlife… https://t.co/WZLoy2mz7y
-4,0.4084,Tue Mar 20 15:03:02 +0000 2018,0.0,0.868,BBC,0.132,5,"'Everybody has a voice'. ❤️️🎶
+,Compound,Date,Negative,Neutral,News Source,Positive,Tweet Text,Tweets ago
+0,0.0,Tue Mar 20 19:48:04 +0000 2018,0.0,1.0,BBC,0.0,"This #WorldFrogDay, why not try making an origami jumping frog with @BBCTaster's step-by-step tutorial? 🐸… https://t.co/jjMqUND883",0
+1,0.0,Tue Mar 20 19:03:04 +0000 2018,0.0,1.0,BBC,0.0,"Michael Portillo travels across India guided by Bradshaw's 1913 Handbook of Indian, Foreign and Colonial Travel. 🇮🇳… https://t.co/4WG0esDk8m",1
+2,-0.3859,Tue Mar 20 18:33:01 +0000 2018,0.16,0.768,BBC,0.071,"Can you watch this without laughing? 😹🔊 You'll want your sound on for this! #InternationalDayOfHappiness
 
-Rugby legends JPR Williams and JJ Williams visit @FMNChorus and the BBC National Cho… https://t.co/myuIpumZnL"
-5,0.6369,Tue Mar 20 14:24:06 +0000 2018,0.0,0.741,BBC,0.259,6,📸The best pictures from the 2018 Paralympic Winter Games in Pyeongchang: https://t.co/w8dYDPHkAw https://t.co/0SVnupv9rB
-6,0.0,Tue Mar 20 14:03:04 +0000 2018,0.0,1.0,BBC,0.0,7,Prince Harry and Meghan Markle have chosen an organic lemon and elderflower cake for their wedding in May. 🍰🍋💍… https://t.co/H7dWlxmYcR
-7,0.2235,Tue Mar 20 13:16:25 +0000 2018,0.0,0.881,BBC,0.119,8,"RT @BBCWalesNews: 🎟🎞🍿Cinema makes maths class an offer they can't refuse
-Full story: https://t.co/Uwg6NTRFVF https://t.co/hr4dglHIu3"
-8,-0.4023,Tue Mar 20 13:02:01 +0000 2018,0.162,0.838,BBC,0.0,9,"People always have an opinion. 🙄😂 Here's why @AlanCarr doesn't trust TripAdvisor reviews. #LiveAtTheApollo 
+https://t.co/vA5yr0PCC5",2
+3,0.34,Tue Mar 20 17:33:03 +0000 2018,0.102,0.738,BBC,0.16,"Professor Stephen Hawking's funeral will take place in Cambridge - ""the city that he loved so much and which loved… https://t.co/LHh0Nfeh6U",3
+4,0.0,Tue Mar 20 17:03:01 +0000 2018,0.0,1.0,BBC,0.0,"Un-bee-lievable! 🐝😍 Meet the woman who kept a bee as a pet. 
+https://t.co/5zRxWpSGOH",4
+5,0.0,Tue Mar 20 16:05:04 +0000 2018,0.0,1.0,BBC,0.0,"Arise, Sir Ringo! 🎖🎶@thebeatles drummer @ringostarrmusic has been knighted for his services to music.… https://t.co/OQLixgO2Zi",5
+6,0.0,Tue Mar 20 15:33:03 +0000 2018,0.0,1.0,BBC,0.0,The first polar bear cub to be born in the UK for 25 years has emerged from his den at Scotland's Highland Wildlife… https://t.co/WZLoy2mz7y,6
+7,0.4084,Tue Mar 20 15:03:02 +0000 2018,0.0,0.868,BBC,0.132,"'Everybody has a voice'. ❤️️🎶
 
-https://t.co/PvF6K9hYMI"
-9,0.6114,Tue Mar 20 11:03:23 +0000 2018,0.0,0.818,BBC,0.182,10,"From a spot of spring cleaning to rolling cheese down a hill... 🕸🧀🌱
+Rugby legends JPR Williams and JJ Williams visit @FMNChorus and the BBC National Cho… https://t.co/myuIpumZnL",7
+8,0.6369,Tue Mar 20 14:24:06 +0000 2018,0.0,0.741,BBC,0.259,📸The best pictures from the 2018 Paralympic Winter Games in Pyeongchang: https://t.co/w8dYDPHkAw https://t.co/0SVnupv9rB,8
+9,0.0,Tue Mar 20 14:03:04 +0000 2018,0.0,1.0,BBC,0.0,Prince Harry and Meghan Markle have chosen an organic lemon and elderflower cake for their wedding in May. 🍰🍋💍… https://t.co/H7dWlxmYcR,9
+10,0.2235,Tue Mar 20 13:16:25 +0000 2018,0.0,0.881,BBC,0.119,"RT @BBCWalesNews: 🎟🎞🍿Cinema makes maths class an offer they can't refuse
+Full story: https://t.co/Uwg6NTRFVF https://t.co/hr4dglHIu3",10
+11,-0.4023,Tue Mar 20 13:02:01 +0000 2018,0.162,0.838,BBC,0.0,"People always have an opinion. 🙄😂 Here's why @AlanCarr doesn't trust TripAdvisor reviews. #LiveAtTheApollo 
 
-Here are nine ways to celebrate spring!… https://t.co/ujBmBsHast"
-10,-0.6369,Tue Mar 20 10:30:04 +0000 2018,0.271,0.636,BBC,0.093,11,"Sudan, the world's last surviving male northern white rhino has died after months of ill health. 💔🦏… https://t.co/BnYne3cI2L"
-11,0.3642,Tue Mar 20 10:04:02 +0000 2018,0.0,0.827,BBC,0.173,12,"This #InternationalDayOfHappiness, let's all try to be a little more like @chessmartinez. 😊👏#LiveAtTheApollo 
+https://t.co/PvF6K9hYMI",11
+12,0.6114,Tue Mar 20 11:03:23 +0000 2018,0.0,0.818,BBC,0.182,"From a spot of spring cleaning to rolling cheese down a hill... 🕸🧀🌱
 
-https://t.co/VddL8zWJfS"
-12,0.0,Tue Mar 20 09:49:33 +0000 2018,0.0,1.0,BBC,0.0,13,"RT @BBCOne: They've finally quacked the case.
+Here are nine ways to celebrate spring!… https://t.co/ujBmBsHast",12
+13,-0.6369,Tue Mar 20 10:30:04 +0000 2018,0.271,0.636,BBC,0.093,"Sudan, the world's last surviving male northern white rhino has died after months of ill health. 💔🦏… https://t.co/BnYne3cI2L",13
+14,0.3642,Tue Mar 20 10:04:02 +0000 2018,0.0,0.827,BBC,0.173,"This #InternationalDayOfHappiness, let's all try to be a little more like @chessmartinez. 😊👏#LiveAtTheApollo 
 
-https://t.co/eq4dLcauhe"
-13,-0.3182,Tue Mar 20 09:49:23 +0000 2018,0.19,0.683,BBC,0.127,14,"RT @BBCEarth: Sudan’s death leaves just two females of the subspecies alive in the world 
-https://t.co/kCpRCxFaFY"
-14,0.25,Tue Mar 20 09:49:10 +0000 2018,0.087,0.78,BBC,0.133,15,RT @bbcthree: RuPaul is the first drag queen to get a Hollywood star. Sissy that Walk of Fame.  https://t.co/SmqOPQizh3 https://t.co/hWb1Xm…
-15,0.0,Tue Mar 20 09:49:02 +0000 2018,0.0,1.0,BBC,0.0,16,"RT @BBCBreakfast: ❄️❄️BBRRR....Could it be the coldest day yet for the Spring Equinox?
-Let us know what temp it is where you are today.  #S…"
-16,0.4939,Tue Mar 20 09:32:02 +0000 2018,0.0,0.814,BBC,0.186,17,"Meet Bumblebee and Gnat, two adorable badger cubs being raised at an animal sanctuary. 😍
-https://t.co/Ihami0VtL0"
-17,0.0,Tue Mar 20 09:03:04 +0000 2018,0.0,1.0,BBC,0.0,18,Spring is here! But what is the #SpringEquinox? 🌺🌻🌸🌱https://t.co/RiWP3PC7Yo https://t.co/FIKocYFP6C
-18,0.0,Tue Mar 20 08:25:06 +0000 2018,0.0,1.0,BBC,0.0,19,Five times Beyonce and Jay-Z’s daughter Blue Ivy outshone her parents. ⭐️ https://t.co/JaNAzsofOm https://t.co/DnoyApY0yL
-19,0.0,Tue Mar 20 08:03:03 +0000 2018,0.0,1.0,BBC,0.0,20,Traditional Highland Games sports such as tossing the caber and tug-of-war are to be taught in PE lessons. 🏆… https://t.co/jv5wlpmlyT
-20,-0.3818,Mon Mar 19 19:33:04 +0000 2018,0.11,0.89,BBC,0.0,21,"Follow the dramatic and deadly series of events that took place at two funerals in Belfast in March 1988. 
+https://t.co/VddL8zWJfS",14
+15,0.0,Tue Mar 20 09:49:33 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCOne: They've finally quacked the case.
 
-The Fun… https://t.co/y3MZaR8hsi"
-21,0.1531,Mon Mar 19 18:33:05 +0000 2018,0.116,0.709,BBC,0.175,22,"Leonardo DiCaprio stars in the true story of a con man who cashed fake cheques worth millions. 
+https://t.co/eq4dLcauhe",15
+16,-0.3182,Tue Mar 20 09:49:23 +0000 2018,0.19,0.683,BBC,0.127,"RT @BBCEarth: Sudan’s death leaves just two females of the subspecies alive in the world 
+https://t.co/kCpRCxFaFY",16
+17,0.25,Tue Mar 20 09:49:10 +0000 2018,0.087,0.78,BBC,0.133,RT @bbcthree: RuPaul is the first drag queen to get a Hollywood star. Sissy that Walk of Fame.  https://t.co/SmqOPQizh3 https://t.co/hWb1Xm…,17
+18,0.0,Tue Mar 20 09:49:02 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCBreakfast: ❄️❄️BBRRR....Could it be the coldest day yet for the Spring Equinox?
+Let us know what temp it is where you are today.  #S…",18
+19,0.4939,Tue Mar 20 09:32:02 +0000 2018,0.0,0.814,BBC,0.186,"Meet Bumblebee and Gnat, two adorable badger cubs being raised at an animal sanctuary. 😍
+https://t.co/Ihami0VtL0",19
+20,0.0,Tue Mar 20 09:03:04 +0000 2018,0.0,1.0,BBC,0.0,Spring is here! But what is the #SpringEquinox? 🌺🌻🌸🌱https://t.co/RiWP3PC7Yo https://t.co/FIKocYFP6C,20
+21,0.0,Tue Mar 20 08:25:06 +0000 2018,0.0,1.0,BBC,0.0,Five times Beyonce and Jay-Z’s daughter Blue Ivy outshone her parents. ⭐️ https://t.co/JaNAzsofOm https://t.co/DnoyApY0yL,21
+22,0.0,Tue Mar 20 08:03:03 +0000 2018,0.0,1.0,BBC,0.0,Traditional Highland Games sports such as tossing the caber and tug-of-war are to be taught in PE lessons. 🏆… https://t.co/jv5wlpmlyT,22
+23,-0.3818,Mon Mar 19 19:33:04 +0000 2018,0.11,0.89,BBC,0.0,"Follow the dramatic and deadly series of events that took place at two funerals in Belfast in March 1988. 
 
-Catch Me If You Ca… https://t.co/HWShPj9ngi"
-22,-0.1027,Mon Mar 19 18:03:01 +0000 2018,0.08,0.92,BBC,0.0,23,"😂📸 @AlanCarr learned the hard way that you only get one shot at a school photo. #LiveAtTheApollo 
+The Fun… https://t.co/y3MZaR8hsi",23
+24,0.1531,Mon Mar 19 18:33:05 +0000 2018,0.116,0.709,BBC,0.175,"Leonardo DiCaprio stars in the true story of a con man who cashed fake cheques worth millions. 
 
-https://t.co/fv5JmcRgz4"
-23,0.0,Mon Mar 19 17:30:08 +0000 2018,0.0,1.0,BBC,0.0,24,🎤Pop band @FifthHarmony have announced they're taking a break to pursue solo careers 🎶https://t.co/tLOR7h1gZy https://t.co/5c77Cfjfp6
-24,-0.7096,Mon Mar 19 17:00:05 +0000 2018,0.414,0.442,BBC,0.144,25,"Murder. Innocence. Lies. 
+Catch Me If You Ca… https://t.co/HWShPj9ngi",24
+25,-0.1027,Mon Mar 19 18:03:01 +0000 2018,0.08,0.92,BBC,0.0,"😂📸 @AlanCarr learned the hard way that you only get one shot at a school photo. #LiveAtTheApollo 
+
+https://t.co/fv5JmcRgz4",25
+26,0.0,Mon Mar 19 17:30:08 +0000 2018,0.0,1.0,BBC,0.0,🎤Pop band @FifthHarmony have announced they're taking a break to pursue solo careers 🎶https://t.co/tLOR7h1gZy https://t.co/5c77Cfjfp6,26
+27,-0.7096,Mon Mar 19 17:00:05 +0000 2018,0.414,0.442,BBC,0.144,"Murder. Innocence. Lies. 
 
 @AgathaChristie classic, #OrdealByInnocence, comes to @BBCOne soon.
-https://t.co/qfJThHowXC"
-25,0.0,Mon Mar 19 16:33:29 +0000 2018,0.0,1.0,BBC,0.0,26,Here are the latest snow scenes from around the UK. ❄️📸 https://t.co/eTBGkQ4MPU https://t.co/txRHxkOn5C
-26,0.0,Mon Mar 19 15:02:02 +0000 2018,0.0,1.0,BBC,0.0,27,'Flabbergasted'. 🎶This is the incredible moment when eight London teenagers heard a live opera singer for the first… https://t.co/jNki4Z61SE
-27,0.0,Mon Mar 19 14:30:08 +0000 2018,0.0,1.0,BBC,0.0,28,"Meet the dancing slum kids tipped for stardom by Rihanna 🎶
-https://t.co/R61fzQGIzd https://t.co/wGcvBKmdaZ"
-28,0.6588,Mon Mar 19 13:44:55 +0000 2018,0.0,0.788,BBC,0.212,29,"RT @bbcgetinspired: The Nation's Billion Steps Challenge is here! 🙌 
+https://t.co/qfJThHowXC",27
+28,0.0,Mon Mar 19 16:33:29 +0000 2018,0.0,1.0,BBC,0.0,Here are the latest snow scenes from around the UK. ❄️📸 https://t.co/eTBGkQ4MPU https://t.co/txRHxkOn5C,28
+29,0.0,Mon Mar 19 15:02:02 +0000 2018,0.0,1.0,BBC,0.0,'Flabbergasted'. 🎶This is the incredible moment when eight London teenagers heard a live opera singer for the first… https://t.co/jNki4Z61SE,29
+30,0.0,Mon Mar 19 14:30:08 +0000 2018,0.0,1.0,BBC,0.0,"Meet the dancing slum kids tipped for stardom by Rihanna 🎶
+https://t.co/R61fzQGIzd https://t.co/wGcvBKmdaZ",30
+31,0.6588,Mon Mar 19 13:44:55 +0000 2018,0.0,0.788,BBC,0.212,"RT @bbcgetinspired: The Nation's Billion Steps Challenge is here! 🙌 
 
-Yesterday we did an amazing 431 million steps – can we do even better…"
-29,-0.3412,Mon Mar 19 13:03:04 +0000 2018,0.112,0.888,BBC,0.0,30,"💭 ""There's always that voice in the back of your head that says you're not good enough"". 
+Yesterday we did an amazing 431 million steps – can we do even better…",31
+32,-0.3412,Mon Mar 19 13:03:04 +0000 2018,0.112,0.888,BBC,0.0,"💭 ""There's always that voice in the back of your head that says you're not good enough"". 
 
- 💪 @CarrieHFletcher on b… https://t.co/0AsBxFFiQA"
-30,0.0,Mon Mar 19 12:55:17 +0000 2018,0.0,1.0,BBC,0.0,31,RT @BBCRadioScot: This must have been some buzz! 🐝🐝🐝 https://t.co/0gqtbQBN1i
-31,0.0,Mon Mar 19 12:30:05 +0000 2018,0.0,1.0,BBC,0.0,32,Where are the UK's youngest and oldest city populations? https://t.co/eIU7UzqHBS https://t.co/vdXMTDluuX
-32,-0.0516,Mon Mar 19 11:50:58 +0000 2018,0.107,0.893,BBC,0.0,33,RT @BBCSport: This 102-shot badminton rally will leave you exhausted... https://t.co/LFC4r4iwiz
-33,0.4588,Mon Mar 19 11:33:04 +0000 2018,0.0,0.857,BBC,0.143,34,"Have you got a passion for plants? 🌿🌸🌱🍃🌷
+ 💪 @CarrieHFletcher on b… https://t.co/0AsBxFFiQA",32
+33,0.0,Mon Mar 19 12:55:17 +0000 2018,0.0,1.0,BBC,0.0,RT @BBCRadioScot: This must have been some buzz! 🐝🐝🐝 https://t.co/0gqtbQBN1i,33
+34,0.0,Mon Mar 19 12:30:05 +0000 2018,0.0,1.0,BBC,0.0,Where are the UK's youngest and oldest city populations? https://t.co/eIU7UzqHBS https://t.co/vdXMTDluuX,34
+35,-0.0516,Mon Mar 19 11:50:58 +0000 2018,0.107,0.893,BBC,0.0,RT @BBCSport: This 102-shot badminton rally will leave you exhausted... https://t.co/LFC4r4iwiz,35
+36,0.4588,Mon Mar 19 11:33:04 +0000 2018,0.0,0.857,BBC,0.143,"Have you got a passion for plants? 🌿🌸🌱🍃🌷
 
-Test your knowledge of all things foliage in this quiz. 👉… https://t.co/evogV5ljAc"
-34,0.0,Mon Mar 19 10:53:19 +0000 2018,0.0,1.0,BBC,0.0,35,"RT @BBCSport: 🎉 The Commonwealth Games are almost upon us! 🎉
+Test your knowledge of all things foliage in this quiz. 👉… https://t.co/evogV5ljAc",36
+37,0.0,Mon Mar 19 10:53:19 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCSport: 🎉 The Commonwealth Games are almost upon us! 🎉
 
-Scotland's Lynsey Sharp has given us the inside track on preparing for succes…"
-35,0.5106,Mon Mar 19 10:33:03 +0000 2018,0.0,0.837,BBC,0.163,36,The oldest dog that the Dogs Trust has ever looked after has been given a new home. ❤️️🐶https://t.co/h0WQHkfMEf https://t.co/ixb7gesOIj
-36,-0.3818,Mon Mar 19 09:58:24 +0000 2018,0.191,0.809,BBC,0.0,37,"RT @BBCR1: Desperately searching for any signs of spring like... 🌸
+Scotland's Lynsey Sharp has given us the inside track on preparing for succes…",37
+38,0.5106,Mon Mar 19 10:33:03 +0000 2018,0.0,0.837,BBC,0.163,The oldest dog that the Dogs Trust has ever looked after has been given a new home. ❤️️🐶https://t.co/h0WQHkfMEf https://t.co/ixb7gesOIj,38
+39,-0.3818,Mon Mar 19 09:58:24 +0000 2018,0.191,0.809,BBC,0.0,"RT @BBCR1: Desperately searching for any signs of spring like... 🌸
 
-#MondayMotivation https://t.co/9jo3h4C7bu"
-37,0.4199,Mon Mar 19 09:58:15 +0000 2018,0.0,0.843,BBC,0.157,38,"RT @BBCRadioWales: ❄️ Snowy Cardiff! ⛄️ 
+#MondayMotivation https://t.co/9jo3h4C7bu",39
+40,0.4199,Mon Mar 19 09:58:15 +0000 2018,0.0,0.843,BBC,0.157,"RT @BBCRadioWales: ❄️ Snowy Cardiff! ⛄️ 
 
 What’s it like for you?
 
 #ButePark 
 #Cardiff 
 #MiniBeast
-#Snow https://t.co/O8gY1qjHVE"
-38,0.0,Mon Mar 19 09:58:10 +0000 2018,0.0,1.0,BBC,0.0,39,"RT @BBCNews: Stem cell transplant ""game changer"" for MS patients https://t.co/BGWtdtXUAP"
-39,0.128,Mon Mar 19 09:57:58 +0000 2018,0.079,0.789,BBC,0.133,40,RT @BBCBreakfast: Anyone want to play a game of spot Tracey's feet? Our floor manager Tracey had to dive behind the sofa to avoid being on…
-40,0.3642,Mon Mar 19 09:32:02 +0000 2018,0.0,0.848,BBC,0.152,41,"'Who wants a normal life?' We should all be a little more like @chessmartinez. 👏💖 #LiveAtTheApollo
+#Snow https://t.co/O8gY1qjHVE",40
+41,0.0,Mon Mar 19 09:58:10 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCNews: Stem cell transplant ""game changer"" for MS patients https://t.co/BGWtdtXUAP",41
+42,0.128,Mon Mar 19 09:57:58 +0000 2018,0.079,0.789,BBC,0.133,RT @BBCBreakfast: Anyone want to play a game of spot Tracey's feet? Our floor manager Tracey had to dive behind the sofa to avoid being on…,42
+43,0.3642,Mon Mar 19 09:32:02 +0000 2018,0.0,0.848,BBC,0.152,"'Who wants a normal life?' We should all be a little more like @chessmartinez. 👏💖 #LiveAtTheApollo
 
-https://t.co/VddL8zWJfS"
-41,0.0,Mon Mar 19 09:27:50 +0000 2018,0.0,1.0,BBC,0.0,42,"RT @BBCWthrWatchers: Some incredible photos sent in last night of the #Auroraborealis from Skye Woody, Cumbrian stargazer and DJStewie.  Di…"
-42,0.5994,Mon Mar 19 08:45:02 +0000 2018,0.0,0.738,BBC,0.262,43,Beautiful spring blossom in south-west China has been captured by drone https://t.co/WTo7JjiKXw
-43,-0.296,Mon Mar 19 08:02:00 +0000 2018,0.109,0.891,BBC,0.0,44,"🤔 Should we still be worried about the hole in the ozone layer?
+https://t.co/VddL8zWJfS",43
+44,0.0,Mon Mar 19 09:27:50 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCWthrWatchers: Some incredible photos sent in last night of the #Auroraborealis from Skye Woody, Cumbrian stargazer and DJStewie.  Di…",44
+45,0.5994,Mon Mar 19 08:45:02 +0000 2018,0.0,0.738,BBC,0.262,Beautiful spring blossom in south-west China has been captured by drone https://t.co/WTo7JjiKXw,45
+46,-0.296,Mon Mar 19 08:02:00 +0000 2018,0.109,0.891,BBC,0.0,"🤔 Should we still be worried about the hole in the ozone layer?
 
-🌤 @SimonOKing and @clarenasir investigate in their… https://t.co/SZV3Df9y0t"
-44,0.0,Sun Mar 18 20:30:11 +0000 2018,0.0,1.0,BBC,0.0,45,"🏃💪 @LesDennis, @SimplySusannah, @Tameka_Empson and Miles Jupp embark on a muscle-grinding mission to regain their f… https://t.co/B1rXaalmk2"
-45,0.0258,Sun Mar 18 20:03:04 +0000 2018,0.086,0.824,BBC,0.09,46,👎💌 Fans of K-Pop boyband member @IBGDRGN have been asked to stop sending fan mail to the army base where he's doing… https://t.co/ojtDZ3gMfb
-46,0.5994,Sun Mar 18 19:33:04 +0000 2018,0.0,0.803,BBC,0.197,47,"Saoirse Ronan stars as Eilis, a young girl who jumps at the chance of a better life when she emigrates to New York.… https://t.co/NtHAfh6cjZ"
-47,-0.5994,Sun Mar 18 18:44:02 +0000 2018,0.163,0.837,BBC,0.0,48,"Ruth Ellis was only 28 when she became the last woman hanged to death in the UK. 
+🌤 @SimonOKing and @clarenasir investigate in their… https://t.co/SZV3Df9y0t",46
+47,0.0,Sun Mar 18 20:30:11 +0000 2018,0.0,1.0,BBC,0.0,"🏃💪 @LesDennis, @SimplySusannah, @Tameka_Empson and Miles Jupp embark on a muscle-grinding mission to regain their f… https://t.co/B1rXaalmk2",47
+48,0.0258,Sun Mar 18 20:03:04 +0000 2018,0.086,0.824,BBC,0.09,👎💌 Fans of K-Pop boyband member @IBGDRGN have been asked to stop sending fan mail to the army base where he's doing… https://t.co/ojtDZ3gMfb,48
+49,0.5994,Sun Mar 18 19:33:04 +0000 2018,0.0,0.803,BBC,0.197,"Saoirse Ronan stars as Eilis, a young girl who jumps at the chance of a better life when she emigrates to New York.… https://t.co/NtHAfh6cjZ",49
+50,-0.5994,Sun Mar 18 18:44:02 +0000 2018,0.163,0.837,BBC,0.0,"Ruth Ellis was only 28 when she became the last woman hanged to death in the UK. 
 
-#TheRuthEllisFiles | Watch on… https://t.co/5kUIFtom7t"
-48,0.204,Sun Mar 18 18:34:14 +0000 2018,0.077,0.772,BBC,0.151,49,"RT @BBC_TopGear: 840bhp goes a little like this…
+#TheRuthEllisFiles | Watch on… https://t.co/5kUIFtom7t",50
+51,0.204,Sun Mar 18 18:34:14 +0000 2018,0.077,0.772,BBC,0.151,"RT @BBC_TopGear: 840bhp goes a little like this…
 
-@Matt_LeBlanc takes the Dodge Challenger SRT #Demon to the drag strip in this Sunday’s @T…"
-49,0.7331,Sun Mar 18 17:18:12 +0000 2018,0.0,0.66,BBC,0.34,50,"RT @bbcthree: Be honest, do you think you'll be this fit at 81? https://t.co/Eca0uGCF6b"
-50,0.0,Sun Mar 18 17:04:03 +0000 2018,0.0,1.0,BBC,0.0,51,"🍎🗑 How much food do you throw away? If you're a typical Brit, you probably think it's hardly any.
+@Matt_LeBlanc takes the Dodge Challenger SRT #Demon to the drag strip in this Sunday’s @T…",51
+52,0.7331,Sun Mar 18 17:18:12 +0000 2018,0.0,0.66,BBC,0.34,"RT @bbcthree: Be honest, do you think you'll be this fit at 81? https://t.co/Eca0uGCF6b",52
+53,0.0,Sun Mar 18 17:04:03 +0000 2018,0.0,1.0,BBC,0.0,"🍎🗑 How much food do you throw away? If you're a typical Brit, you probably think it's hardly any.
 
-You're in denial… https://t.co/0bSCbRrZJr"
-51,0.0,Sun Mar 18 16:33:17 +0000 2018,0.0,1.0,BBC,0.0,52,"❤️️📸Zun Lee wants his photography to give a balanced and nuanced portrayal of black fatherhood.
+You're in denial… https://t.co/0bSCbRrZJr",53
+54,0.0,Sun Mar 18 16:33:17 +0000 2018,0.0,1.0,BBC,0.0,"❤️️📸Zun Lee wants his photography to give a balanced and nuanced portrayal of black fatherhood.
 
-👉… https://t.co/LodRrr27fd"
-52,0.0,Sun Mar 18 15:41:04 +0000 2018,0.0,1.0,BBC,0.0,53,"🤰 A doctor explains why you can get pregnant and give birth without having a baby bump. 
-👉 https://t.co/nVrSpQoTOT https://t.co/iEEOjZdBKL"
-53,0.0772,Sun Mar 18 14:33:07 +0000 2018,0.0,0.947,BBC,0.053,54,RT @BBCEngland: A number of runners have held their own half-marathon in Reading after the official event was called off due to the snowy w…
-54,0.0,Sun Mar 18 14:28:23 +0000 2018,0.0,1.0,BBC,0.0,55,RT @BBCSport: They’ve done it! Gold for GB’s Menna Fitzpatrick and Jen Kehoe in the visually impaired slalom at the Winter Paralympics. And…
-55,0.0,Sun Mar 18 14:18:01 +0000 2018,0.0,1.0,BBC,0.0,56,📱🚗 Why a rise in electric cars could also mean a hike in the cost of your next phone. https://t.co/6i5xFQgRIW
-56,0.6369,Sun Mar 18 14:08:37 +0000 2018,0.0,0.682,BBC,0.318,57,RT @BBC6Music: ✏️ Which song has the greatest opening line?
-57,0.3182,Sun Mar 18 13:45:03 +0000 2018,0.0,0.905,BBC,0.095,58,🎤Pop music is awash with those that released one hit album and never followed it up. Here are 7 huge artists that o… https://t.co/4ukT9drcdG
-58,0.0,Sun Mar 18 13:00:08 +0000 2018,0.0,1.0,BBC,0.0,59,"🍔😲 Would you eat a burger pie?  
-#BackInTimeForTea https://t.co/zGWzJwdSlM"
-59,0.0,Sun Mar 18 12:29:50 +0000 2018,0.0,1.0,BBC,0.0,60,RT @BBCOne: If food is the language of love... https://t.co/5hnYovE94o
-60,-0.4588,Sun Mar 18 11:43:04 +0000 2018,0.167,0.833,BBC,0.0,61,"Ever wondered why David Bowie wore an eye patch?
+👉… https://t.co/LodRrr27fd",54
+55,0.0,Sun Mar 18 15:41:04 +0000 2018,0.0,1.0,BBC,0.0,"🤰 A doctor explains why you can get pregnant and give birth without having a baby bump. 
+👉 https://t.co/nVrSpQoTOT https://t.co/iEEOjZdBKL",55
+56,0.0772,Sun Mar 18 14:33:07 +0000 2018,0.0,0.947,BBC,0.053,RT @BBCEngland: A number of runners have held their own half-marathon in Reading after the official event was called off due to the snowy w…,56
+57,0.0,Sun Mar 18 14:28:23 +0000 2018,0.0,1.0,BBC,0.0,RT @BBCSport: They’ve done it! Gold for GB’s Menna Fitzpatrick and Jen Kehoe in the visually impaired slalom at the Winter Paralympics. And…,57
+58,0.0,Sun Mar 18 14:18:01 +0000 2018,0.0,1.0,BBC,0.0,📱🚗 Why a rise in electric cars could also mean a hike in the cost of your next phone. https://t.co/6i5xFQgRIW,58
+59,0.6369,Sun Mar 18 14:08:37 +0000 2018,0.0,0.682,BBC,0.318,RT @BBC6Music: ✏️ Which song has the greatest opening line?,59
+60,0.3182,Sun Mar 18 13:45:03 +0000 2018,0.0,0.905,BBC,0.095,🎤Pop music is awash with those that released one hit album and never followed it up. Here are 7 huge artists that o… https://t.co/4ukT9drcdG,60
+61,0.0,Sun Mar 18 13:00:08 +0000 2018,0.0,1.0,BBC,0.0,"🍔😲 Would you eat a burger pie?  
+#BackInTimeForTea https://t.co/zGWzJwdSlM",61
+62,0.0,Sun Mar 18 12:29:50 +0000 2018,0.0,1.0,BBC,0.0,RT @BBCOne: If food is the language of love... https://t.co/5hnYovE94o,62
+63,-0.4588,Sun Mar 18 11:43:04 +0000 2018,0.167,0.833,BBC,0.0,"Ever wondered why David Bowie wore an eye patch?
 
 Strange things artists have worn on stage and the reasons why. 
-👉… https://t.co/8zSBXQkLvy"
-61,0.4939,Sun Mar 18 10:30:04 +0000 2018,0.0,0.826,BBC,0.174,62,"🍞🥖 Want to learn how to bake bread?
+👉… https://t.co/8zSBXQkLvy",63
+64,0.4939,Sun Mar 18 10:30:04 +0000 2018,0.0,0.826,BBC,0.174,"🍞🥖 Want to learn how to bake bread?
 
-These easy to follow recipes and step-by-step videos will have you baking ever… https://t.co/iXEmj5WJdD"
-62,-0.4215,Sun Mar 18 10:00:08 +0000 2018,0.259,0.741,BBC,0.0,63,"“I regret spending £50,000 on my wedding.” https://t.co/6PxJsDf9dn https://t.co/eJdx7KMmmK"
-63,0.0,Sun Mar 18 09:30:03 +0000 2018,0.0,1.0,BBC,0.0,64,"How to be 20 on the inside, even when you’re 80 on the outside... https://t.co/KB2mqpkrIB"
-64,0.656,Sun Mar 18 09:19:33 +0000 2018,0.061,0.727,BBC,0.212,65,"RT @BBCNews: Snow and ice are bringing disruption to many parts of the UK - but they're not stopping everyone from having fun 🐶❄️
+These easy to follow recipes and step-by-step videos will have you baking ever… https://t.co/iXEmj5WJdD",64
+65,-0.4215,Sun Mar 18 10:00:08 +0000 2018,0.259,0.741,BBC,0.0,"“I regret spending £50,000 on my wedding.” https://t.co/6PxJsDf9dn https://t.co/eJdx7KMmmK",65
+66,0.0,Sun Mar 18 09:30:03 +0000 2018,0.0,1.0,BBC,0.0,"How to be 20 on the inside, even when you’re 80 on the outside... https://t.co/KB2mqpkrIB",66
+67,0.656,Sun Mar 18 09:19:33 +0000 2018,0.061,0.727,BBC,0.212,"RT @BBCNews: Snow and ice are bringing disruption to many parts of the UK - but they're not stopping everyone from having fun 🐶❄️
 
-https://…"
-65,0.0,Sun Mar 18 09:10:02 +0000 2018,0.0,1.0,BBC,0.0,66,"RT @bbc5live: The beast from the east is back ❄️🌨️
+https://…",67
+68,0.0,Sun Mar 18 09:10:02 +0000 2018,0.0,1.0,BBC,0.0,"RT @bbc5live: The beast from the east is back ❄️🌨️
 
 You've been in touch this morning with your #uksnow pics, here are just a few...
 
-What'…"
-66,0.0,Sat Mar 17 20:02:01 +0000 2018,0.0,1.0,BBC,0.0,67,"These seven celebrities are about to go on the journey of a lifetime... #Pilgrimage
-https://t.co/m45UBXJew2"
-67,0.0,Sat Mar 17 19:21:02 +0000 2018,0.0,1.0,BBC,0.0,68,Can we just take a moment to discuss Eddie Redmanyne's coats?https://t.co/odVkhWyRKs
-68,0.0,Sat Mar 17 18:32:01 +0000 2018,0.0,1.0,BBC,0.0,69,"Ouch! 😂🔥@GordonRamsay's daughter is hilarious... 
-https://t.co/0dqwntX5uj"
-69,0.3612,Sat Mar 17 18:03:04 +0000 2018,0.0,0.857,BBC,0.143,70,"🐜1⃣2⃣3⃣Sir David Attenborough explores whether there is counting in the natural world. 
+What'…",68
+69,0.0,Sat Mar 17 20:02:01 +0000 2018,0.0,1.0,BBC,0.0,"These seven celebrities are about to go on the journey of a lifetime... #Pilgrimage
+https://t.co/m45UBXJew2",69
+70,0.0,Sat Mar 17 19:21:02 +0000 2018,0.0,1.0,BBC,0.0,Can we just take a moment to discuss Eddie Redmanyne's coats?https://t.co/odVkhWyRKs,70
+71,0.0,Sat Mar 17 18:32:01 +0000 2018,0.0,1.0,BBC,0.0,"Ouch! 😂🔥@GordonRamsay's daughter is hilarious... 
+https://t.co/0dqwntX5uj",71
+72,0.3612,Sat Mar 17 18:03:04 +0000 2018,0.0,0.857,BBC,0.143,"🐜1⃣2⃣3⃣Sir David Attenborough explores whether there is counting in the natural world. 
 
-David Attenborough's Natur… https://t.co/Q4H4uXR4pt"
-70,0.3182,Sat Mar 17 17:30:07 +0000 2018,0.0,0.901,BBC,0.099,71,One of the writers for The Simpsons has told @BBCNewsbeat Stephen Hawking was such a big fan of the show - he'd sho… https://t.co/Jjer3V4cYk
-71,0.4767,Sat Mar 17 17:00:08 +0000 2018,0.0,0.785,BBC,0.215,72,"🎓📚 'The moment I gave Reese Witherspoon my Legally Blonde dissertation... and yes, it was scented.'
-👉… https://t.co/z8x5mqqKoW"
-72,0.0,Sat Mar 17 16:39:39 +0000 2018,0.0,1.0,BBC,0.0,73,RT @BBCWorld: Blossom in south-west China captured by drone https://t.co/gIDKUn1La6
-73,0.0,Sat Mar 17 15:03:12 +0000 2018,0.0,1.0,BBC,0.0,74,"This year, over 250 landmarks across the globe are going green for #StPatricksDay! 🍀 https://t.co/TlWqU0TXQT https://t.co/i4sW4OaGrQ"
-74,0.0,Sat Mar 17 14:43:43 +0000 2018,0.0,1.0,BBC,0.0,75,"RT @BBCRadio3: ""Even if we found a complete theory of the universe, it wouldn't remove the need for music"" - #StephenHawking
-https://t.co/t…"
-75,0.8625,Sat Mar 17 14:00:30 +0000 2018,0.0,0.699,BBC,0.301,76,⛷❤️ George has autism and other health conditions - but his love of skiing is helping him take on the outside world. https://t.co/kfCzRzkcNY
-76,0.3628,Sat Mar 17 13:46:15 +0000 2018,0.073,0.784,BBC,0.143,77,"RT @5liveSport: 'My mates didn't know I was playing @realmadrid'
+David Attenborough's Natur… https://t.co/Q4H4uXR4pt",72
+73,0.3182,Sat Mar 17 17:30:07 +0000 2018,0.0,0.901,BBC,0.099,One of the writers for The Simpsons has told @BBCNewsbeat Stephen Hawking was such a big fan of the show - he'd sho… https://t.co/Jjer3V4cYk,73
+74,0.4767,Sat Mar 17 17:00:08 +0000 2018,0.0,0.785,BBC,0.215,"🎓📚 'The moment I gave Reese Witherspoon my Legally Blonde dissertation... and yes, it was scented.'
+👉… https://t.co/z8x5mqqKoW",74
+75,0.0,Sat Mar 17 16:39:39 +0000 2018,0.0,1.0,BBC,0.0,RT @BBCWorld: Blossom in south-west China captured by drone https://t.co/gIDKUn1La6,75
+76,0.0,Sat Mar 17 15:03:12 +0000 2018,0.0,1.0,BBC,0.0,"This year, over 250 landmarks across the globe are going green for #StPatricksDay! 🍀 https://t.co/TlWqU0TXQT https://t.co/i4sW4OaGrQ",76
+77,0.0,Sat Mar 17 14:43:43 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCRadio3: ""Even if we found a complete theory of the universe, it wouldn't remove the need for music"" - #StephenHawking
+https://t.co/t…",77
+78,0.8625,Sat Mar 17 14:00:30 +0000 2018,0.0,0.699,BBC,0.301,⛷❤️ George has autism and other health conditions - but his love of skiing is helping him take on the outside world. https://t.co/kfCzRzkcNY,78
+79,0.3628,Sat Mar 17 13:46:15 +0000 2018,0.073,0.784,BBC,0.143,"RT @5liveSport: 'My mates didn't know I was playing @realmadrid'
 
 @ManUtd's @carras16 tells @ColinMurray his friends keep him grounded…
 
-'A…"
-77,0.4019,Sat Mar 17 13:00:08 +0000 2018,0.0,0.881,BBC,0.119,78,"Yes, Gary Oldman and @BBCEastEnders' Big Mo are brother and sister. 
+'A…",79
+80,0.4019,Sat Mar 17 13:00:08 +0000 2018,0.0,0.881,BBC,0.119,"Yes, Gary Oldman and @BBCEastEnders' Big Mo are brother and sister. 
 
-But do you know these other celeb family ties… https://t.co/dtzMwD3nBB"
-78,-0.7244,Sat Mar 17 12:39:41 +0000 2018,0.336,0.664,BBC,0.0,79,"RT @BBCOne: .@NiallOfficial won't let fame get to his head - Ireland won't allow it. 
+But do you know these other celeb family ties… https://t.co/dtzMwD3nBB",80
+81,-0.7244,Sat Mar 17 12:39:41 +0000 2018,0.336,0.664,BBC,0.0,"RT @BBCOne: .@NiallOfficial won't let fame get to his head - Ireland won't allow it. 
 
-Happy #StPatricksDay 🍀 https://t.co/OrWR94HStF"
-79,0.5106,Sat Mar 17 12:00:09 +0000 2018,0.112,0.643,BBC,0.245,80,♻️🗑 This shop encourages you to bring your own container from home to save on single-use plastic waste. https://t.co/TdHJSycKtO
-80,0.8883,Sat Mar 17 11:30:09 +0000 2018,0.0,0.488,BBC,0.512,81,🇮🇪 🍀 Celebrate #StPatricksDay in true Irish style with these delicious recipes! 👉https://t.co/2MCMlz6K0B https://t.co/k18P3Syx2N
-81,0.6249,Sat Mar 17 11:03:05 +0000 2018,0.0,0.796,BBC,0.204,82,From scrambled eggs to chilli-spiced crisps: here are six great ways to cook with kale. 😋👉https://t.co/lqKD1h83Iv https://t.co/yWESBJm62q
-82,0.6996,Sat Mar 17 10:14:25 +0000 2018,0.066,0.658,BBC,0.276,83,RT @BBCTwo: Happy #StPatricksDay! Check out what's lurking beneath the calm waters of Ireland's west coast... 🇮🇪🦈 https://t.co/6MQgyLTlIr
-83,0.0,Sat Mar 17 10:00:02 +0000 2018,0.0,1.0,BBC,0.0,84,"🎶🐦 Did you know that bullfinches can learn to sing a tune by mimicking humans?
+Happy #StPatricksDay 🍀 https://t.co/OrWR94HStF",81
+82,0.5106,Sat Mar 17 12:00:09 +0000 2018,0.112,0.643,BBC,0.245,♻️🗑 This shop encourages you to bring your own container from home to save on single-use plastic waste. https://t.co/TdHJSycKtO,82
+83,0.8883,Sat Mar 17 11:30:09 +0000 2018,0.0,0.488,BBC,0.512,🇮🇪 🍀 Celebrate #StPatricksDay in true Irish style with these delicious recipes! 👉https://t.co/2MCMlz6K0B https://t.co/k18P3Syx2N,83
+84,0.6249,Sat Mar 17 11:03:05 +0000 2018,0.0,0.796,BBC,0.204,From scrambled eggs to chilli-spiced crisps: here are six great ways to cook with kale. 😋👉https://t.co/lqKD1h83Iv https://t.co/yWESBJm62q,84
+85,0.6996,Sat Mar 17 10:14:25 +0000 2018,0.066,0.658,BBC,0.276,RT @BBCTwo: Happy #StPatricksDay! Check out what's lurking beneath the calm waters of Ireland's west coast... 🇮🇪🦈 https://t.co/6MQgyLTlIr,85
+86,0.0,Sat Mar 17 10:00:02 +0000 2018,0.0,1.0,BBC,0.0,"🎶🐦 Did you know that bullfinches can learn to sing a tune by mimicking humans?
 
-🔊 Sound on for this one!  https://t.co/44OFulioZp"
-84,-0.7717,Sat Mar 17 09:39:19 +0000 2018,0.251,0.749,BBC,0.0,85,"RT @BBCEngland: Stephen Hawking's PhD thesis has been viewed 250,000 times online since news of his death broke on Wednesday, the Universit…"
-85,0.6369,Sat Mar 17 09:00:06 +0000 2018,0.0,0.714,BBC,0.286,86,"Ready to get active?
+🔊 Sound on for this one!  https://t.co/44OFulioZp",86
+87,-0.7717,Sat Mar 17 09:39:19 +0000 2018,0.251,0.749,BBC,0.0,"RT @BBCEngland: Stephen Hawking's PhD thesis has been viewed 250,000 times online since news of his death broke on Wednesday, the Universit…",87
+88,0.6369,Sat Mar 17 09:00:06 +0000 2018,0.0,0.714,BBC,0.286,"Ready to get active?
 🏃 Here are 5 ways you can get involved in #SportRelief2018. 
-👉 https://t.co/wmKUWBDBjp https://t.co/xr7g5Hw4PK"
-86,0.7783,Fri Mar 16 19:38:34 +0000 2018,0.0,0.726,BBC,0.274,87,"RT @BBCR1: This guy just raised over a million pounds for @sportrelief 🙌🏻
+👉 https://t.co/wmKUWBDBjp https://t.co/xr7g5Hw4PK",88
+89,0.7783,Fri Mar 16 19:38:34 +0000 2018,0.0,0.726,BBC,0.274,"RT @BBCR1: This guy just raised over a million pounds for @sportrelief 🙌🏻
 
-Congratulations on completing a truly mammoth task @gregjames, w…"
-87,0.4926,Fri Mar 16 18:31:01 +0000 2018,0.0,0.61,BBC,0.39,88,💪😲⚽️ Keepy-uppy the good work! https://t.co/lFtKEBxjNJ
-88,0.5719,Fri Mar 16 17:00:25 +0000 2018,0.0,0.791,BBC,0.209,89,❤️🎧 Bradley has never let Asperger's hold him back from doing what he loves. https://t.co/5JFvIXeDSZ
-89,0.0,Fri Mar 16 16:30:01 +0000 2018,0.0,1.0,BBC,0.0,90,"Running for the door on a Friday afternoon like...
-#FridayFeeling https://t.co/optoQcK1TV"
-90,0.0,Fri Mar 16 16:00:00 +0000 2018,0.0,1.0,BBC,0.0,91,🔊🎵Jarvis Cocker describes the dream-like experience of visiting La Monte Young's Dreamhouse.… https://t.co/O9u7sPRL5m
-91,0.0,Fri Mar 16 14:25:15 +0000 2018,0.0,1.0,BBC,0.0,92,"RT @BBCR1: The gruelling task of climbing Ben Nevis in underway for @gregjames after cycling 180 miles in a day and a half!
+Congratulations on completing a truly mammoth task @gregjames, w…",89
+90,0.4926,Fri Mar 16 18:31:01 +0000 2018,0.0,0.61,BBC,0.39,💪😲⚽️ Keepy-uppy the good work! https://t.co/lFtKEBxjNJ,90
+91,0.5719,Fri Mar 16 17:00:25 +0000 2018,0.0,0.791,BBC,0.209,❤️🎧 Bradley has never let Asperger's hold him back from doing what he loves. https://t.co/5JFvIXeDSZ,91
+92,0.0,Fri Mar 16 16:30:01 +0000 2018,0.0,1.0,BBC,0.0,"Running for the door on a Friday afternoon like...
+#FridayFeeling https://t.co/optoQcK1TV",92
+93,0.0,Fri Mar 16 16:00:00 +0000 2018,0.0,1.0,BBC,0.0,🔊🎵Jarvis Cocker describes the dream-like experience of visiting La Monte Young's Dreamhouse.… https://t.co/O9u7sPRL5m,93
+94,0.0,Fri Mar 16 14:25:15 +0000 2018,0.0,1.0,BBC,0.0,"RT @BBCR1: The gruelling task of climbing Ben Nevis in underway for @gregjames after cycling 180 miles in a day and a half!
 
-Don't know abo…"
-92,0.34,Fri Mar 16 14:00:13 +0000 2018,0.0,0.841,BBC,0.159,93,Prepare to get that warm fuzzy feeling - the man who photobombed his wife 11 years before he met her:… https://t.co/iZBJ8dEKhz
-93,0.6124,Fri Mar 16 12:59:01 +0000 2018,0.0,0.667,BBC,0.333,94,🤔🎨 Why are soap bubbles such gorgeous colours? https://t.co/ppaXTcvWRZ
-94,0.3612,Fri Mar 16 12:38:40 +0000 2018,0.0,0.902,BBC,0.098,95,"RT @BBCNewsPR: Get ready to make the headlines. 
+Don't know abo…",94
+95,0.34,Fri Mar 16 14:00:13 +0000 2018,0.0,0.841,BBC,0.159,Prepare to get that warm fuzzy feeling - the man who photobombed his wife 11 years before he met her:… https://t.co/iZBJ8dEKhz,95
+96,0.6124,Fri Mar 16 12:59:01 +0000 2018,0.0,0.667,BBC,0.333,🤔🎨 Why are soap bubbles such gorgeous colours? https://t.co/ppaXTcvWRZ,96
+97,0.3612,Fri Mar 16 12:38:40 +0000 2018,0.0,0.902,BBC,0.098,"RT @BBCNewsPR: Get ready to make the headlines. 
 
-Try out our new BBC iReporter game, putting you in the heart of the newsroom #BBCSchoolRe…"
-95,-0.6486,Fri Mar 16 12:00:04 +0000 2018,0.238,0.762,BBC,0.0,96,"😂 Fights, funerals, and giant furry heads... @BBCThree lifts the lid on the lives of English football's mascots
-👉… https://t.co/gEYxoetlah"
-96,0.5574,Fri Mar 16 10:45:24 +0000 2018,0.0,0.841,BBC,0.159,97,"RT @BBCRadio2: It's with a heavy heart that today we announce, after 18 fantastic years, @realLynnBowles is leaving Radio 2. 😢
+Try out our new BBC iReporter game, putting you in the heart of the newsroom #BBCSchoolRe…",97
+98,-0.6486,Fri Mar 16 12:00:04 +0000 2018,0.238,0.762,BBC,0.0,"😂 Fights, funerals, and giant furry heads... @BBCThree lifts the lid on the lives of English football's mascots
+👉… https://t.co/gEYxoetlah",98
+99,0.5574,Fri Mar 16 10:45:24 +0000 2018,0.0,0.841,BBC,0.159,"RT @BBCRadio2: It's with a heavy heart that today we announce, after 18 fantastic years, @realLynnBowles is leaving Radio 2. 😢
 
-@realkenbru…"
-97,0.0,Fri Mar 16 10:02:00 +0000 2018,0.0,1.0,BBC,0.0,98,Are you getting enough sleep? This simple test will tell you... 🥄😴#WorldSleepDay https://t.co/SP28dsdLSf
-98,0.4939,Fri Mar 16 09:35:56 +0000 2018,0.0,0.814,BBC,0.186,99,"RT @bbcthree: the dancing in taylor swift's new video seems pretty familiar 
+@realkenbru…",99
+100,0.6996,Tue Mar 20 23:50:01 +0000 2018,0.0,0.746,CBC,0.254,"@AndorianIP @CBCDetectives Thanks for the thoughtful words about the show &amp; why it appeals to you, Andorian! Intere… https://t.co/43N9geJ9rh",0
+101,0.6239,Tue Mar 20 23:47:30 +0000 2018,0.0,0.611,CBC,0.389,"@Devin_Heroux @GregCKXS @CKXS @cbcsports Lol! Working on it, Devin ;-)",1
+102,-0.296,Tue Mar 20 23:46:39 +0000 2018,0.104,0.896,CBC,0.0,"@AndorianIP @CBCDetectives No word yet re: S2, Andorian. We generally have news about show renewals by May, and we'… https://t.co/FdbLENz5aV",2
+103,0.9323,Tue Mar 20 23:41:41 +0000 2018,0.067,0.4,CBC,0.533,"@WesleyCoughlan @22_Minutes Excellent! Glad you stuck around and are going for a comedy double bill tonight, Wesley! Enjoy :)",3
+104,0.9392,Tue Mar 20 23:40:31 +0000 2018,0.0,0.297,CBC,0.703,"@richardagain Fair enough, Richard. We appreciate you sharing such a thoughtful response! Thanks  :)",4
+105,0.8588,Tue Mar 20 23:39:38 +0000 2018,0.0,0.572,CBC,0.428,"@MarisaPulice @ewokninja Noted, Marisa! We'll certainly be sharing your feedback about this one as well. Thanks for tweeting.",5
+106,-0.2714,Tue Mar 20 23:38:07 +0000 2018,0.114,0.829,CBC,0.057,"@GregCKXS @Devin_Heroux @CKXS We suspected many would be having Olympic (and Devin) withdrawal, Greg! We'll be sure… https://t.co/UvoK1s6X6q",6
+107,0.9244,Tue Mar 20 23:26:02 +0000 2018,0.0,0.511,CBC,0.489,"@WesleyCoughlan So glad you're tuning in tonight, Wesley! Hope your family is loving tonight's episode :) @Mercer_Report @rickmercer",7
+108,0.8573,Tue Mar 20 23:25:00 +0000 2018,0.0,0.597,CBC,0.403,"@moosefan62 @CBCDetectives So pleased you're enjoying The Detectives, Marilyn! We'll be sure your request for more… https://t.co/XhmukjudG2",8
+109,0.8921,Tue Mar 20 23:23:55 +0000 2018,0.0,0.53,CBC,0.47,@whatdoesdave @CaughtCBC @allanhawco @PaulGross_ @enukaokuma So glad you're loving #CaughtCBC! Thanks for letting u… https://t.co/mZakfLYu6B,9
+110,0.7901,Tue Mar 20 23:21:26 +0000 2018,0.0,0.417,CBC,0.583,"@CreelmanKid @TheCdnAcademy Excellent, David! Carry on :)",10
+111,0.6588,Tue Mar 20 23:18:38 +0000 2018,0.0,0.527,CBC,0.473,@puppymcpooch Agreed! Connor McIntyre is a dynamo :) #Corrie,11
+112,0.9133,Tue Mar 20 23:15:17 +0000 2018,0.0,0.441,CBC,0.559,"@marabscott @WorkinMoms So glad to hear it, Mara! Hope you enjoy tonight's episode :)",12
+113,0.8814,Tue Mar 20 23:12:01 +0000 2018,0.0,0.555,CBC,0.445,"@ewokninja You're welcome, JT. And we can certainly relay your feedback about the headline.. Thanks again for tweeting!",13
+114,0.9353,Tue Mar 20 23:10:41 +0000 2018,0.0,0.436,CBC,0.564,@SocialTekOttawa @CBCComedy Those chips really look delicious! Glad to hear the ketchup was a success :),14
+115,0.4003,Tue Mar 20 23:09:44 +0000 2018,0.206,0.424,CBC,0.369,"@puppymcpooch Lol! Exactly, McPooch. Lying all over the place :)",15
+116,0.7773,Tue Mar 20 23:06:01 +0000 2018,0.0,0.657,CBC,0.343,@LucasAgentE @AmitaiMars Very exciting news indeed! Can't wait to see Amitai in the role :),16
+117,0.2481,Tue Mar 20 23:03:08 +0000 2018,0.169,0.542,CBC,0.289,@puppymcpooch Blush away! We all know Pat lies like a rug ;-) #corrietruths,17
+118,0.577,Tue Mar 20 23:01:12 +0000 2018,0.0,0.596,CBC,0.404,@WorkinMoms Wouldn't miss it for the world! :)  #WorkinMoms,18
+119,0.0976,Tue Mar 20 23:00:08 +0000 2018,0.143,0.692,CBC,0.165,"@CBCRadioCanada @ici_cote_nord @CBCSHOP With an image like that, how could we not follow?? :)",19
+120,0.69,Tue Mar 20 22:59:29 +0000 2018,0.0,0.749,CBC,0.251,@puppymcpooch Ha! This has grown to be the favourite part of our evening: #Corrie recapping with McPooch :) #loveCBC,20
+121,0.8579,Tue Mar 20 22:56:18 +0000 2018,0.0,0.514,CBC,0.486,@SocialTekOttawa @CBCComedy Can't wait to try this! Thanks for sharing the recipe :),21
+122,0.4019,Tue Mar 20 22:42:28 +0000 2018,0.231,0.452,CBC,0.317,"@jasonsmom1984 @CBCComedy Using ketchup to make ketchup chips = an honest mistake, no? :)",22
+123,0.4767,Tue Mar 20 22:30:01 +0000 2018,0.0,0.853,CBC,0.147,Canada's @kaetlyn_23 will look to follow up on her thrilling bronze-medal performance from the Olympics when she re… https://t.co/VbH7F3ons4,23
+124,0.0,Tue Mar 20 22:12:19 +0000 2018,0.0,1.0,CBC,0.0,@capjkkirk @PopMythology Looking forward to it!,24
+125,0.8553,Tue Mar 20 22:10:14 +0000 2018,0.0,0.615,CBC,0.385,"@CreelmanKid @TheCdnAcademy Glad you're getting a chance to check it out, David! It was such a great night. Sounds… https://t.co/p9G8BlaQRo",25
+126,0.3612,Tue Mar 20 22:03:53 +0000 2018,0.0,0.815,CBC,0.185,@mdeluca921 @KDSS_KNIGHTS @rickmercer @Mercer_Report @PlanGlobal @myFMshoreline @allhailtravis Looks like this was… https://t.co/bWZKooilfT,26
+127,0.7088,Tue Mar 20 21:59:54 +0000 2018,0.0,0.718,CBC,0.282,"@capjkkirk @allanhawco @CaughtCBC @PopMythology Thanks for the rave review, Captain J. Kirk! We appreciate you shar… https://t.co/tNfhSOfBqT",27
+128,0.9411,Tue Mar 20 21:37:24 +0000 2018,0.0,0.275,CBC,0.725,@SmokeEater303 @CBCComedy Lol! That face is perfect! Thanks for sharing :),28
+129,0.8398,Tue Mar 20 21:33:26 +0000 2018,0.0,0.55,CBC,0.45,"@NewsRudy @YouTube @TheJUNOAwards @Strongmanmusic @CBCMusic @rockitdeb @strutent Thanks for sharing this clip, Rudy! :)",29
+130,0.0,Tue Mar 20 21:30:01 +0000 2018,0.0,1.0,CBC,0.0,"""Making my own ketchup chips. Talk me through it. So I bought some ketchup."" | @CBCComedy https://t.co/9czvsHg3f7",30
+131,0.8622,Tue Mar 20 21:26:36 +0000 2018,0.0,0.625,CBC,0.375,"@jamjamrn This is such a fantastic photo, Judy! Thanks for sharing it. We're looping in @CBCMurdoch, so they'll see… https://t.co/6MPRzQP1om",31
+132,0.2942,Tue Mar 20 21:16:31 +0000 2018,0.124,0.693,CBC,0.183,"@20C_mod_fan @cbcdocs Regrets, 20CModernFan! Due to internet streaming rights, all Passionate Eye docs are geofence… https://t.co/hwkty5tCsd",32
+133,0.5859,Tue Mar 20 21:04:43 +0000 2018,0.0,0.798,CBC,0.202,@coachv014 Hi Lance. Please rest assured that we will report your concerns about this ad to our ad operations depar… https://t.co/ozsvIXuQfI,33
+134,0.8221,Tue Mar 20 21:01:56 +0000 2018,0.096,0.478,CBC,0.426,"@richmanwisco @CNBC No apologies necessary, Rich! Thanks for letting us know &amp; carry on :)",34
+135,0.0,Tue Mar 20 19:54:26 +0000 2018,0.0,1.0,CBC,0.0,@Alishtor @ShannonEason3 @HeartlandOnCBC @graham714 @MichelleMorgan_ @ImVictoriaPratt @Amber_Marshall… https://t.co/DslNmyN8r1,35
+136,0.9312,Tue Mar 20 19:49:25 +0000 2018,0.0,0.466,CBC,0.534,"@richmanwisco Thanks for sharing your feedback, Rich! We appreciate hearing your thoughts. Just to ensure we're on… https://t.co/hiLDAh6NqA",36
+137,0.7644,Tue Mar 20 19:42:53 +0000 2018,0.0,0.721,CBC,0.279,"@GabrieleRoy Glad you enjoyed that article, Gabrièle! If you have follow-up questions about the data (&amp; pie charts)… https://t.co/M79igOyo04",37
+138,0.906,Tue Mar 20 19:41:30 +0000 2018,0.0,0.532,CBC,0.468,"@hmjoneswriter @CBCKids Thanks for sharing your piece, Heather! You gave us a whole new appreciation of Mr. Rogers :)",38
+139,0.0,Tue Mar 20 19:34:06 +0000 2018,0.0,1.0,CBC,0.0,@Alishtor @peratp @HeartlandOnCBC @graham714 @MichelleMorgan_ @ImVictoriaPratt @Amber_Marshall @The_Real_ShaunJ… https://t.co/NXrHECHOa0,39
+140,0.2003,Tue Mar 20 19:33:00 +0000 2018,0.12,0.684,CBC,0.196,"@IceyRedcups @AirCanada Regret to hear that, Uchiha! We recommend reaching out to the Go Public team for assistance… https://t.co/KiVyhdBEeL",40
+141,0.0,Tue Mar 20 19:30:00 +0000 2018,0.0,1.0,CBC,0.0,"Eskasoni, N.S., is taking steps to preserve its Indigenous language among the next generation | @CBCIndigenous… https://t.co/uP3h9BgaE6",41
+142,0.0,Tue Mar 20 19:21:19 +0000 2018,0.0,1.0,CBC,0.0,@Alishtor @HeartlandOnCBC @graham714 @MichelleMorgan_ @ImVictoriaPratt @Amber_Marshall @The_Real_ShaunJ @kaitdubz… https://t.co/DDbZZtNcCe,42
+143,0.8893,Tue Mar 20 18:55:43 +0000 2018,0.0,0.603,CBC,0.397,"@IanJames007 Glad you caught that SNL sketch, Ian! We were so delighted when the CBC gem appeared onscreen :)",43
+144,0.9134,Tue Mar 20 18:50:43 +0000 2018,0.0,0.506,CBC,0.494,"@globalatomic Always happy to see a Burton Kramer shout-out, Global Atomic! Thanks for sharing the pic :) #loveCBC",44
+145,0.8718,Tue Mar 20 18:48:31 +0000 2018,0.0,0.336,CBC,0.664,"@ShellyNekuda42 @CBCArts Sounds like a great idea, Shelly! :)",45
+146,0.694,Tue Mar 20 18:40:59 +0000 2018,0.0,0.768,CBC,0.232,"@ewokninja Hi JT. ""Terrific person"" is in quotes in the headline because those words are from a direct quote from s… https://t.co/I0YC7zXhp1",46
+147,0.0,Tue Mar 20 18:30:00 +0000 2018,0.0,1.0,CBC,0.0,"""The social media generation has revolutionized the way people communicate."" | @CBCNews https://t.co/vbEDGEf10R",47
+148,0.906,Tue Mar 20 18:28:46 +0000 2018,0.0,0.328,CBC,0.672,"@Beavertrucks Thanks for sharing that advice, BeaverTrucks! Much appreciated :)",48
+149,0.1872,Tue Mar 20 18:11:43 +0000 2018,0.105,0.75,CBC,0.145,@LordPingoz Hi there. We're exactly not sure. Looping in @cbc_archives to see if they can help,49
+150,-0.2244,Tue Mar 20 17:54:26 +0000 2018,0.161,0.718,CBC,0.121,@anxious_andrea Everyone needs to let out a big ugly #HelloGoodCry every once and a while. It's only healthy! Thank… https://t.co/iFMqAW2WXQ,50
+151,0.0,Tue Mar 20 17:42:15 +0000 2018,0.0,1.0,CBC,0.0,"RT @KimsConvenience: Which #KimsConvenience character do you think you relate to the most?
+If you don't see your choice, reply to tell us!…",51
+152,0.9359,Tue Mar 20 17:41:43 +0000 2018,0.0,0.395,CBC,0.605,@dluthor2 All is good over here! Enjoying the sunshine &amp; getting ready for spring :),52
+153,0.8883,Tue Mar 20 17:26:13 +0000 2018,0.0,0.439,CBC,0.561,@dluthor2 @cbcdocs Hope that clip helps put a smile on your face today. Enjoy!,53
+154,0.9258,Tue Mar 20 17:23:14 +0000 2018,0.0,0.509,CBC,0.491,"@PIPAnimation Love it! Working in character - very ""method"" of all of you! Thanks for sharing a pic :) #PiratesPassage",54
+155,0.9117,Tue Mar 20 17:04:54 +0000 2018,0.0,0.544,CBC,0.456,"@agotoronto @masseyhall @banffcentre Thanks for sharing that info &amp; link, AGO! Looks like this will be a great disc… https://t.co/lhHyRfBHNU",55
+156,0.4404,Tue Mar 20 17:00:11 +0000 2018,0.0,0.786,CBC,0.214,"@WiliamBlount Hi Will. Thank you for reaching out to us. We would like to address your concerns, but would request… https://t.co/8FjJfItHei",56
+157,0.6486,Tue Mar 20 16:56:17 +0000 2018,0.0,0.569,CBC,0.431,"@richardagain Not a fan of this year's nominees, Richard? :)",57
+158,0.1867,Tue Mar 20 16:55:34 +0000 2018,0.0,0.902,CBC,0.098,"RT @SchittsCreek: Something's brewing at Rose Apothecary... don't miss all-new #SchittsCreek, tonight at 9/9:30NT on @CBC! https://t.co/hqy…",58
+159,0.4926,Tue Mar 20 16:44:50 +0000 2018,0.0,0.842,CBC,0.158,@signofariana Hi Alex! Thanks for the suggestion. Ever considered submitting that pitch? You can do so at: https://t.co/bWdKjM7zrb,59
+160,0.9308,Tue Mar 20 16:42:41 +0000 2018,0.0,0.502,CBC,0.498,"@dluthor2 @cbcdocs Glad you saw that clip, Derick! We are squealing with joy over here. So adorable :)",60
+161,0.3382,Tue Mar 20 16:40:52 +0000 2018,0.0,0.626,CBC,0.374,"@KeldaLarsen Indeed, Kelda! Well said.",61
+162,0.5411,Tue Mar 20 16:34:49 +0000 2018,0.0,0.845,CBC,0.155,"RT @CBCMusic: #CBCMusicFest returns for its sixth year on May 26th! The largest, all-Canadian music festival will include headliners @julyt…",62
+163,0.7345,Tue Mar 20 16:34:01 +0000 2018,0.0,0.708,CBC,0.292,"@capjkkirk @allanhawco @CaughtCBC @PopMythology Excellent, Captain J. Kirk! Can you share a link with us once it's… https://t.co/LqInHZPuO6",63
+164,0.3802,Tue Mar 20 16:30:02 +0000 2018,0.0,0.88,CBC,0.12,"This year's #JUNOS Fan Choice category is stacked! Watch, listen or stream on March 25, and learn more at  … https://t.co/2g7bBnDF8I",64
+165,0.7424,Tue Mar 20 16:22:32 +0000 2018,0.0,0.389,CBC,0.611,@dluthor2 Glad to hear it! :),65
+166,0.8016,Tue Mar 20 16:21:29 +0000 2018,0.0,0.676,CBC,0.324,"@Repinerator @TorrensJonathan @CBCComedy Glad you loved that one as much as we did, Repinerator! @TorrensJonathan i… https://t.co/9yab1Ew6vL",66
+167,0.9368,Tue Mar 20 16:13:02 +0000 2018,0.0,0.527,CBC,0.473,"@dluthor2 Howdy, Derick! Thanks for the love. How's your Tuesday going so far? Happy first day of spring :) #loveCBC",67
+168,0.4939,Tue Mar 20 16:05:37 +0000 2018,0.0,0.789,CBC,0.211,Watch these adorable Arctic fox puppies take their first steps: https://t.co/vzOgOBIMtk | @cbcdocs https://t.co/IpLP1DmfmH,68
+169,0.857,Tue Mar 20 15:55:56 +0000 2018,0.051,0.632,CBC,0.317,"@blaufman @Steve618 @CBCFrankieDrake Hi Brian! No word just yet, but we promise to tweet &amp; share info as soon as we have it :)",69
+170,-0.3595,Tue Mar 20 15:47:16 +0000 2018,0.128,0.872,CBC,0.0,"@Steve618 @CBCFrankieDrake Hi Steven! No word just yet. Generally, we announce all show renewals in spring (around… https://t.co/RNP4ybyOnG",70
+171,0.0,Tue Mar 20 15:30:02 +0000 2018,0.0,1.0,CBC,0.0,"Could you recognize any of Canada's Indigenous languages if you heard it being spoken in public? | @CBCArts
+https://t.co/96RFzrWRtZ",71
+172,0.8588,Tue Mar 20 13:49:06 +0000 2018,0.0,0.513,CBC,0.487,"@woolqueen2 @CBCMurdoch You're welcome, Nancy. Hope you enjoyed the finale last night! #Lovecbc",72
+173,0.0,Tue Mar 20 13:44:36 +0000 2018,0.0,1.0,CBC,0.0,"@Miss_Mousie Hi. In the past we have broadcast seasons 1-3 in the summer, so stay tuned for summer programming anno… https://t.co/zEzOJp09LI",73
+174,0.4404,Tue Mar 20 00:52:19 +0000 2018,0.0,0.847,CBC,0.153,"@soo_cee2017 @Msdmurph @bimmerella @POTUS @BBCWorld @CTVNews Pleased to be included on your list of go-tos, SueCeeQ… https://t.co/jdQZuMLR5w",74
+175,0.8475,Tue Mar 20 00:50:47 +0000 2018,0.0,0.662,CBC,0.338,"@leafsman @ITisSunshinexo So happy to hear you're loving it! We're cc-ing @CBCDetectives, so they'll know you've be… https://t.co/ghLfPyQgYm",75
+176,0.2617,Tue Mar 20 00:49:23 +0000 2018,0.085,0.779,CBC,0.136,"@HacheFilardi @TorontoStar @globeandmail @tdsb Regrets, Ernesto. We don't do external RTs, but we can share this ti… https://t.co/MmDwgYYCp2",76
+177,0.5093,Tue Mar 20 00:47:59 +0000 2018,0.0,0.82,CBC,0.18,"@sinclairm @SimuLiu @KimsConvenience It's never too late to get into @KimsConvenience, Meghan! Glad you're enjoying… https://t.co/SSuZZ2yHQ1",77
+178,0.6369,Tue Mar 20 00:30:00 +0000 2018,0.0,0.682,CBC,0.318,When's the best time to buy a plane ticket?  | @CBChellogoodbye https://t.co/PcFBbPXGdh,78
+179,0.7345,Tue Mar 20 00:05:11 +0000 2018,0.0,0.744,CBC,0.256,"@puppymcpooch Ah, McPooch. Have we thanked you lately for your tweets? Your #Corrie commentary is unparalleled. Total game changer! :)",79
+180,0.9239,Mon Mar 19 23:57:04 +0000 2018,0.0,0.512,CBC,0.488,"@Lamchop99 @allanhawco Thanks for sharing the stellar review, Lisa Ann! So thrilled you're loving @CaughtCBC. We ha… https://t.co/JDL7bWzFut",80
+181,0.0,Mon Mar 19 23:52:34 +0000 2018,0.0,1.0,CBC,0.0,"@maritimebhangra @Mercer_Report @rickmercer Looking forward to catching your appearance twice, Maritime Bhangra! Th… https://t.co/FpSLDB1XTc",81
+182,0.7177,Mon Mar 19 23:50:32 +0000 2018,0.0,0.728,CBC,0.272,"@jodyvance @nbcsnl Glad you caught that @nbcsnl sketch, Jody! Hilarious, though we did catch ourselves thinking: ""D… https://t.co/JTY6XKSxmp",82
+183,0.4926,Mon Mar 19 23:47:04 +0000 2018,0.0,0.803,CBC,0.197,"@TheTerribleHook @santac1019 @louford1 @ShaftesburyTV @CBCMurdoch Aha! Thanks for clarifying, Hook. We can definite… https://t.co/etAfpon8PC",83
+184,0.8908,Mon Mar 19 23:38:00 +0000 2018,0.0,0.487,CBC,0.513,"@YPI_cares Thanks for helping to spread the word, YPI Canada! Pleased you enjoyed that interactive.",84
+185,0.9381,Mon Mar 19 23:37:12 +0000 2018,0.0,0.415,CBC,0.585,@BrendanMalakym Excellent! Glad you're enjoying @cbcdragon online. We also appreciate the feedback you've shared re… https://t.co/HcaX859nh0,85
+186,0.8478,Mon Mar 19 23:23:14 +0000 2018,0.0,0.579,CBC,0.421,"@Tweezerpants @CBCComedy Glad you were a fan &amp; we can certainly share that request, Tweezerpants! Still many produc… https://t.co/AA02UmgWsE",86
+187,0.8553,Mon Mar 19 23:18:12 +0000 2018,0.0,0.598,CBC,0.402,"@jessicabezanson Excellent! Sounds like you are checking out lots of different programming, Jessica. Thanks for let… https://t.co/IqjWhsqys4",87
+188,0.8016,Mon Mar 19 23:12:16 +0000 2018,0.083,0.564,CBC,0.353,"@DianesDigitals @CBCMurdoch @stevenbuechler Excellent! We are, too. No idea how things are going to play out tonight :) #nailbiting",88
+189,0.865,Mon Mar 19 23:10:33 +0000 2018,0.0,0.591,CBC,0.409,"@puppymcpooch Ha! We were wondering if you were watching tonight, McPooch! Oh my praises, indeed! :) #Corrie",89
+190,0.5551,Mon Mar 19 22:57:33 +0000 2018,0.0,0.817,CBC,0.183,@DianesDigitals @CBCMurdoch @stevenbuechler So glad you'll be watching tonight! Can't wait to hear your thoughts on… https://t.co/yuxSS98isq,90
+191,0.0,Mon Mar 19 22:30:00 +0000 2018,0.0,1.0,CBC,0.0,"""Can you hold please?"" | @CBCComedy https://t.co/uMT6W4u8oO",91
+192,0.7088,Mon Mar 19 22:27:51 +0000 2018,0.0,0.718,CBC,0.282,"@Roopanova @CBCNews @CBCEdmonton Thanks for the assist with the tagging, Roopnova! We appreciate it, and the feedback.",92
+193,0.0,Mon Mar 19 21:54:09 +0000 2018,0.0,1.0,CBC,0.0,@eleanor70001 @CBCNature @DavidSuzuki Hi Eleanor! #CBCTNoT airs Sunday evenings at 8 p.m. on CBC-TV. To see which e… https://t.co/omthdRGZQo,93
+194,0.7177,Mon Mar 19 21:37:13 +0000 2018,0.0,0.7,CBC,0.3,"@cbc_archives Such an interesting clip, CBC Archives! Clarke was way ahead of the curve - always :)",94
+195,0.0,Mon Mar 19 21:31:34 +0000 2018,0.0,1.0,CBC,0.0,"@TheTerribleHook @santac1019 @louford1 @ShaftesburyTV We do know you are a @CBCMurdoch diehard, Hook! We don't have… https://t.co/nBpoyxejAG",95
+196,0.8271,Mon Mar 19 21:30:00 +0000 2018,0.0,0.609,CBC,0.391,"Congratulations to aquakultre, winner of @CBCMusic's #Searchlight2018. Learn more about his redemptive story:
 
-CC @ChrisLilley https://t.co/MfA9usnqSb"
-99,0.6486,Fri Mar 16 09:35:50 +0000 2018,0.0,0.813,BBC,0.187,100,"RT @BBCEngland: Oscar-winning British short film The Silent Child is to be shown on BBC One on Good Friday, giving UK viewers the first cha…"
-100,0.8883,Tue Mar 20 17:26:13 +0000 2018,0.0,0.439,CBC,0.561,1,@dluthor2 @cbcdocs Hope that clip helps put a smile on your face today. Enjoy!
-101,0.9258,Tue Mar 20 17:23:14 +0000 2018,0.0,0.509,CBC,0.491,2,"@PIPAnimation Love it! Working in character - very ""method"" of all of you! Thanks for sharing a pic :) #PiratesPassage"
-102,0.9117,Tue Mar 20 17:04:54 +0000 2018,0.0,0.544,CBC,0.456,3,"@agotoronto @masseyhall @banffcentre Thanks for sharing that info &amp; link, AGO! Looks like this will be a great disc… https://t.co/lhHyRfBHNU"
-103,0.4404,Tue Mar 20 17:00:11 +0000 2018,0.0,0.786,CBC,0.214,4,"@WiliamBlount Hi Will. Thank you for reaching out to us. We would like to address your concerns, but would request… https://t.co/8FjJfItHei"
-104,0.6486,Tue Mar 20 16:56:17 +0000 2018,0.0,0.569,CBC,0.431,5,"@richardagain Not a fan of this year's nominees, Richard? :)"
-105,0.1867,Tue Mar 20 16:55:34 +0000 2018,0.0,0.902,CBC,0.098,6,"RT @SchittsCreek: Something's brewing at Rose Apothecary... don't miss all-new #SchittsCreek, tonight at 9/9:30NT on @CBC! https://t.co/hqy…"
-106,0.4926,Tue Mar 20 16:44:50 +0000 2018,0.0,0.842,CBC,0.158,7,@signofariana Hi Alex! Thanks for the suggestion. Ever considered submitting that pitch? You can do so at: https://t.co/bWdKjM7zrb
-107,0.9308,Tue Mar 20 16:42:41 +0000 2018,0.0,0.502,CBC,0.498,8,"@dluthor2 @cbcdocs Glad you saw that clip, Derick! We are squealing with joy over here. So adorable :)"
-108,0.3382,Tue Mar 20 16:40:52 +0000 2018,0.0,0.626,CBC,0.374,9,"@KeldaLarsen Indeed, Kelda! Well said."
-109,0.5411,Tue Mar 20 16:34:49 +0000 2018,0.0,0.845,CBC,0.155,10,"RT @CBCMusic: #CBCMusicFest returns for its sixth year on May 26th! The largest, all-Canadian music festival will include headliners @julyt…"
-110,0.7345,Tue Mar 20 16:34:01 +0000 2018,0.0,0.708,CBC,0.292,11,"@capjkkirk @allanhawco @CaughtCBC @PopMythology Excellent, Captain J. Kirk! Can you share a link with us once it's… https://t.co/LqInHZPuO6"
-111,0.3802,Tue Mar 20 16:30:02 +0000 2018,0.0,0.88,CBC,0.12,12,"This year's #JUNOS Fan Choice category is stacked! Watch, listen or stream on March 25, and learn more at  … https://t.co/2g7bBnDF8I"
-112,0.7424,Tue Mar 20 16:22:32 +0000 2018,0.0,0.389,CBC,0.611,13,@dluthor2 Glad to hear it! :)
-113,0.8016,Tue Mar 20 16:21:29 +0000 2018,0.0,0.676,CBC,0.324,14,"@Repinerator @TorrensJonathan @CBCComedy Glad you loved that one as much as we did, Repinerator! @TorrensJonathan i… https://t.co/9yab1Ew6vL"
-114,0.9368,Tue Mar 20 16:13:02 +0000 2018,0.0,0.527,CBC,0.473,15,"@dluthor2 Howdy, Derick! Thanks for the love. How's your Tuesday going so far? Happy first day of spring :) #loveCBC"
-115,0.4939,Tue Mar 20 16:05:37 +0000 2018,0.0,0.789,CBC,0.211,16,Watch these adorable Arctic fox puppies take their first steps: https://t.co/vzOgOBIMtk | @cbcdocs https://t.co/IpLP1DmfmH
-116,0.857,Tue Mar 20 15:55:56 +0000 2018,0.051,0.632,CBC,0.317,17,"@blaufman @Steve618 @CBCFrankieDrake Hi Brian! No word just yet, but we promise to tweet &amp; share info as soon as we have it :)"
-117,-0.3595,Tue Mar 20 15:47:16 +0000 2018,0.128,0.872,CBC,0.0,18,"@Steve618 @CBCFrankieDrake Hi Steven! No word just yet. Generally, we announce all show renewals in spring (around… https://t.co/RNP4ybyOnG"
-118,0.0,Tue Mar 20 15:30:02 +0000 2018,0.0,1.0,CBC,0.0,19,"Could you recognize any of Canada's Indigenous languages if you heard it being spoken in public? | @CBCArts
-https://t.co/96RFzrWRtZ"
-119,0.8588,Tue Mar 20 13:49:06 +0000 2018,0.0,0.513,CBC,0.487,20,"@woolqueen2 @CBCMurdoch You're welcome, Nancy. Hope you enjoyed the finale last night! #Lovecbc"
-120,0.0,Tue Mar 20 13:44:36 +0000 2018,0.0,1.0,CBC,0.0,21,"@Miss_Mousie Hi. In the past we have broadcast seasons 1-3 in the summer, so stay tuned for summer programming anno… https://t.co/zEzOJp09LI"
-121,0.4404,Tue Mar 20 00:52:19 +0000 2018,0.0,0.847,CBC,0.153,22,"@soo_cee2017 @Msdmurph @bimmerella @POTUS @BBCWorld @CTVNews Pleased to be included on your list of go-tos, SueCeeQ… https://t.co/jdQZuMLR5w"
-122,0.8475,Tue Mar 20 00:50:47 +0000 2018,0.0,0.662,CBC,0.338,23,"@leafsman @ITisSunshinexo So happy to hear you're loving it! We're cc-ing @CBCDetectives, so they'll know you've be… https://t.co/ghLfPyQgYm"
-123,0.2617,Tue Mar 20 00:49:23 +0000 2018,0.085,0.779,CBC,0.136,24,"@HacheFilardi @TorontoStar @globeandmail @tdsb Regrets, Ernesto. We don't do external RTs, but we can share this ti… https://t.co/MmDwgYYCp2"
-124,0.5093,Tue Mar 20 00:47:59 +0000 2018,0.0,0.82,CBC,0.18,25,"@sinclairm @SimuLiu @KimsConvenience It's never too late to get into @KimsConvenience, Meghan! Glad you're enjoying… https://t.co/SSuZZ2yHQ1"
-125,0.6369,Tue Mar 20 00:30:00 +0000 2018,0.0,0.682,CBC,0.318,26,When's the best time to buy a plane ticket?  | @CBChellogoodbye https://t.co/PcFBbPXGdh
-126,0.7345,Tue Mar 20 00:05:11 +0000 2018,0.0,0.744,CBC,0.256,27,"@puppymcpooch Ah, McPooch. Have we thanked you lately for your tweets? Your #Corrie commentary is unparalleled. Total game changer! :)"
-127,0.9239,Mon Mar 19 23:57:04 +0000 2018,0.0,0.512,CBC,0.488,28,"@Lamchop99 @allanhawco Thanks for sharing the stellar review, Lisa Ann! So thrilled you're loving @CaughtCBC. We ha… https://t.co/JDL7bWzFut"
-128,0.0,Mon Mar 19 23:52:34 +0000 2018,0.0,1.0,CBC,0.0,29,"@maritimebhangra @Mercer_Report @rickmercer Looking forward to catching your appearance twice, Maritime Bhangra! Th… https://t.co/FpSLDB1XTc"
-129,0.7177,Mon Mar 19 23:50:32 +0000 2018,0.0,0.728,CBC,0.272,30,"@jodyvance @nbcsnl Glad you caught that @nbcsnl sketch, Jody! Hilarious, though we did catch ourselves thinking: ""D… https://t.co/JTY6XKSxmp"
-130,0.4926,Mon Mar 19 23:47:04 +0000 2018,0.0,0.803,CBC,0.197,31,"@TheTerribleHook @santac1019 @louford1 @ShaftesburyTV @CBCMurdoch Aha! Thanks for clarifying, Hook. We can definite… https://t.co/etAfpon8PC"
-131,0.8908,Mon Mar 19 23:38:00 +0000 2018,0.0,0.487,CBC,0.513,32,"@YPI_cares Thanks for helping to spread the word, YPI Canada! Pleased you enjoyed that interactive."
-132,0.9381,Mon Mar 19 23:37:12 +0000 2018,0.0,0.415,CBC,0.585,33,@BrendanMalakym Excellent! Glad you're enjoying @cbcdragon online. We also appreciate the feedback you've shared re… https://t.co/HcaX859nh0
-133,0.8478,Mon Mar 19 23:23:14 +0000 2018,0.0,0.579,CBC,0.421,34,"@Tweezerpants @CBCComedy Glad you were a fan &amp; we can certainly share that request, Tweezerpants! Still many produc… https://t.co/AA02UmgWsE"
-134,0.8553,Mon Mar 19 23:18:12 +0000 2018,0.0,0.598,CBC,0.402,35,"@jessicabezanson Excellent! Sounds like you are checking out lots of different programming, Jessica. Thanks for let… https://t.co/IqjWhsqys4"
-135,0.8016,Mon Mar 19 23:12:16 +0000 2018,0.083,0.564,CBC,0.353,36,"@DianesDigitals @CBCMurdoch @stevenbuechler Excellent! We are, too. No idea how things are going to play out tonight :) #nailbiting"
-136,0.865,Mon Mar 19 23:10:33 +0000 2018,0.0,0.591,CBC,0.409,37,"@puppymcpooch Ha! We were wondering if you were watching tonight, McPooch! Oh my praises, indeed! :) #Corrie"
-137,0.5551,Mon Mar 19 22:57:33 +0000 2018,0.0,0.817,CBC,0.183,38,@DianesDigitals @CBCMurdoch @stevenbuechler So glad you'll be watching tonight! Can't wait to hear your thoughts on… https://t.co/yuxSS98isq
-138,0.0,Mon Mar 19 22:30:00 +0000 2018,0.0,1.0,CBC,0.0,39,"""Can you hold please?"" | @CBCComedy https://t.co/uMT6W4u8oO"
-139,0.7088,Mon Mar 19 22:27:51 +0000 2018,0.0,0.718,CBC,0.282,40,"@Roopanova @CBCNews @CBCEdmonton Thanks for the assist with the tagging, Roopnova! We appreciate it, and the feedback."
-140,0.0,Mon Mar 19 21:54:09 +0000 2018,0.0,1.0,CBC,0.0,41,@eleanor70001 @CBCNature @DavidSuzuki Hi Eleanor! #CBCTNoT airs Sunday evenings at 8 p.m. on CBC-TV. To see which e… https://t.co/omthdRGZQo
-141,0.7177,Mon Mar 19 21:37:13 +0000 2018,0.0,0.7,CBC,0.3,42,"@cbc_archives Such an interesting clip, CBC Archives! Clarke was way ahead of the curve - always :)"
-142,0.0,Mon Mar 19 21:31:34 +0000 2018,0.0,1.0,CBC,0.0,43,"@TheTerribleHook @santac1019 @louford1 @ShaftesburyTV We do know you are a @CBCMurdoch diehard, Hook! We don't have… https://t.co/nBpoyxejAG"
-143,0.8271,Mon Mar 19 21:30:00 +0000 2018,0.0,0.609,CBC,0.391,44,"Congratulations to aquakultre, winner of @CBCMusic's #Searchlight2018. Learn more about his redemptive story:
+https://t.co/5NSft98bRO",96
+197,0.923,Mon Mar 19 21:21:26 +0000 2018,0.0,0.495,CBC,0.505,@gloryosky @CaughtCBC Thanks for sharing the link and spreading the word! Hope you're excited for tonight's episode :) #CaughtCBC,97
+198,0.9199,Mon Mar 19 21:04:27 +0000 2018,0.0,0.433,CBC,0.567,"@TheTerribleHook @santac1019 @louford1 Really lovely words for the writers, Hook! Thanks for sharing :)",98
+199,0.5093,Mon Mar 19 20:43:20 +0000 2018,0.0,0.829,CBC,0.171,"@Jocelynlovestv @allanhawco The exclamation points say it all, Jocelyn! Glad you're stoked for tonight's episode :)… https://t.co/uM2cXNpFp4",99
+200,0.4215,Wed Mar 21 03:46:06 +0000 2018,0.0,0.833,CNN,0.167,United Airlines says it is suspending a program that transports pets in cargo holds https://t.co/q4OT7uEEzT https://t.co/oCdnFGbalE,0
+201,0.0,Wed Mar 21 03:31:06 +0000 2018,0.0,1.0,CNN,0.0,Uber cofounder Travis Kalanick -- who was ousted as Uber's CEO last June -- is hiring for his newest gig… https://t.co/vDphJOozcn,1
+202,-0.4767,Wed Mar 21 03:16:04 +0000 2018,0.162,0.838,CNN,0.0,"Cambridge Analytica has suspended CEO Alexander Nix, the latest development in a complicated story involving the em… https://t.co/Zip5BdjeIo",2
+203,0.0,Wed Mar 21 03:02:18 +0000 2018,0.0,1.0,CNN,0.0,WhatsApp cofounder Brian Acton has a message for Facebook users: Delete Facebook. https://t.co/fhYGtoqcro,3
+204,0.4019,Wed Mar 21 03:01:02 +0000 2018,0.0,0.863,CNN,0.137,"""As we wait for legislative reforms aimed at tackling recidivism, America's private businesses can help put a stop… https://t.co/GDXMW7lhcj",4
+205,0.5719,Wed Mar 21 02:49:36 +0000 2018,0.0,0.764,CNN,0.236,"Billionaire Pritzker wins Dem nomination in Illinois Governor's race, CNN projects https://t.co/7R7w5EIcjT https://t.co/BztAiaq33j",5
+206,0.6037,Wed Mar 21 02:46:04 +0000 2018,0.0,0.812,CNN,0.188,"""DO NOT CONGRATULATE"" tells you everything you need to know about Donald Trump's psyche | Analysis by @CillizzaCNN… https://t.co/CxdDtnaV4E",6
+207,0.0,Wed Mar 21 02:36:04 +0000 2018,0.0,1.0,CNN,0.0,Ohio might soon have an official state dog. 12 other states already do: https://t.co/NplMFp1JwG https://t.co/d8rmMibvDj,7
+208,-0.5106,Wed Mar 21 02:31:07 +0000 2018,0.199,0.707,CNN,0.093,"""The death of gentle giant Sudan is a loss for the world. But we don't have to let it be in vain,"" writes Jill Fili… https://t.co/D7Mo3FfVt7",8
+209,-0.6705,Wed Mar 21 02:16:03 +0000 2018,0.22,0.78,CNN,0.0,Uber's self-driving car fatality draws national scrutiny as local and federal investigators continue to examine the… https://t.co/q8eiT3OEmt,9
+210,0.4019,Wed Mar 21 02:11:06 +0000 2018,0.0,0.87,CNN,0.13,"President Trump said Rick Saccone ""didn't quite make it"" in the Pennsylvania special election, despite the fact tha… https://t.co/RRPgmHg7r4",10
+211,-0.3612,Wed Mar 21 02:09:35 +0000 2018,0.135,0.865,CNN,0.0,A Holocaust denier is now officially the Republican nominee in a Chicago-area House race after running unopposed in… https://t.co/iY0begq1Wr,11
+212,-0.296,Wed Mar 21 02:07:37 +0000 2018,0.157,0.756,CNN,0.087,Exclusive: Scientist at center of data controversy says Facebook is making him a scapegoat https://t.co/dQwpcz8jdU https://t.co/IsuNboAGhd,12
+213,-0.0516,Wed Mar 21 02:01:07 +0000 2018,0.079,0.921,CNN,0.0,A Cambridge Analytica researcher touted data mining in a speech in Russia four years ago https://t.co/gg9ihdgKOW https://t.co/vhZclSt6uB,13
+214,-0.3818,Wed Mar 21 01:50:08 +0000 2018,0.115,0.885,CNN,0.0,"White House Legislative Affairs Director Marc Short tells CNN there are ""too many obstacles to tackle"" to be able t… https://t.co/OreBEZofSj",14
+215,-0.8555,Wed Mar 21 01:42:10 +0000 2018,0.356,0.644,CNN,0.0,"Anemia is emerging as a threat that can double the risk of death in pregnant women, according to a new study https://t.co/pZwhhbyZdA",15
+216,-0.5267,Wed Mar 21 01:38:45 +0000 2018,0.196,0.804,CNN,0.0,"FBI Director Christopher Wray says he feels no political pressure from the White House and President Trump has ""nev… https://t.co/j4febjvZBk",16
+217,0.0,Wed Mar 21 01:31:20 +0000 2018,0.0,1.0,CNN,0.0,"RT @AC360: In an interview with @AndersonCooper, the attorneys for Stormy Daniels and Michael Cohen clashed over whether President Donald T…",17
+218,0.3875,Wed Mar 21 01:30:24 +0000 2018,0.0,0.884,CNN,0.116,"RT @cnnbrk: Austin police say the latest reported package incident involved an incendiary device, not a bomb. Right now, authorities do not…",18
+219,0.2057,Wed Mar 21 01:24:52 +0000 2018,0.0,0.908,CNN,0.092,"The Austin Police Department says the reported explosion was not a bomb, but rather an incendiary device.
 
-https://t.co/5NSft98bRO"
-144,0.923,Mon Mar 19 21:21:26 +0000 2018,0.0,0.495,CBC,0.505,45,@gloryosky @CaughtCBC Thanks for sharing the link and spreading the word! Hope you're excited for tonight's episode :) #CaughtCBC
-145,0.9199,Mon Mar 19 21:04:27 +0000 2018,0.0,0.433,CBC,0.567,46,"@TheTerribleHook @santac1019 @louford1 Really lovely words for the writers, Hook! Thanks for sharing :)"
-146,0.5093,Mon Mar 19 20:43:20 +0000 2018,0.0,0.829,CBC,0.171,47,"@Jocelynlovestv @allanhawco The exclamation points say it all, Jocelyn! Glad you're stoked for tonight's episode :)… https://t.co/uM2cXNpFp4"
-147,0.8516,Mon Mar 19 20:32:22 +0000 2018,0.0,0.633,CBC,0.367,48,"@cbsanor @cbcsports We couldn't have said it any better ourselves, cbsanor! So much to be proud of :) #TeamCanada"
-148,0.0,Mon Mar 19 20:30:00 +0000 2018,0.0,1.0,CBC,0.0,49,"March 26-29, five panellists will go head to head, defending five Canadian books. | @CBCBooks
-https://t.co/fb7SatitlE"
-149,0.7263,Mon Mar 19 20:27:26 +0000 2018,0.0,0.568,CBC,0.432,50,"@ckpelletier @annarboralicia Lol! We'll take that answer, Chris :) #loveCBC"
-150,0.8516,Mon Mar 19 20:24:51 +0000 2018,0.0,0.463,CBC,0.537,51,"@KingIzSingh Thanks for sharing a link to that article, Amar! Much appreciated."
-151,0.0772,Mon Mar 19 20:23:45 +0000 2018,0.097,0.793,CBC,0.11,52,"@EricPagee @CBCOlympics If there was any coverage you missed, we recommend going to the following page to look for… https://t.co/qhjiE8xUsQ"
-152,-0.4926,Mon Mar 19 20:22:28 +0000 2018,0.267,0.604,CBC,0.129,53,"@EricPagee @CBCOlympics Regret to hear you were disappointed, Eric! CBC was dedicated to providing extensive, in-de… https://t.co/tqjKq1KcLp"
-153,0.5859,Mon Mar 19 19:30:00 +0000 2018,0.0,0.817,CBC,0.183,54,"The National Ballet of Canada's 1972 rendition Sleeping Beauty would put them on ""international ballet map."" |… https://t.co/KWJqqEF2Qi"
-154,0.8805,Mon Mar 19 19:20:29 +0000 2018,0.0,0.496,CBC,0.504,55,"@richardgoatcher @susanmcgee @CBCIndigenous @HomewardTrust Good to know, Richard! Sending thanks to Susan as well :)"
-155,0.8718,Mon Mar 19 18:53:26 +0000 2018,0.0,0.568,CBC,0.432,56,"@richardgoatcher @susanmcgee Thanks for the kind words about that report, Richard! Much appreciated. Looping in… https://t.co/ITcl7hlrBC"
-156,0.323,Mon Mar 19 18:37:22 +0000 2018,0.0,0.9,CBC,0.1,57,"RT @CBChellogoodbye: ""When you're a team you're a little bit stronger than you are when you're just by yourself and on your own."" #HelloGoo…"
-157,0.7906,Mon Mar 19 18:30:01 +0000 2018,0.0,0.588,CBC,0.412,58,"""I encourage them to celebrate everything that makes them unique"" | @CBCKids
-https://t.co/nCLcunw98H"
-158,0.0,Mon Mar 19 18:21:15 +0000 2018,0.0,1.0,CBC,0.0,59,"RT @CBCMurdoch: 🚨 SPOILER REMINDER 🚨
+""At this… https://t.co/TbswI3jaCa",19
+220,-0.4019,Wed Mar 21 01:09:09 +0000 2018,0.137,0.863,CNN,0.0,"At least one person was injured in a reported explosion in a south Austin, Texas, neighborhood, officials with Aust… https://t.co/C8EmKaEz9f",20
+221,-0.4019,Wed Mar 21 00:52:09 +0000 2018,0.13,0.87,CNN,0.0,"At least one person was injured in another reported explosion in Austin, Texas, officials say. Police are respondin… https://t.co/ajAX99LYWi",21
+222,0.0,Wed Mar 21 00:42:42 +0000 2018,0.0,1.0,CNN,0.0,"Police in Austin, Texas, are responding to a report of another package explosion in the city. Follow live updates: https://t.co/bNRYeRE1p3",22
+223,0.0,Wed Mar 21 00:40:11 +0000 2018,0.0,1.0,CNN,0.0,"RT @OutFrontCNN: Austin Mayor Steve Adler tells @ErinBurnett the explosion at a FedEx facility near San Antonio ""seem to be connected"" to r…",23
+224,-0.5574,Wed Mar 21 00:32:03 +0000 2018,0.167,0.833,CNN,0.0,"Sudan, a northern white rhino and the last male of his subspecies, has died. Photographer @Amivee chronicled the fi… https://t.co/9mDUgBmDkm",24
+225,0.4019,Wed Mar 21 00:26:07 +0000 2018,0.0,0.787,CNN,0.213,This isn't your father's Democratic Party | Analysis by @CillizzaCNN https://t.co/7I36SFVMDC https://t.co/hnGQ7TOeJz,25
+226,-0.34,Wed Mar 21 00:17:47 +0000 2018,0.107,0.893,CNN,0.0,"Hundreds of flights have been canceled and more than 70 million people are under a winter storm watch, warning or a… https://t.co/fi5jW5mjuk",26
+227,0.2235,Wed Mar 21 00:13:17 +0000 2018,0.0,0.894,CNN,0.106,US President Trump congratulated Russian President Vladimir Putin on his re-election despite the warnings from mult… https://t.co/95jqmjFqpa,27
+228,0.128,Wed Mar 21 00:12:56 +0000 2018,0.0,0.927,CNN,0.073,"RT @AC360: Exclusive: Aleksandr Kogan, the data scientist who worked with Cambridge Analytica to harvest data, tells @AndersonCooper he did…",28
+229,0.2023,Wed Mar 21 00:12:34 +0000 2018,0.0,0.909,CNN,0.091,The House Foreign Affairs panel's top Democrat says whistleblowers have come forward to allege a plot to remove the… https://t.co/Lex4BEAx8Y,29
+230,-0.128,Wed Mar 21 00:00:49 +0000 2018,0.073,0.927,CNN,0.0,"Former Nixon WH counsel John Dean on Trump and Mueller: We're seeing ""the difference between cutting somebody off a… https://t.co/tYn6vvxuu8",30
+231,0.2235,Tue Mar 20 23:57:06 +0000 2018,0.0,0.894,CNN,0.106,US President Trump congratulated Russian President Vladimir Putin on his re-election despite the warnings from mult… https://t.co/h6lKl6pY31,31
+232,0.0,Tue Mar 20 23:52:03 +0000 2018,0.0,1.0,CNN,0.0,"K-pop group Red Velvet will be part of a group of South Korean pop stars who will be performing in Pyongyang, North… https://t.co/QvyWirWGBt",32
+233,0.0,Tue Mar 20 23:51:36 +0000 2018,0.0,1.0,CNN,0.0,"RT @OutFrontCNN: ""We have left the homeland completely exposed,"" says Juliette Kayyem, former assistant secretary of the Department of Home…",33
+234,-0.5994,Tue Mar 20 23:47:26 +0000 2018,0.17,0.83,CNN,0.0,Wreckage from a World War II cruiser sunk by a Japanese torpedo in 1942 has been discovered. Led by billionaire Pau… https://t.co/J9ODULhsSY,34
+235,-0.128,Tue Mar 20 23:41:59 +0000 2018,0.073,0.927,CNN,0.0,Facebook is facing tough questions over how data on its users was obtained by a political data firm called Cambridg… https://t.co/81FGxijeP3,35
+236,-0.1027,Tue Mar 20 23:37:42 +0000 2018,0.145,0.726,CNN,0.129,"The world's last male northern white rhino has died, leaving only two females to save the subspecies from extinctio… https://t.co/vW5r7UfEcZ",36
+237,-0.3818,Tue Mar 20 23:32:06 +0000 2018,0.14,0.86,CNN,0.0,US State Department officials say the Trump administration is considering expelling Russian diplomats over the pois… https://t.co/guNzWnFRoS,37
+238,0.0772,Tue Mar 20 23:27:07 +0000 2018,0.104,0.779,CNN,0.117,"Republican Sen. Jeff Flake tweeted that if President Trump were to fire special counsel Robert Mueller, the ""only c… https://t.co/Y4uybCK68g",38
+239,-0.4404,Tue Mar 20 23:22:07 +0000 2018,0.153,0.847,CNN,0.0,The cremated remains of notorious cult leader Charles Manson were scattered on a California hillside following a Ch… https://t.co/4LNUZL5Me6,39
+240,0.4621,Tue Mar 20 23:18:21 +0000 2018,0.08,0.707,CNN,0.213,"RT @OutFrontCNN: President Trump congratulates Putin on re-election, provoking strong rebuke over why he didn't confront Putin over electio…",40
+241,-0.5423,Tue Mar 20 23:17:06 +0000 2018,0.231,0.769,CNN,0.0,"A longtime Fox News analyst sharply criticized the network on Tuesday, denouncing the outlet as a ""propaganda machi… https://t.co/VbOHmw2Q50",41
+242,0.0,Tue Mar 20 23:12:06 +0000 2018,0.0,1.0,CNN,0.0,Read Stormy Daniels' polygraph report https://t.co/WuYXRTew85 https://t.co/cjpBINepza,42
+243,0.5859,Tue Mar 20 23:11:30 +0000 2018,0.0,0.817,CNN,0.183,Sen. John McCain slams President Trump for congratulating Russian President Vladimir Putin on his election win: “An… https://t.co/IUNWf0OXnW,43
+244,-0.2263,Tue Mar 20 23:07:04 +0000 2018,0.095,0.905,CNN,0.0,Capitol Hill lawmakers are waiting anxiously for a $1.3 trillion spending bill to finally be released just days ahe… https://t.co/EABHAwIAmn,44
+245,-0.2732,Tue Mar 20 23:02:06 +0000 2018,0.123,0.877,CNN,0.0,This lone woman at a 1971 gathering of scientists sparked a flurry of amateur sleuthing on Twitter… https://t.co/aO2fzUUYpm,45
+246,0.0,Tue Mar 20 22:57:04 +0000 2018,0.0,1.0,CNN,0.0,"John Oliver's parody book about Vice President Mike Pence's family pet rabbit, Marlon Bundo, has sold out… https://t.co/jm8BKDpJox",46
+247,0.0,Tue Mar 20 22:52:04 +0000 2018,0.0,1.0,CNN,0.0,"There has been, on average, 1 school shooting every week this year https://t.co/W62G8EARHM https://t.co/y8sw1ljKWr",47
+248,0.128,Tue Mar 20 22:51:03 +0000 2018,0.0,0.93,CNN,0.07,"RT @AC360: Exclusive: Karen McDougal, a former Playboy model who claims she had a 10-month affair with President Donald Trump, will speak w…",48
+249,-0.5574,Tue Mar 20 22:47:04 +0000 2018,0.153,0.847,CNN,0.0,"Sudan, a northern white rhino and the last male of his subspecies, died Monday at the Ol Pejeta Conservancy in Keny… https://t.co/AUqoY01747",49
+250,-0.7096,Tue Mar 20 22:42:05 +0000 2018,0.335,0.545,CNN,0.12,"Facebook is confronting a crisis of public trust ""that is going to destroy the company,"" Mark Zuckerberg's former m… https://t.co/jyozo56Zfa",50
+251,0.0,Tue Mar 20 22:38:03 +0000 2018,0.0,1.0,CNN,0.0,"Amy Poehler's directorial debut will have wine and lots of ""SNL"" alums https://t.co/sPCHkb1n1U https://t.co/e4ef3AayV2",51
+252,0.0,Tue Mar 20 22:32:07 +0000 2018,0.0,1.0,CNN,0.0,The Department of Health and Human Services has not updated the databases that show the public how much money the g… https://t.co/CRsOm87zuM,52
+253,0.4404,Tue Mar 20 22:28:10 +0000 2018,0.0,0.828,CNN,0.172,"You can buy a reproduction of the Wall Street ""Fearless Girl"" statue for $6,500 https://t.co/bXrdagLI8z https://t.co/IBP6E0KOxL",53
+254,-0.802,Tue Mar 20 22:24:35 +0000 2018,0.339,0.661,CNN,0.0,A liberal group staffer was arrested last week and charged with assaulting an aide to Interior Secretary Ryan Zinke… https://t.co/kgdx2COPuy,54
+255,-0.6249,Tue Mar 20 22:10:09 +0000 2018,0.282,0.718,CNN,0.0,"3 Trump-related lawsuits: Porn star, Playboy model, harassment accuser | Analysis by CNN's Z. Byron Wolf… https://t.co/tyE5kM0AKr",55
+256,-0.0516,Tue Mar 20 22:05:09 +0000 2018,0.159,0.725,CNN,0.116,A family friend who took in the Parkland shooter says she forbid him to bring his guns into her home and warned pol… https://t.co/fpfOQgL9am,56
+257,-0.4019,Tue Mar 20 22:00:11 +0000 2018,0.153,0.847,CNN,0.0,Here's exactly how much trouble Cynthia Nixon can cause for Andrew Cuomo | Analysis by @CillizzaCNN… https://t.co/mx4OV9VniK,57
+258,-0.34,Tue Mar 20 21:55:05 +0000 2018,0.118,0.882,CNN,0.0,An overheated engine oil warning caused a helicopter with Ivanka Trump and Jared Kushner onboard to make an unsched… https://t.co/geZlBZo7v1,58
+259,-0.7184,Tue Mar 20 21:52:29 +0000 2018,0.24,0.76,CNN,0.0,The US Senate has blocked a war powers resolution that called for an end to US involvement in the Yemen conflict… https://t.co/4W9T6HX2mu,59
+260,-0.7579,Tue Mar 20 21:51:54 +0000 2018,0.289,0.711,CNN,0.0,At least 35 people were killed and scores wounded when a rocket struck a busy marketplace in a southeastern suburb… https://t.co/utuiu9xmtr,60
+261,0.4939,Tue Mar 20 21:50:06 +0000 2018,0.0,0.849,CNN,0.151,Photos of an Afghan woman who nursed her baby while simultaneously taking a high-stakes exam have inspired some soc… https://t.co/4Z6ZVx3R66,61
+262,0.0,Tue Mar 20 21:45:06 +0000 2018,0.0,1.0,CNN,0.0,"How Facebook, the ultimate disrupter, could be disrupted | By Emily Parker via @CNNOpinion https://t.co/bjfKUP84NS https://t.co/Rcf8lMRNvv",62
+263,-0.802,Tue Mar 20 21:40:08 +0000 2018,0.324,0.676,CNN,0.0,Doctors have a duty not to make the opioid crisis worse | By Robert Klitzman via @CNNOpinion https://t.co/XKcPVrxJfS https://t.co/9pnMj1Fbkb,63
+264,0.6808,Tue Mar 20 21:35:02 +0000 2018,0.095,0.62,CNN,0.285,Several justices at the Supreme Court seemed skeptical of free speech implications of a California law that require… https://t.co/L3WkTLBTK2,64
+265,-0.5719,Tue Mar 20 21:30:05 +0000 2018,0.227,0.773,CNN,0.0,"First lady Melania Trump addresses critics of her anti-cyberbullying campaign:  ""I have been criticized for my comm… https://t.co/Hwdq6L6p9T",65
+266,-0.5423,Tue Mar 20 21:25:06 +0000 2018,0.231,0.769,CNN,0.0,Republicans to Trump: Fire Mueller and risk ... not much | Analysis by CNN's Gregory Krieg https://t.co/kSFsAEBO4G https://t.co/DyUhIIr0fr,66
+267,0.7096,Tue Mar 20 21:20:45 +0000 2018,0.0,0.731,CNN,0.269,Rep. Eric Swalwell on President Trump congratulating Vladimir Putin for winning the Russian election: It’s like con… https://t.co/C5r2z0dwu1,67
+268,0.1027,Tue Mar 20 21:19:25 +0000 2018,0.108,0.769,CNN,0.123,RT @CNNnewsroom: Stormy Daniels' friend Alana Evans says both she and Daniels have received threats from people formerly in the adult film…,68
+269,0.0,Tue Mar 20 21:13:34 +0000 2018,0.0,1.0,CNN,0.0,"On Persian New Year, US President Trump slams Iranian rulers ""who serve themselves instead of serving the people""… https://t.co/MNCOh24MbX",69
+270,0.0,Tue Mar 20 21:10:44 +0000 2018,0.0,1.0,CNN,0.0,RT @TheLeadCNN: CNN's @jaketapper will interview former FBI Director James @Comey on April 19 https://t.co/uqLV47nwir https://t.co/9AzQsfVg…,70
+271,0.7184,Tue Mar 20 21:09:27 +0000 2018,0.0,0.75,CNN,0.25,House Speaker Paul Ryan says special counsel Robert Mueller should be free to follow through his investigation to i… https://t.co/tShzYdJpuQ,71
+272,0.0,Tue Mar 20 21:01:40 +0000 2018,0.0,1.0,CNN,0.0,RT @TheLeadCNN: A package exploded at a FedEx facility just outside San Antonio early today; the FBI says it could be connected to the Aust…,72
+273,0.0,Tue Mar 20 21:00:40 +0000 2018,0.0,1.0,CNN,0.0,"Cambridge Analytica, the data company Donald Trump's campaign hired during the 2016 presidential election, has been… https://t.co/v4kDILMk5F",73
+274,0.6369,Tue Mar 20 20:51:53 +0000 2018,0.0,0.743,CNN,0.257,"Senate Majority Leader Mitch McConnell defends special counsel Robert Mueller: ""I agree with the President's lawyer… https://t.co/IzFfH5shiw",74
+275,0.5859,Tue Mar 20 20:47:13 +0000 2018,0.0,0.817,CNN,0.183,Sen. John McCain slams President Trump for congratulating Russian President Vladimir Putin on his election win: “An… https://t.co/jMOw7Judnu,75
+276,0.5267,Tue Mar 20 20:46:28 +0000 2018,0.0,0.793,CNN,0.207,President Trump says he congratulated Vladimir Putin on winning the Russian presidential election… https://t.co/LcOhHaTJLv,76
+277,0.0,Tue Mar 20 20:36:25 +0000 2018,0.0,1.0,CNN,0.0,"Just one day after Mississippi's governor signed a law banning abortions after 15 weeks, a federal judge issued an… https://t.co/eji2mJZOaX",77
+278,0.0,Tue Mar 20 20:31:36 +0000 2018,0.0,1.0,CNN,0.0,"""Seven months on from peak buzz regarding Zuckerberg's presidential possibilities -- which hit around August 2017 -… https://t.co/2frOSbJIZS",78
+279,0.5267,Tue Mar 20 20:28:22 +0000 2018,0.0,0.848,CNN,0.152,RT @TheLeadCNN: President Trump says he congratulated Vladimir Putin on winning the Russian presidential election. Trump also spoke of a po…,79
+280,0.0,Tue Mar 20 20:26:30 +0000 2018,0.0,1.0,CNN,0.0,"The rapid response of a Maryland school's sole resource officer, Blaine Gaskill, was instrumental in bringing a sho… https://t.co/nbhyaIjy6y",80
+281,0.0,Tue Mar 20 20:15:15 +0000 2018,0.0,1.0,CNN,0.0,The FTC is sending a letter to Facebook with questions about how the social media company allowed the data of more… https://t.co/trfXRMMSQD,81
+282,-0.296,Tue Mar 20 20:12:08 +0000 2018,0.136,0.864,CNN,0.0,Regulators and lawmakers up the pressure on Facebook over user data and privacy https://t.co/plzB1FhU2g https://t.co/cxw7cATUvd,82
+283,0.4019,Tue Mar 20 19:58:53 +0000 2018,0.0,0.886,CNN,0.114,Stormy Daniels replied yes to all three questions in the polygraph test she took. The first two were analyzed to be… https://t.co/KQS6lbEACX,83
+284,0.0,Tue Mar 20 19:46:18 +0000 2018,0.0,1.0,CNN,0.0,"Stormy Daniels' polygraph confirms she had sex with Donald Trump, according to a 2011 report from the test… https://t.co/cPRWIIrwFI",84
+285,0.6369,Tue Mar 20 19:32:09 +0000 2018,0.0,0.802,CNN,0.198,"Cambridge Analytica, the embattled data analytics company best known for its work on President Trump's campaign, ha… https://t.co/5TmS0KHPYE",85
+286,0.0,Tue Mar 20 19:29:06 +0000 2018,0.0,1.0,CNN,0.0,"KB Toys aims to fill the void that Toys ""R"" Us is leaving behind https://t.co/ZrMwJCXENE https://t.co/W2tMTRvIHC",86
+287,0.0,Tue Mar 20 19:23:46 +0000 2018,0.0,1.0,CNN,0.0,"RT @CNNnewsroom: ""We're talking about someone that has experience with these devices, and has...maybe, a scientific mind"" - Former FBI Spec…",87
+288,0.0,Tue Mar 20 19:22:05 +0000 2018,0.0,1.0,CNN,0.0,Fed up with Facebook? Here's what you need to know about protecting your data https://t.co/xXDmutBNyR https://t.co/o558X8vRkK,88
+289,0.128,Tue Mar 20 19:17:42 +0000 2018,0.0,0.919,CNN,0.081,"Former GOP White House official Peter Wehner says evangelicals' mulligan defense of President Trump is ""complete hy… https://t.co/Dmn55fWfiO",89
+290,0.3182,Tue Mar 20 19:10:09 +0000 2018,0.063,0.814,CNN,0.122,Market analysts warn that the stock market could be impacted if President Trump tries to oust special counsel Rober… https://t.co/jH8o0jdGye,90
+291,-0.1027,Tue Mar 20 19:04:31 +0000 2018,0.069,0.931,CNN,0.0,"California Rep. Barbara Lee says Education Secretary Betsy DeVos' ""head is in the sand"" regarding racial bias and d… https://t.co/yAQuCBJBvG",91
+292,0.0,Tue Mar 20 19:00:15 +0000 2018,0.0,1.0,CNN,0.0,"""Black Panther"" is the the most-tweeted about movie of all time, Twitter says https://t.co/3BqCoaCuHI https://t.co/ZAZSYeWIEC",92
+293,-0.5994,Tue Mar 20 18:55:04 +0000 2018,0.157,0.843,CNN,0.0,Wreckage from the USS Juneau -- a World War II cruiser sunk by a Japanese torpedo in 1942 -- has been discovered by… https://t.co/wn8aLW7516,93
+294,0.4767,Tue Mar 20 18:50:04 +0000 2018,0.0,0.838,CNN,0.162,The Senate Intelligence Committee has released a bipartisan list of recommendations to states and the federal gover… https://t.co/BiogMj6zO5,94
+295,0.0,Tue Mar 20 18:45:07 +0000 2018,0.0,1.0,CNN,0.0,Why your next work meeting could be outside https://t.co/kgrjuJ8dbB https://t.co/oglkMUaf2W,95
+296,0.0,Tue Mar 20 18:40:09 +0000 2018,0.0,1.0,CNN,0.0,Kids 50 years ago almost never drew scientists as women. Now they do almost a third of the time.… https://t.co/VwkKnfj2Oo,96
+297,-0.3818,Tue Mar 20 18:36:58 +0000 2018,0.098,0.902,CNN,0.0,RT @CNNweather: How about this for the first day of #Spring. The fourth nor'easter in three weeks has the possibility to dump more snow on…,97
+298,0.0,Tue Mar 20 18:35:08 +0000 2018,0.0,1.0,CNN,0.0,"Secretary Ben Carson detailed his wife's involvement in picking out a dining room set for his office, saying that s… https://t.co/efx94WEVUy",98
+299,-0.4939,Tue Mar 20 18:30:14 +0000 2018,0.198,0.802,CNN,0.0,"I tweeted about diversity and got hammered by haters, @djrothkopf writes for @CNNopinion https://t.co/OUn6nmGOSo https://t.co/AVQJAm4tvB",99
+300,0.0,Wed Mar 21 03:43:26 +0000 2018,0.0,1.0,FoxNews,0.0,Government shuts down for third time this year if lawmakers don't pass spending bill https://t.co/KboH4IRPAG https://t.co/mExZmJ1w1J,0
+301,0.5994,Wed Mar 21 03:38:02 +0000 2018,0.0,0.692,FoxNews,0.308,"House GOP leaders McCarthy, Scalise join calls for second special counsel https://t.co/4mNPCakvKX https://t.co/5aijCe7PE4",1
+302,0.8462,Wed Mar 21 03:34:41 +0000 2018,0.056,0.6,FoxNews,0.344,"""Live your lives normally, but make sure you pay attention to your surroundings... Make sure you're safe and not so… https://t.co/61XFJJb0dr",2
+303,-0.5574,Wed Mar 21 03:27:22 +0000 2018,0.167,0.833,FoxNews,0.0,"Illegal immigrants, who dodged California ICE raid after Dem mayor's tip-off, re-arrested for new crimes, per ICE o… https://t.co/tqrYC3gNPZ",3
+304,0.0,Wed Mar 21 03:20:19 +0000 2018,0.0,1.0,FoxNews,0.0,Deputy First Class Blaine Gaskill of the St. Mary's County Sheriff's Office was the school resource officer who eng… https://t.co/ThSu0efPNM,4
+305,-0.5267,Wed Mar 21 03:19:42 +0000 2018,0.236,0.764,FoxNews,0.0,Incendiary device found in package at Austin Goodwill; 1 man hurt https://t.co/Nwfi5eLe6N https://t.co/BkYf0LVjJJ,5
+306,0.0,Wed Mar 21 03:11:34 +0000 2018,0.0,1.0,FoxNews,0.0,".@RepBrianMast on Austin bomber: ""It takes a little bit of guts to go out and do it because you're dealing with som… https://t.co/jL3XsegKyw",6
+307,0.0,Wed Mar 21 03:08:39 +0000 2018,0.0,1.0,FoxNews,0.0,".@BryanLlenas reports from Puerto Rico as electricity is slowly, but finally coming back on six months after Hurric… https://t.co/wgZKDAs0M9",7
+308,0.0,Wed Mar 21 03:04:12 +0000 2018,0.0,1.0,FoxNews,0.0,Germany at odds with US on condemning Hezbollah in Iran talks (via @BenWeinthal) https://t.co/Oz8VS1YxPD,8
+309,0.3182,Wed Mar 21 03:02:28 +0000 2018,0.0,0.874,FoxNews,0.126,".@SteveScalise: ""If you look at this bill, @POTUS will have the ability to defund sanctuary cities.""… https://t.co/u6LS8cQtZ3",9
+310,0.0,Wed Mar 21 03:02:14 +0000 2018,0.0,1.0,FoxNews,0.0,"Coast Guard seizes 36,000 lbs. of cocaine during Pacific drug patrol https://t.co/2vrZbgom0x",10
+311,0.0,Wed Mar 21 02:47:59 +0000 2018,0.0,1.0,FoxNews,0.0,"Official: “After our investigation on scene, we did determine that this was not an explosive device. This incident… https://t.co/G74JHpOCaD",11
+312,0.3612,Wed Mar 21 02:45:15 +0000 2018,0.0,0.878,FoxNews,0.122,Official: “[The package] had two small devices that were artillery simulators that looked like some type of militar… https://t.co/Ow3cFoE4P9,12
+313,0.0,Wed Mar 21 02:39:02 +0000 2018,0.0,1.0,FoxNews,0.0,.@Austin_Police officials provide a statement on an incendiary device discovered at @AustinGoodwill Tuesday night t… https://t.co/jUbNhXmCL6,13
+314,0.0,Wed Mar 21 02:31:30 +0000 2018,0.0,1.0,FoxNews,0.0,"Terry Turchie: ""In a lot of these cases, the police themselves, law enforcement, they're the first on the scene, th… https://t.co/wuT9nIMokF",14
+315,0.0,Wed Mar 21 02:10:53 +0000 2018,0.0,1.0,FoxNews,0.0,".@caseystegall reports from Austin, Texas: ""It is a city on edge. People just don't know where the next call will c… https://t.co/8rbz0Wp9cT",15
+316,0.128,Wed Mar 21 01:59:44 +0000 2018,0.092,0.795,FoxNews,0.113,"Manny Gomez, Former FBI Special Agent on Austin, Texas package device suspect: “My concern is when they zero in on… https://t.co/uT1qBrq3F5",16
+317,-0.296,Wed Mar 21 01:37:44 +0000 2018,0.115,0.885,FoxNews,0.0,"Texas Attorney General @KenPaxtonTX on Austin, Texas package device suspect: “There’s a lot of people looking for t… https://t.co/7AE5vJQFgB",17
+318,0.4019,Wed Mar 21 01:27:28 +0000 2018,0.0,0.876,FoxNews,0.124,"Manny Gomez, Former FBI Special Agent on incendiary device found in Austin, Texas: “Could it be a copycat that does… https://t.co/tgaWGWRf7d",18
+319,-0.2411,Wed Mar 21 01:19:34 +0000 2018,0.116,0.884,FoxNews,0.0,".@dbongino on Austin, Texas package devices: “I’m not sure this is one person.” #Hannity https://t.co/PTtRDo1Hr3 https://t.co/HiQks0KwHb",19
+320,-0.5267,Wed Mar 21 01:16:58 +0000 2018,0.236,0.764,FoxNews,0.0,UPDATE: Incendiary device found in package at Austin Goodwill; 1 man hurt https://t.co/PTtRDo1Hr3,20
+321,0.0,Wed Mar 21 00:55:45 +0000 2018,0.0,1.0,FoxNews,0.0,"UPDATE: Package explosion at Austin Goodwill injures 1 man, sends feds racing https://t.co/DkEsgQlEfG",21
+322,-0.1531,Wed Mar 21 00:45:06 +0000 2018,0.118,0.882,FoxNews,0.0,"RT @MikeEmanuelFox: Deadline looms as Congress works on funding bill-from #SpecialReport tonight:
 
-The story continues for Canada's #1 Drama #MurdochMysteries tonight with the Season 11 finale. As usu…"
-159,0.4574,Mon Mar 19 18:18:20 +0000 2018,0.0,0.864,CBC,0.136,60,@reloweeda @lindseywho We'll let them know Lindsey's interested too! And The Daily was the model we thought of when… https://t.co/FkOt8fTBP4
-160,0.8883,Mon Mar 19 18:08:09 +0000 2018,0.0,0.489,CBC,0.511,61,"@JillianPage22 @SchittsCreek @danjlevy Thanks for the stellar review, Jillian! Glad you're such a fan :) #SchittsCreek"
-161,0.8832,Mon Mar 19 18:04:55 +0000 2018,0.0,0.415,CBC,0.585,62,@gingerngo @zazzle Nice! Looks like Trung has a treat coming his way :)
-162,0.8718,Mon Mar 19 18:04:16 +0000 2018,0.0,0.548,CBC,0.452,63,"@NewsRudy @YouTube @TheJUNOAwards @AmmoyesMusic @rockitdeb @CBCMusic @eOneMusicCanada And another great clip, Rudy! Thank you :)"
-163,0.636,Mon Mar 19 17:47:52 +0000 2018,0.068,0.676,CBC,0.256,64,"@helloannieblack @nbcsnl We had the same experience, Annie! Definitely ironic &amp; wish we could get a geofencing pass… https://t.co/ExAA4PfmgG"
-164,0.8622,Mon Mar 19 17:45:40 +0000 2018,0.0,0.455,CBC,0.545,65,"@BasmaSaadallah @cbcsports Loving that display of national pride, Basma! :) #loveCBC"
-165,0.636,Mon Mar 19 17:36:54 +0000 2018,0.0,0.715,CBC,0.285,66,"@TheTerribleHook @louford1 @CBCMurdoch @yannick_bisson Well said, Hook! Here's hoping tonight's episode has a few o… https://t.co/aIG4mUSAlc"
-166,0.69,Mon Mar 19 17:34:26 +0000 2018,0.0,0.613,CBC,0.387,67,@cbc_archives Ha! Plus ca change plus c'est la meme chose :)
-167,0.0,Mon Mar 19 17:30:01 +0000 2018,0.0,1.0,CBC,0.0,68,Less time for sleep comes at a steep price to our health and well-being. Here’s how: https://t.co/CkDY2ZV7nG  |… https://t.co/zq3MCl4LV2
-168,0.7088,Mon Mar 19 17:24:47 +0000 2018,0.0,0.743,CBC,0.257,69,"@TheTerribleHook @louford1 You make an interesting point, Hook! So, the darker the better for you then? Looking for… https://t.co/iywvYjDzNt"
-169,0.7959,Mon Mar 19 17:15:38 +0000 2018,0.0,0.706,CBC,0.294,70,"@andrewphung Loving everything about this list, Andrew! Thanks for getting us sorted. Now we totally know what we'l… https://t.co/urWAlIENqK"
-170,0.68,Mon Mar 19 17:12:41 +0000 2018,0.0,0.752,CBC,0.248,71,"@Lisa11341782 @Brooke_Wymer You're welcome, Lisa! We'll be sure to tweet if/when we hear anything more about UK bro… https://t.co/FIZJPCMtfj"
-171,0.8832,Mon Mar 19 17:11:50 +0000 2018,0.0,0.576,CBC,0.424,72,"@HarveenJohalPR @CBCNews Looking very at home behind the desk, Harveen! Hope you're having a great visit :)  #loveCBC"
-172,0.624,Mon Mar 19 17:00:42 +0000 2018,0.0,0.83,CBC,0.17,73,RT @CBCTheNational: Team Canada just wrapped its most successful Paralympics ever. The team finished second overall with 28 medals — four o…
-173,-0.25,Mon Mar 19 16:53:44 +0000 2018,0.178,0.72,CBC,0.102,74,RT @CBCMurdoch: Tonight on the season finale of #MurdochMysteries - An argument leads Murdoch to help a man search for his missing wife; Cr…
-174,0.0,Mon Mar 19 16:52:04 +0000 2018,0.0,1.0,CBC,0.0,75,RT @danjlevy: Day 1. Season 5. #SchittsCreek https://t.co/olSGKwTekh
-175,0.0,Mon Mar 19 16:29:02 +0000 2018,0.0,1.0,CBC,0.0,76,"@Lisa11341782 @Brooke_Wymer At present, we're not aware of any UK networks airing Heartland, Lisa, though you sever… https://t.co/cyWfrlGi40"
-176,0.8685,Mon Mar 19 16:20:25 +0000 2018,0.0,0.605,CBC,0.395,77,@ItzYanay @melody12155 @ShibSibs Thanks for the shout-out! So pleased to hear you're enjoying the @cbcsports app. W… https://t.co/2yzp2BzHRT
-177,0.6908,Mon Mar 19 16:17:46 +0000 2018,0.0,0.659,CBC,0.341,78,@NewsRudy @YouTube @TheJUNOAwards @virginiatovegas @rockitdeb @WaxRecords @CBCMusic Thanks for sharing the Virginia… https://t.co/l5Wd5bx9Y4
-178,0.0,Mon Mar 19 16:08:58 +0000 2018,0.0,1.0,CBC,0.0,79,"@MrAndy_D For radio promos, that is most likely Jeremy Harris, the voice of CBC Radio One. You can read a bit about… https://t.co/whb83Ju39K"
-179,0.4939,Mon Mar 19 16:04:53 +0000 2018,0.0,0.766,CBC,0.234,80,"@reloweeda @cbcradio You're welcome, Donna. We're definitely aware it's a growing trend &amp; it is on our radar, but w… https://t.co/Ch2hGCUTxt"
-180,0.5362,Mon Mar 19 16:01:23 +0000 2018,0.065,0.78,CBC,0.156,81,"RT @cbcdocs: ""We notice that Black kids often don't get a chance to learn very much about ourselves.""
+https://t.co/Qrvvg0zT7n",22
+323,0.5574,Wed Mar 21 00:40:00 +0000 2018,0.0,0.714,FoxNews,0.286,.@POTUS: “We always proudly stand for our national anthem.” https://t.co/0oqDWyCjkl,23
+324,0.6369,Wed Mar 21 00:34:00 +0000 2018,0.0,0.682,FoxNews,0.318,".@POTUS: “The economy’s, maybe, the best it’s ever been.” https://t.co/Up4A0VgLyo",24
+325,-0.5267,Wed Mar 21 00:29:00 +0000 2018,0.221,0.779,FoxNews,0.0,BREAKING: At least 1 hurt in new reported package explosion in southwestern Austin  https://t.co/Ry3kWMtnWH,25
+326,0.0,Wed Mar 21 00:16:54 +0000 2018,0.0,1.0,FoxNews,0.0,".@POTUS: “So many companies are moving back [to the U.S.]. They’re moving back, first time in many, many decades.” https://t.co/MMnvtgzo7X",26
+327,0.0,Wed Mar 21 00:13:32 +0000 2018,0.0,1.0,FoxNews,0.0,".@POTUS: “We have to have the wall for the drugs that are pouring into our country, and for the people that we don’… https://t.co/ZJvrdVkgzk",27
+328,0.6705,Wed Mar 21 00:01:59 +0000 2018,0.0,0.756,FoxNews,0.244,".@POTUS: “For the last 8 years, Democrats apologized for America. Republicans, on the other hand, are standing up f… https://t.co/CkpPWDyOxW",28
+329,0.8807,Tue Mar 20 23:58:54 +0000 2018,0.0,0.588,FoxNews,0.412,".@POTUS: ""America is safer and America is much stronger. Our military is now better funded, better equipped, and be… https://t.co/JvSncRwMke",29
+330,-0.7902,Tue Mar 20 23:52:31 +0000 2018,0.304,0.696,FoxNews,0.0,".@POTUS: ""Republicans also repealed one of the nation's cruelest and most unfair taxes ever: the ObamaCare individu… https://t.co/Cczltpu16l",30
+331,0.3818,Tue Mar 20 23:47:45 +0000 2018,0.0,0.753,FoxNews,0.247,".@POTUS: ""[Democrats] want to increase taxes. Maybe they'll call that tax reform."" https://t.co/cTseGH2j7v",31
+332,0.3182,Tue Mar 20 23:40:01 +0000 2018,0.0,0.858,FoxNews,0.142,".@POTUS: ""We've created more than three million new jobs since the election and if we would have said that number p… https://t.co/FmBdqpL2a5",32
+333,0.7841,Tue Mar 20 23:37:36 +0000 2018,0.0,0.712,FoxNews,0.288,".@POTUS: ""Our Republican majority is one of the most successful in the history of the United States Congress."" https://t.co/GVpvgZehEl",33
+334,0.0,Tue Mar 20 23:28:46 +0000 2018,0.0,1.0,FoxNews,0.0,".@SpeakerRyan on @GOP message for constituents: ""If you re-elect us we will continue to push this economy higher, w… https://t.co/KOvm2CNwUs",34
+335,0.7579,Tue Mar 20 23:23:33 +0000 2018,0.0,0.723,FoxNews,0.277,".@SpeakerRyan: ""Six million workers have received bonuses thanks to this [tax] law. These are real dollars that wor… https://t.co/m1yFCjADvW",35
+336,0.7717,Tue Mar 20 23:15:56 +0000 2018,0.0,0.739,FoxNews,0.261,".@SpeakerRyan: ""A year ago we came together and we talked about all the great things that this new, unified Republi… https://t.co/zEDkkS8hPU",36
+337,0.0,Tue Mar 20 23:12:42 +0000 2018,0.0,1.0,FoxNews,0.0,.@POTUS delivers remarks at the National Republican Congressional Committee March Dinner. https://t.co/SxjXuLvEEU,37
+338,0.0,Tue Mar 20 23:09:00 +0000 2018,0.0,1.0,FoxNews,0.0,RT @BretBaier: On April 26th I will sit down with former FBI Director  James Comey--tweet your questions for @Comey to me here. #SpecialRep…,38
+339,-0.2732,Tue Mar 20 23:06:24 +0000 2018,0.202,0.656,FoxNews,0.142,"#Trump lambasts Dems on sanctuary cities, saying their 'priority is to protect criminals' https://t.co/kC4KcKi1AV",39
+340,-0.2006,Tue Mar 20 23:02:36 +0000 2018,0.101,0.899,FoxNews,0.0,".@JonahNRO: ""The administration actually has been quite tough on Russia. Donald Trump hasn't been rhetorically, and… https://t.co/4vEzjH3Fsh",40
+341,-0.1027,Tue Mar 20 22:49:36 +0000 2018,0.104,0.896,FoxNews,0.0,'Don't Go There': @JeffFlake Warns of Impeachment Proceedings If #Trump Fires Mueller https://t.co/K0GtBPceow,41
+342,0.0,Tue Mar 20 22:44:04 +0000 2018,0.0,1.0,FoxNews,0.0,".@BretBaier asks Saudi Foreign Minister Adel al-Jubeir, ""Will Saudi [Arabia] become a nuclear power?""… https://t.co/NeznvHOtQ1",42
+343,0.4019,Tue Mar 20 22:37:41 +0000 2018,0.0,0.863,FoxNews,0.137,"""We support President #Trump's policies, with regards to Iran, completely. We believe they are the right policies.… https://t.co/zVxeqVnZrw",43
+344,0.0,Tue Mar 20 22:28:52 +0000 2018,0.0,1.0,FoxNews,0.0,Deputy First Class Blaine Gaskill of the St. Mary's County Sheriff's Office was the school resource officer who eng… https://t.co/z6SOIcZedu,44
+345,0.6249,Tue Mar 20 22:25:23 +0000 2018,0.0,0.733,FoxNews,0.267,"""President #Trump deserves a lot of credit for taking the Saudi-American relationship to greater heights."" — Saudi… https://t.co/bMBEErWVQj",45
+346,0.0,Tue Mar 20 22:11:14 +0000 2018,0.0,1.0,FoxNews,0.0,Stormy Daniels offers proof she passed polygraph as Playboy model Karen McDougal sues to end silence on #Trump https://t.co/GN2CbkuMJc,46
+347,0.296,Tue Mar 20 22:07:04 +0000 2018,0.0,0.885,FoxNews,0.115,".@FLOTUS: ""I’m here with one goal: helping children in our next generation."" At a roundtable on cyberbullying Tuesd… https://t.co/lFyfHxx6nr",47
+348,0.3612,Tue Mar 20 21:56:58 +0000 2018,0.0,0.878,FoxNews,0.122,.@JesseBWatters: “I still like the idea of humans driving because I think driving involves the human touch. It invo… https://t.co/thZfAAFaW7,48
+349,-0.6249,Tue Mar 20 21:45:22 +0000 2018,0.204,0.796,FoxNews,0.0,.@cvpayne on @foxandfriends: “Everywhere where progressives have been in control…they are the worst places in this… https://t.co/f3NPwAqdZR,49
+350,-0.296,Tue Mar 20 21:37:41 +0000 2018,0.104,0.896,FoxNews,0.0,".@kimguilfoyle on law enforcement response to Parkland suspect: “If the intention is there, and you do not see that… https://t.co/npAlC15KR1",50
+351,-0.5994,Tue Mar 20 21:29:32 +0000 2018,0.245,0.755,FoxNews,0.0,"100-year-old runner, a World War II vet, sets five new world track records https://t.co/0mJ8ZVGtX4",51
+352,-0.7845,Tue Mar 20 21:17:59 +0000 2018,0.353,0.509,FoxNews,0.138,".@JesseBWatters on potential Texas package bomb suspect: “To me, it looks like a serial killer that doesn’t want to… https://t.co/vOL9BCwUUn",52
+353,-0.2023,Tue Mar 20 21:08:59 +0000 2018,0.167,0.833,FoxNews,0.0,Jim Carrey's latest controversial painting goes after Mark Zuckerberg https://t.co/YPEmosnQGI,53
+354,-0.5574,Tue Mar 20 20:54:42 +0000 2018,0.167,0.833,FoxNews,0.0,"Illegal immigrants, who dodged California ICE raid after Dem mayor's tip-off, re-arrested for new crimes, per ICE o… https://t.co/gmpgLGLOjn",54
+355,-0.2023,Tue Mar 20 20:44:34 +0000 2018,0.141,0.859,FoxNews,0.0,Man charged after child pornography stash found in remote 'gingerbread treehouse' https://t.co/35pWbMICN6,55
+356,0.0,Tue Mar 20 20:27:08 +0000 2018,0.0,1.0,FoxNews,0.0,MA Lawmaker: Rename 'General Hooker' Entrance at State House https://t.co/Sg4BFJ5NBT,56
+357,-0.34,Tue Mar 20 20:24:28 +0000 2018,0.124,0.876,FoxNews,0.0,".@RandPaul on politicization of the @FBI: ""I think that people are doubting the Mueller investigation, they're doub… https://t.co/Z7g1z0k3ZV",57
+358,-0.0772,Tue Mar 20 20:15:04 +0000 2018,0.141,0.738,FoxNews,0.121,Pennsylvania college student's body found at base of 'significant drop' in Bermuda https://t.co/u63tB1YkCV,58
+359,0.186,Tue Mar 20 20:12:41 +0000 2018,0.101,0.768,FoxNews,0.131,"O'Toole on TX serial bomber: ""When you see someone who's escalated in their activity, they can make mistakes and th… https://t.co/9ZnQE8bZHf",59
+360,-0.4215,Tue Mar 20 20:00:03 +0000 2018,0.152,0.784,FoxNews,0.064,.@PressSec: “Sanctuary cities are a dangerous thing…When cities start picking and choosing laws that they want to f… https://t.co/1IftAhvZ11,60
+361,0.0,Tue Mar 20 19:48:00 +0000 2018,0.0,1.0,FoxNews,0.0,Cambridge Analytica suspends CEO amid ongoing investigation https://t.co/cZahhrIwBK,61
+362,-0.6705,Tue Mar 20 19:40:00 +0000 2018,0.478,0.522,FoxNews,0.0,Judge temporarily blocks Mississippi's 15-week abortion ban https://t.co/lICLjs5Jkg,62
+363,0.0,Tue Mar 20 19:33:00 +0000 2018,0.0,1.0,FoxNews,0.0,Standoff underway with gunman at Panera Bread near Princeton University https://t.co/17HF0KDZpc,63
+364,-0.4019,Tue Mar 20 19:25:13 +0000 2018,0.172,0.828,FoxNews,0.0,"Southern California town stands up to state, votes to reject sanctuary law https://t.co/UCWhWd0DR2 https://t.co/MaTtdjwTLd",64
+365,0.0,Tue Mar 20 19:20:15 +0000 2018,0.0,1.0,FoxNews,0.0,"Obama 2012 campaign 'sucked' data from Facebook, former official says https://t.co/uwr2aNQvJm",65
+366,0.0,Tue Mar 20 19:04:13 +0000 2018,0.0,1.0,FoxNews,0.0,"Texas bomber is 'very sick,' 'we will get to the bottom of it,' #Trump says
+  https://t.co/aMQSluJKd8",66
+367,0.3818,Tue Mar 20 18:54:48 +0000 2018,0.0,0.885,FoxNews,0.115,".@POTUS: ""My priority and the priority of my administration is to serve, protect, and defend the citizens of the Un… https://t.co/R8dS17CB2W",67
+368,-0.2732,Tue Mar 20 18:31:45 +0000 2018,0.182,0.69,FoxNews,0.128,".@POTUS: ""Democrats' priority is to protect criminals, not to do what's right for our country."" https://t.co/fTUaDMFjPQ",68
+369,0.4404,Tue Mar 20 18:29:18 +0000 2018,0.0,0.775,FoxNews,0.225,".@POTUS on sanctuary cities: ""We're looking to have safe cities."" https://t.co/6AY6AcDl2k",69
+370,0.6124,Tue Mar 20 18:28:09 +0000 2018,0.0,0.737,FoxNews,0.263,".@POTUS: ""Sanctuary cities and states like California put Americans at the mercy of hardened criminals."" https://t.co/Eu5NBfRrHc",70
+371,0.0,Tue Mar 20 18:23:08 +0000 2018,0.0,1.0,FoxNews,0.0,.@POTUS hosts a law enforcement roundtable on sanctuary cities https://t.co/glcoatPpJ0,71
+372,0.1761,Tue Mar 20 18:15:32 +0000 2018,0.095,0.779,FoxNews,0.125,.@PressSec: “The president has been very clear about the fact that there was no collusion between his campaign and… https://t.co/pegl4CWkF6,72
+373,0.0772,Tue Mar 20 18:10:43 +0000 2018,0.0,0.885,FoxNews,0.115,.@PressSec: “We want to continue to have a dialogue with Russia.” https://t.co/yMGUy8RMq6,73
+374,-0.3182,Tue Mar 20 18:09:42 +0000 2018,0.119,0.881,FoxNews,0.0,.@PressSec on Texas bombings and Maryland school shooting: “Our thoughts and prayers are with the victims involved… https://t.co/ktpF9xU9DW,74
+375,-0.5267,Tue Mar 20 18:04:57 +0000 2018,0.167,0.833,FoxNews,0.0,.@PressSec: “Sanctuary jurisdictions release thousands of criminal aliens out of our prisons and jails and back int… https://t.co/7gRmhrSju7,75
+376,0.4767,Tue Mar 20 18:01:27 +0000 2018,0.0,0.846,FoxNews,0.154,"RT @FoxBusiness: .@PressSec: ""The @POTUS was proud to issue a proclamation declaring today the 45th annual Ag Day."" https://t.co/gLBI1Ezdms",76
+377,0.0,Tue Mar 20 17:54:26 +0000 2018,0.0,1.0,FoxNews,0.0,.@PressSec Sarah Sanders holds a briefing.  https://t.co/jrv6A3E2QF,77
+378,0.0,Tue Mar 20 17:45:00 +0000 2018,0.0,1.0,FoxNews,0.0,"Trump: Texas bomber is 'very sick,' says 'we will get to the bottom of it' https://t.co/SbphlBjk9v https://t.co/B6wwp7YDu6",78
+379,-0.3182,Tue Mar 20 17:42:56 +0000 2018,0.161,0.839,FoxNews,0.0,VIDEO: Tempers Flare as California City Opts Out of State's Sanctuary Law https://t.co/3OqABttkCi,79
+380,-0.4767,Tue Mar 20 17:30:21 +0000 2018,0.22,0.78,FoxNews,0.0,Maryland Governor @LarryHogan: “Our hearts are broken. We’re extremely saddened.” https://t.co/fQM8o6NGry https://t.co/jwVQXV9O6r,80
+381,0.0,Tue Mar 20 17:24:57 +0000 2018,0.0,1.0,FoxNews,0.0,News conference underway on Maryland school shooting https://t.co/fQM8o6NGry https://t.co/yln8IxxNZb,81
+382,-0.7184,Tue Mar 20 17:15:44 +0000 2018,0.261,0.739,FoxNews,0.0,"Breaking News: Minneapolis cop who fatally shot unarmed Australian woman in 2017 turns himself in, charged with mur… https://t.co/CpmXiihkWq",82
+383,0.0,Tue Mar 20 17:03:09 +0000 2018,0.0,1.0,FoxNews,0.0,"RT @EricShawnTV: If @POTUS @realDonaldTrump fires #RobertMueller, @TheDemocrats Rep. @RepSwalwell tells @FoxNews: ""Americans would take to…",83
+384,0.0,Tue Mar 20 16:53:01 +0000 2018,0.0,1.0,FoxNews,0.0,.@jasoninthehouse: “I don’t believe that Jeff Sessions is up to the job. I think the attorney general is inept and… https://t.co/KtkLqzkrFb,84
+385,0.0,Tue Mar 20 16:44:26 +0000 2018,0.0,1.0,FoxNews,0.0,"JUST IN: @POTUS: Texas bomber is 'very sick,' says 'we will get to the bottom of it' https://t.co/X6tqZknk4Z",85
+386,-0.5994,Tue Mar 20 16:37:16 +0000 2018,0.262,0.738,FoxNews,0.0,"100-year-old runner, a World War II vet, sets 5 new world track records https://t.co/0mJ8ZVGtX4",86
+387,0.0,Tue Mar 20 16:35:08 +0000 2018,0.0,1.0,FoxNews,0.0,".@POTUS: “I had a call with President Putin and congratulated him on the victory, his electoral victory… We will pr… https://t.co/NGgamhJmKt",87
+388,-0.5956,Tue Mar 20 16:31:46 +0000 2018,0.185,0.815,FoxNews,0.0,".@POTUS: “The bombings in Austin are terrible… This is obviously a very, very sick individual or maybe individuals.” https://t.co/mwzDwHD6gg",88
+389,0.0,Tue Mar 20 16:05:37 +0000 2018,0.0,1.0,FoxNews,0.0,College student reinstated after 18-day exile from Christianity class for gender speech (via @calebparke) https://t.co/BGlUJQvOVa,89
+390,0.0,Tue Mar 20 16:03:24 +0000 2018,0.0,1.0,FoxNews,0.0,First day of spring arrives: 5 things to know about the vernal equinox https://t.co/JOBsioj868,90
+391,0.674,Tue Mar 20 16:00:54 +0000 2018,0.08,0.623,FoxNews,0.297,OPINION: Supreme Court should not allow California to force pro-life pregnancy centers to promote abortion https://t.co/BcQ2tnQo5l,91
+392,0.7506,Tue Mar 20 15:54:47 +0000 2018,0.0,0.632,FoxNews,0.368,.@Walmart customer's kind gesture for veteran goes viral: 'I'm grateful for you' https://t.co/ILmK3OL7Eu,92
+393,0.5994,Tue Mar 20 15:46:17 +0000 2018,0.0,0.671,FoxNews,0.329,"House GOP leaders McCarthy, Scalise join calls for second special counsel https://t.co/4mNPCakvKX",93
+394,-0.4215,Tue Mar 20 15:46:00 +0000 2018,0.268,0.606,FoxNews,0.126,"Silence from Zuckerberg, Sandberg on Facebook scandal like putting 'gasoline on the fire' https://t.co/DDmREhgSaF… https://t.co/iEzajw3ELX",94
+395,-0.34,Tue Mar 20 15:44:38 +0000 2018,0.156,0.844,FoxNews,0.0,Man with gun reported at Panera Bread restaurant near Princeton University (via: @luciasuarezsang) https://t.co/4tG0INB8d5,95
+396,-0.4404,Tue Mar 20 15:41:32 +0000 2018,0.29,0.539,FoxNews,0.17,"JUST IN: Shooter dead, two injured after shooting at Great Mills High School in Maryland https://t.co/PR7p3gulEQ",96
+397,0.0,Tue Mar 20 15:34:29 +0000 2018,0.0,1.0,FoxNews,0.0,Officials give an update on the school shooting in Maryland https://t.co/fQM8o6NGry https://t.co/FkV7sdojWv,97
+398,-0.128,Tue Mar 20 15:28:00 +0000 2018,0.168,0.694,FoxNews,0.139,"Facebook data scandal: Social network's security chief in spotlight, reportedly leaving this year… https://t.co/7a8acG1dsQ",98
+399,-0.25,Tue Mar 20 15:18:24 +0000 2018,0.2,0.8,FoxNews,0.0,Expelled Russian diplomats begin trek back to Moscow https://t.co/jfxuSx4KFH,99
+400,0.0,Wed Mar 21 03:48:24 +0000 2018,0.0,1.0,nytimes,0.0,Gov. Bruce Rauner and J.B. Pritzker to Face Off in Illinois https://t.co/leb2UjFlcC,0
+401,-0.4767,Wed Mar 21 03:43:43 +0000 2018,0.204,0.796,nytimes,0.0,Illinois Gov. Bruce Rauner prevailed in a tough battle for the Republican nomination. He will face Democratic nomin… https://t.co/uTM5FZnmnj,1
+402,0.5106,Wed Mar 21 03:41:04 +0000 2018,0.0,0.829,nytimes,0.171,"RT @tminsberg: Evan Strong has earned every title in adaptive snowboarding. So what now? 
 
-Freedom Summer, an 11-minute doc: ht…"
-181,0.0,Mon Mar 19 15:56:04 +0000 2018,0.0,1.0,CBC,0.0,82,@AccidentalCDN You can keep an eye out for jobs &amp; internships here: https://t.co/edxthXgImt and you might also be i… https://t.co/ULcYC6lnje
-182,0.7959,Mon Mar 19 15:55:02 +0000 2018,0.0,0.678,CBC,0.322,83,"@reloweeda Thanks for letting us know this is something you'd be interested in, Donna! We'll share your request w/… https://t.co/iou2rgzUTq"
-183,0.807,Mon Mar 19 15:51:44 +0000 2018,0.0,0.628,CBC,0.372,84,"@Rmj0101 Thank you for sharing and listening, Ruth! Adding the link if anyone else is interested: https://t.co/iaPqVceg9J"
-184,0.0,Mon Mar 19 15:40:55 +0000 2018,0.0,1.0,CBC,0.0,85,@MrAndy_D Hi Andrew. Are you referring to voiceovers for TV or Radio advertisements?
-185,0.6249,Mon Mar 19 15:30:17 +0000 2018,0.0,0.769,CBC,0.231,86,@r_droc Thank you for tweeting about #Beyond94 and spreading the word. Tagging in @CBCIndigenous for credit to thei… https://t.co/amVQKbVBmg
-186,0.0,Mon Mar 19 15:30:00 +0000 2018,0.0,1.0,CBC,0.0,87,"🇨🇦 🇨🇦 🇨🇦 🇨🇦 Athletes captured 28 medals in Pyeongchang, eclipsing previous mark of 19 | @cbcsports https://t.co/HYnPuKNCtO"
-187,0.0,Mon Mar 19 14:59:00 +0000 2018,0.0,1.0,CBC,0.0,88,@keithburgoyne You can contact us with this feedback at https://t.co/RpC4e2NHP5 and we will report what needs to be… https://t.co/NfLFwvrrA6
-188,0.0,Mon Mar 19 14:57:51 +0000 2018,0.0,1.0,CBC,0.0,89,"RT @SchittsCreek: If you hadn't heard, #SchittsCreek is coming back to @CBC for Season 5... and we start production tomorrow! https://t.co/…"
-189,0.5574,Mon Mar 19 14:57:04 +0000 2018,0.059,0.721,CBC,0.221,90,"@keithburgoyne Hi Keith. Sorry, that shouldn't be happening on the site. Please ensure that your browser is up-to-d… https://t.co/JnEpc7UZM5"
-190,0.807,Mon Mar 19 14:42:11 +0000 2018,0.0,0.742,CBC,0.258,91,"@jessicabezanson Fantastic to hear that you are enjoying the app, Jessica! Do you have a favourite show that you are watching on it lately?"
-191,0.814,Mon Mar 19 14:30:01 +0000 2018,0.047,0.619,CBC,0.334,92,"""It's absolutely amazing the number of different little tricks and techniques you can learn. It really does help if… https://t.co/Fb93WjhdE7"
-192,0.6369,Mon Mar 19 13:46:29 +0000 2018,0.0,0.811,CBC,0.189,93,RT @WorkinMoms: Question of the week: What is the greatest piece of advice you've ever received? #CircleTime #WorkinMoms https://t.co/5DtBE…
-193,0.0,Mon Mar 19 13:46:16 +0000 2018,0.0,1.0,CBC,0.0,94,RT @WorkinMoms: ICYMI: #WorkinMoms is returning for SEASON 3! https://t.co/Af56pD21YT
-194,0.0,Mon Mar 19 13:43:39 +0000 2018,0.0,1.0,CBC,0.0,95,"RT @cbc_archives: This coming Sunday @MichaelBuble will be hosting the @TheJUNOAwards on @CBC! Here's a clip from 2000, in which he talks a…"
-195,0.7339,Mon Mar 19 13:01:23 +0000 2018,0.0,0.708,CBC,0.292,96,@SimonUrwinPhoto @skscbc @dridgen Appreciate the shout out for @skscbc Simon! Thanks for listening to CBC podcasts! #lovecbc
-196,0.0,Sun Mar 18 22:13:48 +0000 2018,0.0,1.0,CBC,0.0,97,@Awn1980 @draglikepull Hi Andrew. All HNIC games carried on CBC TV will also be live streamed on the CBC Sports app… https://t.co/T4oixoRFC0
-197,0.4019,Sun Mar 18 21:53:10 +0000 2018,0.0,0.69,CBC,0.31,98,@angelamorales18 It definitely gives us the feels.
-198,0.6892,Sun Mar 18 21:30:18 +0000 2018,0.0,0.39,CBC,0.61,99,@annarboralicia Hah! That's great!
-199,0.0,Sun Mar 18 21:25:32 +0000 2018,0.0,1.0,CBC,0.0,100,@akohlsmith @cbcfreshair You can find clips here (https://t.co/4Dv0PHVX1k) and on their Facebook page: https://t.co/QQ6Hjj98Xu
-200,0.0,Tue Mar 20 17:30:07 +0000 2018,0.0,1.0,CNN,0.0,1,Conservation groups sue to overturn the Trump administration's trophy hunting decision https://t.co/TrWv2rEaxF https://t.co/dZu9mPtjHb
-201,0.0,Tue Mar 20 17:20:06 +0000 2018,0.0,1.0,CNN,0.0,2,"Within minutes of news of yet another school shooting, survivors of last month's massacre at a high school in Parkl… https://t.co/5iSFYxSJ7A"
-202,0.4215,Tue Mar 20 17:10:08 +0000 2018,0.0,0.833,CNN,0.167,3,United Airlines says it is suspending a program that transports pets in cargo holds https://t.co/Fbamn4NEIp https://t.co/R19QomWoRf
-203,0.5598,Tue Mar 20 17:00:10 +0000 2018,0.0,0.847,CNN,0.153,4,"Michelle Obama is so popular she needed more space. The painting of the former first lady, unveiled at the Smithson… https://t.co/MVW21uSZx2"
-204,-0.3612,Tue Mar 20 17:00:08 +0000 2018,0.143,0.857,CNN,0.0,5,The National Rifle Association is criticizing Florida's Republican House Speaker Richard Corcoran for his comments… https://t.co/1tYOw2EkR3
-205,0.5267,Tue Mar 20 16:54:35 +0000 2018,0.0,0.825,CNN,0.175,6,President Trump says he congratulated Vladimir Putin on winning the Russian presidential election. Trump also spoke… https://t.co/U6o1ceKRp3
-206,0.296,Tue Mar 20 16:50:13 +0000 2018,0.0,0.905,CNN,0.095,7,Facebook's stock is sliding for the second day in a row. Shares fell another 5% Tuesday on the heels of the company… https://t.co/JfWDwvn2fe
-207,0.0,Tue Mar 20 16:40:08 +0000 2018,0.0,1.0,CNN,0.0,8,Ohio might soon have an official state dog. 12 other states already do: https://t.co/qGUIsaFzjt https://t.co/i572sStWij
-208,-0.5956,Tue Mar 20 16:34:14 +0000 2018,0.177,0.823,CNN,0.0,9,"President Trump: “The bombings in Austin are terrible… This is obviously a very, very sick individual or maybe indi… https://t.co/tGYi0x7G2C"
-209,0.1779,Tue Mar 20 16:29:17 +0000 2018,0.0,0.876,CNN,0.124,10,Amazon CEO Jeff Bezos took a robot dog named SpotMini for a walk https://t.co/5gPk9Mg8l2 https://t.co/E4SCrpVtQn
-210,-0.0572,Tue Mar 20 16:23:02 +0000 2018,0.111,0.788,CNN,0.1,11,"House Speaker Paul Ryan says he received ""assurances"" that President Trump is not considering firing special counse… https://t.co/AxtE5K2URe"
-211,0.5267,Tue Mar 20 16:10:09 +0000 2018,0.0,0.815,CNN,0.185,12,President Trump congratulated Russia President Vladimir Putin on winning the Russian presidential election in a tel… https://t.co/OvLi4xk6AT
-212,0.0,Tue Mar 20 16:00:08 +0000 2018,0.0,1.0,CNN,0.0,13,CNN's @JakeTapper will interview former FBI Director James @Comey on April 19 https://t.co/8cPVW1mzfK https://t.co/L3ouls0rnK
-213,0.0,Tue Mar 20 15:52:08 +0000 2018,0.0,1.0,CNN,0.0,14,"K-pop group Red Velvet will be part of a group of South Korean pop stars who will be performing in Pyongyang, North… https://t.co/cWIpgYpowK"
-214,-0.4019,Tue Mar 20 15:41:19 +0000 2018,0.137,0.863,CNN,0.0,15,Sheriff: Two students were injured during the shooting at a Maryland high school Tuesday morning just before classe… https://t.co/OBgR6SUZWq
-215,0.0,Tue Mar 20 15:30:07 +0000 2018,0.0,1.0,CNN,0.0,16,96-year-old style icon Iris Apfel has become the oldest person ever to be immortalized as a Barbie doll… https://t.co/eXRHiRNKzC
-216,0.0,Tue Mar 20 15:29:39 +0000 2018,0.0,1.0,CNN,0.0,17,"Officials in Maryland are holding a briefing on the shooting at a high school there earlier this morning.
+""The Olympics."" 
 
-Watch:… https://t.co/nQzePg5pH7"
-217,0.0,Tue Mar 20 15:18:24 +0000 2018,0.0,1.0,CNN,0.0,18,"Police chief: A package exploded while traveling along an automated conveyor belt at the Schertz, Texas, FedEx faci… https://t.co/MiztO7K2Tc"
-218,0.0,Tue Mar 20 15:11:58 +0000 2018,0.0,1.0,CNN,0.0,19,"Officials are holding a briefing following an explosion this morning at a FedEx facility near San Antonio.
-
-Follow… https://t.co/zWpHuePVyO"
-219,-0.5423,Tue Mar 20 14:57:55 +0000 2018,0.143,0.857,CNN,0.0,20,Tens of millions of people in some of the world's poorest areas could be displaced by climate change in just a few… https://t.co/4VdsGJUKO3
-220,0.7579,Tue Mar 20 14:43:52 +0000 2018,0.097,0.609,CNN,0.294,21,"At least 3 people are injured after the shooting this morning at Great Mills High School in Great Mills, Maryland,… https://t.co/kFiLlST9Iy"
-221,0.0,Tue Mar 20 14:30:20 +0000 2018,0.0,1.0,CNN,0.0,22,Your personal information is Facebook's currency. It's bought and sold every day. https://t.co/oRq26svDwq
-222,-0.7366,Tue Mar 20 14:20:09 +0000 2018,0.293,0.707,CNN,0.0,23,"President Trump's opioid plan to kill drug dealers is about vengeance, not solutions, @fordvox writes for… https://t.co/I0MD7e2zSB"
-223,0.0,Tue Mar 20 14:10:13 +0000 2018,0.0,1.0,CNN,0.0,24,"There has been, on average, 1 school shooting every week this year https://t.co/TFkgODHjDU https://t.co/7IK0NtPsKM"
-224,-0.4939,Tue Mar 20 14:00:06 +0000 2018,0.144,0.856,CNN,0.0,25,"""We swipe left on your attempted scare tactics"": Female-friendly dating app Bumble took out a full-page ad in the N… https://t.co/vSfrhdNOEM"
-225,-0.3612,Tue Mar 20 13:54:35 +0000 2018,0.122,0.878,CNN,0.0,26,"JUST IN: Police in Austin, Texas, are responding to a suspicious package at another FedEx facility.
-
-A package at a… https://t.co/vXcO9lzCIQ"
-226,-0.6249,Tue Mar 20 13:40:06 +0000 2018,0.272,0.728,CNN,0.0,27,This is how lawmakers plan to end the opioid crisis https://t.co/RqCTL6Eiue https://t.co/Ds0C57hAMl
-227,0.0,Tue Mar 20 13:30:30 +0000 2018,0.0,1.0,CNN,0.0,28,Former Cambridge Analytica contractor Christopher Wylie tells CNN’s @donlemon that he helped build a “psychological… https://t.co/mlsw9O6OY4
-228,0.8481,Tue Mar 20 13:14:24 +0000 2018,0.0,0.687,CNN,0.313,29,"Here’s a look from the scene outside Great Mills High School in Great Mills, Maryland, which is currently on lockdo… https://t.co/HqZMB7Gxd9"
-229,0.6249,Tue Mar 20 13:07:20 +0000 2018,0.0,0.823,CNN,0.177,30,"Agents with the FBI and ATF are responding to the reported shooting at a high school in Great Mills, Maryland… https://t.co/i1vl1AHwUU"
-230,0.0,Tue Mar 20 12:51:57 +0000 2018,0.0,1.0,CNN,0.0,31,"The school is on lock down, according to the school district, and the incident has been contained.
-
-Follow for upda… https://t.co/M0I07ONc4n"
-231,0.8481,Tue Mar 20 12:43:12 +0000 2018,0.0,0.687,CNN,0.313,32,BREAKING: St. Mary’s County Public Schools says there has been a shooting at Great Mills High School in Great Mills… https://t.co/n1lLVTSzGv
-232,0.0,Tue Mar 20 12:40:06 +0000 2018,0.0,1.0,CNN,0.0,33,Delta Airlines misrouted an Idaho man's 8-week-old puppy on a cross-country trip -- landing in Las Vegas and Salt L… https://t.co/zWB4sbm1iG
-233,-0.4767,Tue Mar 20 12:30:03 +0000 2018,0.14,0.86,CNN,0.0,34,The younger brother of the Parkland gunman was arrested Monday for trespassing on the campus of Marjory Stoneman Do… https://t.co/4EvL7EBc6E
-234,0.0,Tue Mar 20 12:20:12 +0000 2018,0.0,1.0,CNN,0.0,35,Robert Mueller has Donald Trump in a box. | Analysis by @StCollinson https://t.co/EenPN3xyq7 https://t.co/47ImR1v3zj
-235,-0.6369,Tue Mar 20 12:10:08 +0000 2018,0.226,0.704,CNN,0.07,36,A load of gold worth up to $54 million went missing during the Civil War. There may be a break in the case.… https://t.co/0JhOYk2vaw
-236,0.34,Tue Mar 20 12:00:11 +0000 2018,0.0,0.882,CNN,0.118,37,"Facebook's value plunges $37 billion on news that data firm Cambridge Analytica, which had ties to Trump's campaign… https://t.co/pTaWnIxceP"
-237,-0.1027,Tue Mar 20 11:53:06 +0000 2018,0.14,0.736,CNN,0.124,38,"The world's last male northern white rhino has died, leaving only two females left to save the subspecies from exti… https://t.co/xDwFSk3ndr"
-238,0.0,Tue Mar 20 11:45:57 +0000 2018,0.0,1.0,CNN,0.0,39,Former Vice President Joe Biden will meet with Latino leaders at a fundraiser in Miami today https://t.co/sWcY9CXY0L https://t.co/VyVTe1T19P
-239,-0.25,Tue Mar 20 11:30:15 +0000 2018,0.1,0.9,CNN,0.0,40,"Possible tornadoes were reported to have torn apart homes, shredded buildings and knocked down power lines and tree… https://t.co/TXsjyjVDir"
-240,-0.7506,Tue Mar 20 11:19:03 +0000 2018,0.46,0.404,CNN,0.136,41,How your next meal could help fight depression and stress https://t.co/cCJz0V12Ch https://t.co/fSeewTLfUu
-241,-0.5994,Tue Mar 20 11:06:48 +0000 2018,0.196,0.804,CNN,0.0,42,"5 things for Tuesday:
-
-- Russia investigation
-- ISIS in Syria
-- Self-driving car death
-- China &amp; Taiwan
-- Turpin ch… https://t.co/hoVqpGDsb8"
-242,0.0,Tue Mar 20 10:51:45 +0000 2018,0.0,1.0,CNN,0.0,43,BREAKING: An explosion overnight at a FedEx facility near San Antonio may be linked with four recent blasts in Aust… https://t.co/tnjvBwBl1g
-243,0.0,Tue Mar 20 10:41:37 +0000 2018,0.0,1.0,CNN,0.0,44,The data scientist who gathered info on millions of Facebook users for a firm tied to Trump's campaign says he'd be… https://t.co/K5Yh5bcdSA
-244,-0.5423,Tue Mar 20 10:27:38 +0000 2018,0.143,0.857,CNN,0.0,45,Tens of millions of people in some of the world's poorest areas could be displaced by climate change in just a few… https://t.co/NVtwsC6Npy
-245,-0.1027,Tue Mar 20 10:14:36 +0000 2018,0.145,0.726,CNN,0.129,46,The world's last male northern white rhino has died. Now experts are turning to science to save the subspecies https://t.co/7uqlVnwKS9
-246,0.25,Tue Mar 20 08:44:25 +0000 2018,0.0,0.895,CNN,0.105,47,US President Trump has signed an executive order banning US citizens from buying Venezuela's newly created cryptocu… https://t.co/oOwF0OTrNm
-247,0.0,Tue Mar 20 08:31:41 +0000 2018,0.0,1.0,CNN,0.0,48,This village in China is a modern-day shrine to President Xi Jinping. CNN paid a visit and were followed by securit… https://t.co/CFX3QycJcJ
-248,-0.8979,Tue Mar 20 08:19:01 +0000 2018,0.398,0.602,CNN,0.0,49,"""All acts and tricks to split the motherland are doomed to failure and will be condemned by the people and punished… https://t.co/oD9PrLELgu"
-249,0.0,Tue Mar 20 08:07:55 +0000 2018,0.0,1.0,CNN,0.0,50,Delta Airlines misrouted an Idaho man's 8-week-old puppy on a cross-country trip -- landing in Las Vegas and Salt L… https://t.co/FOkdT3e1Y7
-250,0.0,Tue Mar 20 08:01:01 +0000 2018,0.0,1.0,CNN,0.0,51,"Neanderthals, Denisovans and our ancestors were mixing and mingling a long time ago -- and some of our genetics can… https://t.co/VkXGPKzK9N"
-251,-0.7269,Tue Mar 20 07:53:09 +0000 2018,0.276,0.724,CNN,0.0,52,"The Cambridge Analytica scandal has done immense damage to the Facebook brand, sources across the company believe… https://t.co/EjcHYYvul9"
-252,0.34,Tue Mar 20 07:42:06 +0000 2018,0.0,0.882,CNN,0.118,53,"Facebook's value plunges $37 billion on news that data firm Cambridge Analytica, which had ties to Trump's campaign… https://t.co/2N2l7AoNZ7"
-253,-0.3818,Tue Mar 20 07:31:09 +0000 2018,0.106,0.894,CNN,0.0,54,Patients who visit emergency rooms are getting hit with sky-high bills. Spending on an ER visit in the US rose to $… https://t.co/1TvD7xi3ZD
-254,0.0,Tue Mar 20 07:17:12 +0000 2018,0.0,1.0,CNN,0.0,55,"How a designer got his scarf into ""Black Panther"" https://t.co/PZFJ6EQBGX https://t.co/5afeV6hll3"
-255,0.0,Tue Mar 20 07:01:03 +0000 2018,0.0,1.0,CNN,0.0,56,This single mother and her four children were living out of their car. Then a cop decided he had to do something.… https://t.co/OHbvJtH2mU
-256,0.0,Tue Mar 20 06:57:03 +0000 2018,0.0,1.0,CNN,0.0,57,The US announces the start date for its annual military exercises with South Korea as President Trump readies for a… https://t.co/XhKwzBWxnI
-257,0.0,Tue Mar 20 06:44:27 +0000 2018,0.0,1.0,CNN,0.0,58,Correction: This story has been updated to clarify that Sudan was a northern white rhino. https://t.co/sxb8eAeKcT https://t.co/3IAFpojlJK
-258,-0.1027,Tue Mar 20 06:33:32 +0000 2018,0.145,0.726,CNN,0.129,59,The world's last male white rhino has died leaving only two females left to save the species from extinction.… https://t.co/mN92F0nLwL
-259,0.25,Tue Mar 20 06:31:07 +0000 2018,0.212,0.481,CNN,0.308,60,9/11 hero who saved hundreds dies of cancer at age 45 https://t.co/RsYz8zDVX4 https://t.co/eAW7TRsPyD
-260,-0.7717,Tue Mar 20 06:10:42 +0000 2018,0.325,0.675,CNN,0.0,61,"Amnesty International has accused the Nigerian army of failing to act on ""advance warnings"" given a few hours befor… https://t.co/OzUer6y6xw"
-261,-0.2263,Tue Mar 20 06:06:33 +0000 2018,0.106,0.894,CNN,0.0,62,"Undercover British television report is ""edited and scripted to grossly misrepresent the nature of those conversati… https://t.co/DQbCb3eF1W"
-262,0.25,Tue Mar 20 06:01:04 +0000 2018,0.0,0.889,CNN,0.111,63,President Trump has signed an executive order banning US citizens from buying Venezuela's newly created cryptocurre… https://t.co/atpoLD928t
-263,0.7269,Tue Mar 20 05:50:55 +0000 2018,0.0,0.747,CNN,0.253,64,"A military band plays out the delegates in the Great Hall of the People, ending the 13th National People's Congress… https://t.co/kpJXcbpoep"
-264,0.0,Tue Mar 20 05:31:05 +0000 2018,0.0,1.0,CNN,0.0,65,Your personal information is Facebook's currency. It's bought and sold every day. https://t.co/6s4nc2UgOs
-265,-0.8979,Tue Mar 20 05:26:27 +0000 2018,0.398,0.602,CNN,0.0,66,"""All acts and tricks to split the motherland are doomed to failure and will be condemned by the people and punished… https://t.co/MbjE8JbxyM"
-266,0.0,Tue Mar 20 05:21:27 +0000 2018,0.0,1.0,CNN,0.0,67,"""Trump is Nixon on steroids and stilts.""
-
-John Dean, who served as White House counsel for President Richard Nixon… https://t.co/BwMCukpgiN"
-267,-0.6124,Tue Mar 20 05:10:16 +0000 2018,0.167,0.833,CNN,0.0,68,"Six months after Hurricane Maria devastated Puerto Rico, the news is the return of normalcy for some. But the road… https://t.co/EqmCCIZ98P"
-268,-0.1689,Tue Mar 20 05:01:04 +0000 2018,0.094,0.906,CNN,0.0,69,"In 1999, there were more than 2 million pay phones across America. 100,000 are left today. https://t.co/YhVnkog7mu https://t.co/RdQyhgYJMW"
-269,0.0,Tue Mar 20 04:57:54 +0000 2018,0.0,1.0,CNN,0.0,70,"(Correction) Ballerina Misty Copeland made history in 2015, becoming the 1st female African American principal danc… https://t.co/KX0wCvTVZ6"
-270,-0.7269,Tue Mar 20 04:46:04 +0000 2018,0.276,0.724,CNN,0.0,71,"The Cambridge Analytica scandal has done immense damage to the Facebook brand, sources across the company believe… https://t.co/DdqhcY78x9"
-271,0.0,Tue Mar 20 04:31:05 +0000 2018,0.0,1.0,CNN,0.0,72,96-year-old style icon Iris Apfel has become the oldest person ever to be immortalized as a Barbie doll… https://t.co/6dOW9LLZfx
-272,0.0,Tue Mar 20 04:21:24 +0000 2018,0.0,1.0,CNN,0.0,73,"Speaking at the closure of the 13th National People's Congress, Chinese President Xi Jinping delivered a confident,… https://t.co/OxfcUDYKkw"
-273,-0.8126,Tue Mar 20 04:16:42 +0000 2018,0.33,0.67,CNN,0.0,74,"""President Trump is acting guilty as hell going after Mueller,"" says Democratic Sen. Chris Van Hollen… https://t.co/beD34Po0QU"
-274,-0.7579,Tue Mar 20 04:14:25 +0000 2018,0.277,0.723,CNN,0.0,75,The studio co-founded by disgraced movie mogul Harvey Weinstein has been crippled by the sexual harassment and assa… https://t.co/gKN3STMjVu
-275,0.0,Tue Mar 20 04:09:57 +0000 2018,0.0,1.0,CNN,0.0,76,This village in China is a modern-day shrine to President Xi Jinping. CNN paid a visit and were followed by securit… https://t.co/A1HvaNuj8B
-276,-0.743,Tue Mar 20 04:01:03 +0000 2018,0.259,0.741,CNN,0.0,77,A 9-year-old boy retrieved a gun from his parents' bedroom and shot his 13-year-old sister to death after the two g… https://t.co/1CXndSSZuE
-277,0.0,Tue Mar 20 03:59:53 +0000 2018,0.0,1.0,CNN,0.0,78,"Ballerina Misty Copeland made history in 2015, becoming the first principal dancer for American Ballet Theatre. We’… https://t.co/kuuodA3nas"
-278,0.0772,Tue Mar 20 03:31:02 +0000 2018,0.0,0.936,CNN,0.064,79,Mississippi Gov. Phil Bryant has signed into law a bill that prevents women from getting abortions after 15 weeks o… https://t.co/VILPjdWHhz
-279,0.4576,Tue Mar 20 03:16:07 +0000 2018,0.0,0.875,CNN,0.125,80,"Susan Pompeo, wife of CIA chief Mike Pompeo, has taken on an unusually active role for a CIA spouse in agency affai… https://t.co/kCo2Mh2rkR"
-280,0.0,Tue Mar 20 03:09:18 +0000 2018,0.0,1.0,CNN,0.0,81,Wylie discusses Cambridge Analytica's possible connections to Russia: “I am concerned we made Russia aware of the p… https://t.co/zJnKlQkUQJ
-281,0.0,Tue Mar 20 03:01:06 +0000 2018,0.0,1.0,CNN,0.0,82,"How a designer got his scarf into ""Black Panther"" https://t.co/vIjG20TbWu https://t.co/GDD5ibMslm"
-282,-0.5267,Tue Mar 20 02:56:57 +0000 2018,0.152,0.848,CNN,0.0,83,“Facebook’s only doing something now because I am coming out and speaking out.” Wylie says he is frustrated with th… https://t.co/w9a7vSaOAc
-283,0.2263,Tue Mar 20 02:46:53 +0000 2018,0.0,0.905,CNN,0.095,84,"Wylie says Cambridge Analytica had tested Trump campaign slogans since 2014: ""I was surprised when I saw the Trump… https://t.co/a8PZRMDTnx"
-284,0.0,Tue Mar 20 02:46:06 +0000 2018,0.0,1.0,CNN,0.0,85,Why Mark Zuckerberg needs to testify before Congress | By Kara Alaimo via @CNNOpinion https://t.co/xdgtqjnNK6 https://t.co/QGVEi85ce1
-285,0.0,Tue Mar 20 02:34:49 +0000 2018,0.0,1.0,CNN,0.0,86,Former Cambridge Analytica contractor Christopher Wylie tells CNN’s @donlemon that he helped build a “psychological… https://t.co/uzQAgripRy
-286,-0.7579,Tue Mar 20 02:31:05 +0000 2018,0.277,0.723,CNN,0.0,87,"A 19-year-old US student who went missing over the weekend has been found dead in Bermuda, authorities there say… https://t.co/ZBGYwmmQQt"
-287,0.0,Tue Mar 20 02:25:44 +0000 2018,0.0,1.0,CNN,0.0,88,Delta Airlines misrouted an Idaho man's 8-week-old puppy on a cross-country trip -- landing in Las Vegas and Salt L… https://t.co/4xzHQ2OpOQ
-288,-0.3597,Tue Mar 20 02:16:04 +0000 2018,0.168,0.723,CNN,0.108,89,"As President Trump's reaction to special counsel Robert Mueller grows more irate by the day, attorneys on both side… https://t.co/PAGvAKksV2"
-289,0.0,Tue Mar 20 02:06:05 +0000 2018,0.0,1.0,CNN,0.0,90,The US announces the start date for its annual military exercises with South Korea as President Trump readies for a… https://t.co/3fNnGF2WTM
-290,0.2263,Tue Mar 20 02:01:04 +0000 2018,0.102,0.756,CNN,0.142,91,"A Marjory Stoneman Douglas graduate is making a sculpture to honor the school shooting victims. The names of the ""1… https://t.co/OGSqWoxYD0"
-291,0.0,Tue Mar 20 01:58:57 +0000 2018,0.0,1.0,CNN,0.0,92,"RT @AC360: Republican Rep. Matt Gaetz says Attorney General Jeff Sessions would be ""right to renounce his recusal, to re-establish command…"
-292,0.34,Tue Mar 20 01:56:02 +0000 2018,0.0,0.882,CNN,0.118,93,"Facebook's value plunges $37 billion on news that data firm Cambridge Analytica, which had ties to Trump's campaign… https://t.co/VTPrmyYTEc"
-293,0.0,Tue Mar 20 01:51:06 +0000 2018,0.0,1.0,CNN,0.0,94,"It's official: ""Sex and the City"" star Cynthia Nixon has announced that she is throwing her hat in the New York gub… https://t.co/Dy0HfIgbQI"
-294,-0.6249,Tue Mar 20 01:50:33 +0000 2018,0.221,0.779,CNN,0.0,95,RT @AC360: Anderson Cooper: President Trump's recent actions aimed at undermining the institutions that he believes threaten him is a patte…
-295,0.659,Tue Mar 20 01:46:05 +0000 2018,0.0,0.759,CNN,0.241,96,"Alex Stamos, Facebook's chief security officer, says he's still ""fully engaged"" in his work at Facebook following r… https://t.co/ArNf1dJY7L"
-296,-0.1531,Tue Mar 20 01:45:46 +0000 2018,0.124,0.775,CNN,0.101,97,"RT @OutFrontCNN: Comedian John Oliver, Vice President Mike Pence, a pair of bunny books, and one ""hopping mad"" publisher. This is the tale…"
-297,-0.7699,Tue Mar 20 01:41:06 +0000 2018,0.288,0.712,CNN,0.0,98,The NTSB wants the FAA to ban commercial flights' use of harness systems that don't allow for easy release during e… https://t.co/W2wiBEX3Vd
-298,0.1531,Tue Mar 20 01:31:08 +0000 2018,0.096,0.78,CNN,0.124,99,First lady Melania Trump made a rare appearance that included public remarks in support of those battling the opioi… https://t.co/wIYSztOJIm
-299,0.0,Tue Mar 20 01:24:06 +0000 2018,0.0,1.0,CNN,0.0,100,The spending bill that Congress is expected to usher though this week will most likely not include sexual harassmen… https://t.co/cwWMuYOKWS
-300,-0.4767,Tue Mar 20 17:30:21 +0000 2018,0.22,0.78,FoxNews,0.0,1,Maryland Governor @LarryHogan: “Our hearts are broken. We’re extremely saddened.” https://t.co/fQM8o6NGry https://t.co/jwVQXV9O6r
-301,0.0,Tue Mar 20 17:24:57 +0000 2018,0.0,1.0,FoxNews,0.0,2,News conference underway on Maryland school shooting https://t.co/fQM8o6NGry https://t.co/yln8IxxNZb
-302,-0.7184,Tue Mar 20 17:15:44 +0000 2018,0.261,0.739,FoxNews,0.0,3,"Breaking News: Minneapolis cop who fatally shot unarmed Australian woman in 2017 turns himself in, charged with mur… https://t.co/CpmXiihkWq"
-303,0.0,Tue Mar 20 17:03:09 +0000 2018,0.0,1.0,FoxNews,0.0,4,"RT @EricShawnTV: If @POTUS @realDonaldTrump fires #RobertMueller, @TheDemocrats Rep. @RepSwalwell tells @FoxNews: ""Americans would take to…"
-304,0.0,Tue Mar 20 16:53:01 +0000 2018,0.0,1.0,FoxNews,0.0,5,.@jasoninthehouse: “I don’t believe that Jeff Sessions is up to the job. I think the attorney general is inept and… https://t.co/KtkLqzkrFb
-305,0.0,Tue Mar 20 16:44:26 +0000 2018,0.0,1.0,FoxNews,0.0,6,"JUST IN: @POTUS: Texas bomber is 'very sick,' says 'we will get to the bottom of it' https://t.co/X6tqZknk4Z"
-306,-0.5994,Tue Mar 20 16:37:16 +0000 2018,0.262,0.738,FoxNews,0.0,7,"100-year-old runner, a World War II vet, sets 5 new world track records https://t.co/0mJ8ZVGtX4"
-307,0.0,Tue Mar 20 16:35:08 +0000 2018,0.0,1.0,FoxNews,0.0,8,".@POTUS: “I had a call with President Putin and congratulated him on the victory, his electoral victory… We will pr… https://t.co/NGgamhJmKt"
-308,-0.5956,Tue Mar 20 16:31:46 +0000 2018,0.185,0.815,FoxNews,0.0,9,".@POTUS: “The bombings in Austin are terrible… This is obviously a very, very sick individual or maybe individuals.” https://t.co/mwzDwHD6gg"
-309,0.0,Tue Mar 20 16:05:37 +0000 2018,0.0,1.0,FoxNews,0.0,10,College student reinstated after 18-day exile from Christianity class for gender speech (via @calebparke) https://t.co/BGlUJQvOVa
-310,0.0,Tue Mar 20 16:03:24 +0000 2018,0.0,1.0,FoxNews,0.0,11,First day of spring arrives: 5 things to know about the vernal equinox https://t.co/JOBsioj868
-311,0.674,Tue Mar 20 16:00:54 +0000 2018,0.08,0.623,FoxNews,0.297,12,OPINION: Supreme Court should not allow California to force pro-life pregnancy centers to promote abortion https://t.co/BcQ2tnQo5l
-312,0.7506,Tue Mar 20 15:54:47 +0000 2018,0.0,0.632,FoxNews,0.368,13,.@Walmart customer's kind gesture for veteran goes viral: 'I'm grateful for you' https://t.co/ILmK3OL7Eu
-313,0.5994,Tue Mar 20 15:46:17 +0000 2018,0.0,0.671,FoxNews,0.329,14,"House GOP leaders McCarthy, Scalise join calls for second special counsel https://t.co/4mNPCakvKX"
-314,-0.4215,Tue Mar 20 15:46:00 +0000 2018,0.268,0.606,FoxNews,0.126,15,"Silence from Zuckerberg, Sandberg on Facebook scandal like putting 'gasoline on the fire' https://t.co/DDmREhgSaF… https://t.co/iEzajw3ELX"
-315,-0.34,Tue Mar 20 15:44:38 +0000 2018,0.156,0.844,FoxNews,0.0,16,Man with gun reported at Panera Bread restaurant near Princeton University (via: @luciasuarezsang) https://t.co/4tG0INB8d5
-316,-0.4404,Tue Mar 20 15:41:32 +0000 2018,0.29,0.539,FoxNews,0.17,17,"JUST IN: Shooter dead, two injured after shooting at Great Mills High School in Maryland https://t.co/PR7p3gulEQ"
-317,0.0,Tue Mar 20 15:34:29 +0000 2018,0.0,1.0,FoxNews,0.0,18,Officials give an update on the school shooting in Maryland https://t.co/fQM8o6NGry https://t.co/FkV7sdojWv
-318,-0.128,Tue Mar 20 15:28:00 +0000 2018,0.168,0.694,FoxNews,0.139,19,"Facebook data scandal: Social network's security chief in spotlight, reportedly leaving this year… https://t.co/7a8acG1dsQ"
-319,-0.25,Tue Mar 20 15:18:24 +0000 2018,0.2,0.8,FoxNews,0.0,20,Expelled Russian diplomats begin trek back to Moscow https://t.co/jfxuSx4KFH
-320,0.6249,Tue Mar 20 15:17:40 +0000 2018,0.0,0.76,FoxNews,0.24,21,Shooting at Great Mills High School in Maryland injures at least three people https://t.co/PR7p3gulEQ
-321,0.0,Tue Mar 20 15:14:03 +0000 2018,0.0,1.0,FoxNews,0.0,22,"Spring nor'easter could bring upwards of 18 inches of snow, hampering Wednesday commute https://t.co/mk24na0mFc"
-322,0.296,Tue Mar 20 15:10:58 +0000 2018,0.0,0.872,FoxNews,0.128,23,Crews Work to Restore Puerto Rico’s Power Grid Six Months after Hurricane Maria; @BryanLlenas reports https://t.co/KwHQaB0f5x
-323,0.0,Tue Mar 20 15:10:14 +0000 2018,0.0,1.0,FoxNews,0.0,24,Authorities hold news conference on explosion at Texas @FedEx plant https://t.co/X5flwoWkDc https://t.co/hoJFFi0daN
-324,0.4005,Tue Mar 20 15:00:26 +0000 2018,0.0,0.881,FoxNews,0.119,25,".@RepSwalwell: “If the president is completely innocent, he should just cooperate and get out of the way of this in… https://t.co/3fTIQNRzOa"
-325,-0.7579,Tue Mar 20 14:59:51 +0000 2018,0.302,0.698,FoxNews,0.0,26,.@RepSwalwell: “I think it would cause a constitutional crisis if the president were able to fire [Mueller].” https://t.co/oQpFv4Jmdg
-326,0.0,Tue Mar 20 14:54:42 +0000 2018,0.0,1.0,FoxNews,0.0,27,.@RepSwalwell: “We should act immediately to preserve Bob Mueller’s role.” https://t.co/pfJtzoMCpg
-327,-0.4019,Tue Mar 20 14:51:47 +0000 2018,0.184,0.816,FoxNews,0.0,28,"Southern California town stands up to state, votes to reject sanctuary law https://t.co/UCWhWd0DR2"
-328,0.0,Tue Mar 20 14:50:58 +0000 2018,0.0,1.0,FoxNews,0.0,29,RT @MikeEmanuelFox: Congress still wrestling with a $1.3 trillion Omnibus funding package-facing a Friday night deadline-from @AmericaNewsr…
-329,-0.5574,Tue Mar 20 14:48:56 +0000 2018,0.175,0.825,FoxNews,0.0,30,".@RajShah45: “We think that the DACA program, which President Obama put into effect, is illegal and unconstitutiona… https://t.co/4LUKeEULYx"
-330,0.4939,Tue Mar 20 14:45:51 +0000 2018,0.0,0.868,FoxNews,0.132,31,.@RajShah45: “We remain confident that by the end of the week we’re going to have a funding bill that funds this Wh… https://t.co/RI6EK8Tmj4
-331,-0.5065,Tue Mar 20 14:41:33 +0000 2018,0.204,0.743,FoxNews,0.052,32,".@RajShah45: “The president maintains that there was no collusion, no obstruction in this matter and… once the spec… https://t.co/cFXXkLBS4m"
-332,0.0,Tue Mar 20 14:34:20 +0000 2018,0.0,1.0,FoxNews,0.0,33,.@VP Mike Pence delivers remarks commemorating @POTUS’s National Agriculture Day proclamation. https://t.co/fJArfSD6YY
-333,-0.6979,Tue Mar 20 14:32:40 +0000 2018,0.285,0.715,FoxNews,0.0,34,"RT @FoxBusiness: ""We aren't interested in being PC, we aren't interested in being packaged, we're interested in being authentic.""
-
-@EKANard…"
-334,0.0,Tue Mar 20 14:28:45 +0000 2018,0.0,1.0,FoxNews,0.0,35,".@newtgingrich: “Every time the president tweets about Robert Mueller, he makes Mueller bigger and more important.” https://t.co/njql6cmpCp"
-335,0.0,Tue Mar 20 14:18:16 +0000 2018,0.0,1.0,FoxNews,0.0,36,RT @FoxBusiness: #BreakingNews: @FedEx responds to explosion at facility near San Antonio. https://t.co/cD1ujWSnFY
-336,0.4939,Tue Mar 20 14:17:52 +0000 2018,0.0,0.856,FoxNews,0.144,37,"RT @FoxBusiness: .@charlipence on @iamjohnoliver's parody book on the second family's pet bunny: ""His book is contributing to charities tha…"
-337,0.0,Tue Mar 20 14:00:08 +0000 2018,0.0,1.0,FoxNews,0.0,38,.@GOP leaders hold a news conference https://t.co/5IYWv0tMVJ
-338,0.3612,Tue Mar 20 13:37:05 +0000 2018,0.0,0.839,FoxNews,0.161,39,.@cvpayne on Wealthy Dems' Town Hall on Income Inequality: The 'Hypocrisy' Goes On https://t.co/Yt7Vex0DUO
-339,0.0,Tue Mar 20 13:22:50 +0000 2018,0.0,1.0,FoxNews,0.0,40,Disney to make live-action 'Lady and the Tramp' adaptation https://t.co/wB774V3s96
-340,0.4019,Tue Mar 20 13:17:54 +0000 2018,0.0,0.886,FoxNews,0.114,41,.@SenJohnKennedy: “The real issue in the budget is how can we properly fund the fence? How can we properly help our… https://t.co/q9jaM1xYVx
-341,-0.3818,Tue Mar 20 13:14:58 +0000 2018,0.191,0.809,FoxNews,0.0,42,.@SenJohnKennedy: “We need a budget. It’s embarrassing that we don’t have one.” https://t.co/GVm2rr98Zf
-342,0.0,Tue Mar 20 13:11:45 +0000 2018,0.0,1.0,FoxNews,0.0,43,"Device explodes in FedEx building outside San Antonio, police say (via @RyanGaydos @travfed)  https://t.co/fqlCo4ZcKf"
-343,0.0,Tue Mar 20 12:56:56 +0000 2018,0.0,1.0,FoxNews,0.0,44,"RT @FoxBusiness: Volkswagen to build new SUV at Tennessee plant, invest $340M https://t.co/zGiebJcleQ https://t.co/82YePpALMY"
-344,-0.4215,Tue Mar 20 12:55:20 +0000 2018,0.152,0.784,FoxNews,0.064,45,.@PressSec: “Sanctuary cities are a dangerous thing… When cities start picking and choosing laws that they want to… https://t.co/6uaFY6NomM
-345,0.0,Tue Mar 20 12:50:16 +0000 2018,0.0,1.0,FoxNews,0.0,46,.@PressSec: “The Democrats would much rather use DACA recipients as pawns instead of actually putting real solution… https://t.co/jglYrrBerZ
-346,0.6249,Tue Mar 20 12:43:18 +0000 2018,0.0,0.745,FoxNews,0.255,47,"JUST IN: Shooting at Great Mills High School in Maryland, school confirms https://t.co/PR7p3gulEQ"
-347,-0.3182,Tue Mar 20 12:33:00 +0000 2018,0.231,0.769,FoxNews,0.0,48,.@JessicaTarlov: “I think Hillary Clinton is genuinely sorry that she offended anyone.” https://t.co/UOh5woSUKR
-348,-0.7269,Tue Mar 20 12:26:59 +0000 2018,0.604,0.396,FoxNews,0.0,49,Austin package bomb attacks timeline https://t.co/i519X5gFs5
-349,-0.8176,Tue Mar 20 12:12:41 +0000 2018,0.349,0.651,FoxNews,0.0,50,China's Xi takes swipe at Trump's new 'doomed to failure' Taiwan policy in nationalistic speech https://t.co/gMVXLkYPSs
-350,0.1695,Tue Mar 20 11:58:45 +0000 2018,0.124,0.715,FoxNews,0.161,51,Shelley Hasselbrink on @foxandfriends: “We need to not support illegal anything in our city.”… https://t.co/nt2OQNrDi7
-351,-0.296,Tue Mar 20 11:51:24 +0000 2018,0.216,0.784,FoxNews,0.0,52,Students volunteer to lower and fold flag @foxandfriends https://t.co/Z2a5vECREF
-352,0.0,Tue Mar 20 11:40:50 +0000 2018,0.0,1.0,FoxNews,0.0,53,"Device explodes in FedEx building outside San Antonio, police say https://t.co/X5flwoWkDc https://t.co/WT7b1ypnLm"
-353,-0.2263,Tue Mar 20 11:33:15 +0000 2018,0.079,0.921,FoxNews,0.0,54,Mark Penn on @HillaryClinton: “It’s time for her to talk about the issues that she spent her life on. Forget the el… https://t.co/YrJzEDXDAD
-354,-0.4767,Tue Mar 20 11:15:08 +0000 2018,0.272,0.728,FoxNews,0.0,55,John Oliver slammed for 'controversial and partisan' mockery of Pence family bunny https://t.co/VZBU4q9OV2
-355,0.0516,Tue Mar 20 11:11:58 +0000 2018,0.168,0.652,FoxNews,0.179,56,OPINION: Cal Thomas: California's pro-abortion FACT Act is an attack on free speech https://t.co/GVHx2n5X6M
-356,0.0,Tue Mar 20 11:08:29 +0000 2018,0.0,1.0,FoxNews,0.0,57,.@Judgenap and @foxandfriends: “Congress and the states can’t force speech…The government can’t force you to expres… https://t.co/r0onh4zRKS
-357,-0.4019,Tue Mar 20 11:03:21 +0000 2018,0.184,0.816,FoxNews,0.0,58,"Southern California town stands up to state, votes to reject sanctuary law https://t.co/UCWhWd0DR2"
-358,0.0,Tue Mar 20 11:00:09 +0000 2018,0.0,1.0,FoxNews,0.0,59,"UPDATE: San Antonio FedEx blast likely linked to Austin bombings, FBI says https://t.co/ATafK5ix9q"
-359,0.6597,Tue Mar 20 10:55:09 +0000 2018,0.131,0.508,FoxNews,0.36,60,"OPINION: Retired US, British and French top generals: In a dangerous world, everyone needs trustworthy friends https://t.co/2STh0ZKUaW"
-360,-0.6249,Tue Mar 20 10:53:44 +0000 2018,0.204,0.796,FoxNews,0.0,61,.@cvpayne on @foxandfriends: “Everywhere where progressives have been in control…they are the worst places in this… https://t.co/CGkhXK38Mq
-361,0.0,Tue Mar 20 10:48:15 +0000 2018,0.0,1.0,FoxNews,0.0,62,.@JaniceDean gives an update on the weather on @foxandfriends https://t.co/fz3Gjg2Rm2
-362,0.0,Tue Mar 20 10:43:10 +0000 2018,0.0,1.0,FoxNews,0.0,63,"Device explodes in FedEx building outside San Antonio, police say https://t.co/fqlCo4ZcKf  @ToddPiro https://t.co/oeyNdDyV8m"
-363,-0.3182,Tue Mar 20 10:34:28 +0000 2018,0.202,0.798,FoxNews,0.0,64,.@JessicaTarlov on @foxandfriends: “I think Hillary Clinton is genuinely sorry that she offended anyone.” https://t.co/YGJFlzp2cT
-364,0.6557,Tue Mar 20 10:30:01 +0000 2018,0.0,0.77,FoxNews,0.23,65,".@POTUS on drug traffickers: “My Department of Justice will be seeking so many, much tougher penalties than we’ve e… https://t.co/hXtL5sIoR9"
-365,0.0,Tue Mar 20 10:27:41 +0000 2018,0.0,1.0,FoxNews,0.0,66,Terry Turchie on device explosion at a FedEx facility in Texas @foxandfriends https://t.co/fqlCo4ZcKf https://t.co/RsiHNjun4u
-366,-0.4767,Tue Mar 20 10:19:25 +0000 2018,0.256,0.744,FoxNews,0.0,67,Uber's self-driving car accident latest hit to ride-share's reputation https://t.co/tmOkJ4SQ5w
-367,0.0,Tue Mar 20 10:15:00 +0000 2018,0.191,0.617,FoxNews,0.191,68,Arrested spring breakers flash big smiles on bus headed to jail https://t.co/152dQdRxCG
-368,-0.1027,Tue Mar 20 10:08:00 +0000 2018,0.062,0.938,FoxNews,0.0,69,".@POTUS: “We pay, as a country, so much more for drugs because of the drug lobbies &amp; other reasons…If you compare o… https://t.co/Vv2JZiD9IV"
-369,0.0,Tue Mar 20 10:04:46 +0000 2018,0.0,1.0,FoxNews,0.0,70,"JUST IN: Device explodes in FedEx building outside San Antonio, police say https://t.co/fqlCo4ZcKf https://t.co/ViApZh4klP"
-370,-0.7717,Tue Mar 20 10:00:03 +0000 2018,0.271,0.729,FoxNews,0.0,71,"During a speech about new efforts to fight the opioid crisis on Monday, @POTUS once again called for a border wall,… https://t.co/rRGzZsOkDV"
-371,-0.7506,Tue Mar 20 09:51:01 +0000 2018,0.561,0.439,FoxNews,0.0,72,.@POTUS's initiative to stop opioid abuse https://t.co/oTcY26di0w
-372,-0.5574,Tue Mar 20 09:45:30 +0000 2018,0.231,0.769,FoxNews,0.0,73,Former French President Sarkozy placed in custody over illegal campaign funding: report https://t.co/mdZ2R02SbN
-373,-0.7184,Tue Mar 20 09:40:51 +0000 2018,0.261,0.739,FoxNews,0.0,74,".@jasoninthehouse on the firing of Andrew McCabe: ""You just don’t get fired overnight, this is something that proba… https://t.co/A2IbRlOZCX"
-374,-0.5106,Tue Mar 20 09:30:01 +0000 2018,0.229,0.672,FoxNews,0.099,75,An 18-year-old gorilla at @phillyzoo hates to get his hands dirty. That’s why he sometimes walks upright like a hum… https://t.co/k3pwrSJqQn
-375,-0.4019,Tue Mar 20 09:22:27 +0000 2018,0.172,0.828,FoxNews,0.0,76,"Southern California town stands up to state, votes to reject sanctuary law https://t.co/UCWhWd0DR2 https://t.co/YIfVZPKOge"
-376,0.0,Tue Mar 20 09:18:45 +0000 2018,0.0,1.0,FoxNews,0.0,77,"Chris Swecker: “The way the bombs are constructed, obviously this person has some skills.” https://t.co/77RBmNOnF1 https://t.co/EnMpBXAKAv"
-377,0.0,Tue Mar 20 09:15:07 +0000 2018,0.0,1.0,FoxNews,0.0,78,‘Affluenza’ teen to be released from jail in 2 weeks https://t.co/QImhEbSBBx
-378,0.0,Tue Mar 20 09:15:00 +0000 2018,0.0,1.0,FoxNews,0.0,79,"White House, Dems restart negotiations over DACA, funding border wall https://t.co/dSnqiUcLxk"
-379,0.0,Tue Mar 20 09:00:01 +0000 2018,0.0,1.0,FoxNews,0.0,80,".@IngrahamAngle: 'If Any Of Us Had Done What McCabe Did, We'd Already Be In Jail'  https://t.co/m8eZqyFH6r"
-380,-0.1027,Tue Mar 20 08:53:02 +0000 2018,0.157,0.707,FoxNews,0.136,81,"Trey Songz arrested after allegedly punching woman at Los Angeles party, police say https://t.co/NuFQLhevoN (via @bdbrown473)"
-381,-0.6249,Tue Mar 20 08:45:00 +0000 2018,0.421,0.579,FoxNews,0.0,82,Tucker Blasts 'Third-World Nonsense' Surrounding Andrew McCabe's Firing https://t.co/1yL4zv2yDD
-382,-0.34,Tue Mar 20 08:30:00 +0000 2018,0.138,0.862,FoxNews,0.0,83,".@IngrahamAngle on McCabe firing: ""When the government learns of wrongdoing, shouldn't it act immediately?...Who ca… https://t.co/9Ce7FC9s6o"
-383,-0.5994,Tue Mar 20 08:18:48 +0000 2018,0.333,0.588,FoxNews,0.078,84,"Trump rips Mueller, denounces critics, escaping his 'cage https://t.co/ZKaN8uUOVR via @HowardKurtz @MediaBuzzFNC"
-384,-0.5719,Tue Mar 20 08:15:00 +0000 2018,0.239,0.761,FoxNews,0.0,85,'Build The Wall and Keep the Damn Drugs Out': #Trump Slams Dems' Inaction in Opioid Speech https://t.co/cSDfyFcpNI
-385,-0.872,Tue Mar 20 08:13:41 +0000 2018,0.498,0.502,FoxNews,0.0,86,"Severe storms leave widespread damage, thousands without power and one reported death in Southeast… https://t.co/Vovy5sH6xe"
-386,0.5574,Tue Mar 20 08:08:00 +0000 2018,0.0,0.796,FoxNews,0.204,87,It was a special day at @dollysstampede​ as Sgt. Bryan Samsel surprised his wife after returning home from a year o… https://t.co/CaZtkg731p
-387,0.3291,Tue Mar 20 08:00:01 +0000 2018,0.0,0.899,FoxNews,0.101,88,Candace Owens: “That is exactly what modern feminism seems to be today is that they celebrate women but only if wom… https://t.co/orNGYecKm1
-388,-0.34,Tue Mar 20 07:45:00 +0000 2018,0.112,0.888,FoxNews,0.0,89,".@DevinNunes: “We just can’t have, in this country, where you have political dirt that’s paid for by one political… https://t.co/bj8JZe1c8V"
-389,-0.6249,Tue Mar 20 07:30:00 +0000 2018,0.204,0.796,FoxNews,0.0,90,"During a speech on the opioid crisis in America on Monday, @POTUS called for ending sanctuary cities.… https://t.co/7ESQanZbp8"
-390,0.2411,Tue Mar 20 07:15:00 +0000 2018,0.0,0.897,FoxNews,0.103,91,"Cory Booker, on 'The View,' wants to discuss the future, not Hillary: ‘Clinton lost the electoral vote’ https://t.co/rL3v3Y2VIY"
-391,0.7184,Tue Mar 20 07:00:01 +0000 2018,0.0,0.741,FoxNews,0.259,92,".@POTUS on law enforcement officers: “We thank you, we honor you, and we want you to know that we will always have… https://t.co/wEmYH3BVlt"
-392,0.0,Tue Mar 20 06:55:12 +0000 2018,0.0,1.0,FoxNews,0.0,93,"Sudan, the world's last male northern white rhino, dies from 'age-related complications' https://t.co/rBoArj9i0h (via @RyanGaydos)"
-393,0.0772,Tue Mar 20 06:45:00 +0000 2018,0.0,0.925,FoxNews,0.075,94,'Sex and the City' star Cynthia Nixon to challenge Andrew Cuomo in race for NY governor https://t.co/LhPATy3cmt
-394,-0.7003,Tue Mar 20 06:30:00 +0000 2018,0.257,0.696,FoxNews,0.048,95,".@TuckerCarlson: ""Dishonest law enforcement is a big deal no matter who the president is. In fact, it's the biggest… https://t.co/4RsPknfGbf"
-395,0.4019,Tue Mar 20 06:00:00 +0000 2018,0.0,0.791,FoxNews,0.209,96,".@JesseBWatters on @HillaryClinton's apology after comments about Trump voters: “We like authentic Hillary, even if… https://t.co/arcQNMMnxb"
-396,0.0823,Tue Mar 20 05:45:00 +0000 2018,0.187,0.612,FoxNews,0.201,97,".@dbongino: ""It's frustrating because, #Tucker, we did nothing wrong. Legal gun owners are saying to themselves all… https://t.co/Ip7b4l8J5K"
-397,0.0,Tue Mar 20 05:38:00 +0000 2018,0.0,1.0,FoxNews,0.0,98,.@RepLeeZeldin on curbing Russia: “President #Trump actually did more in the last week than President Obama did in… https://t.co/cznseHZvDP
-398,-0.5574,Tue Mar 20 05:30:00 +0000 2018,0.159,0.841,FoxNews,0.0,99,.@newtgingrich: “The fact is it wasn’t @POTUS who fired McCabe. It was the Inspector General’s report in the FBI…”… https://t.co/D8ERgVu8W8
-399,-0.8176,Tue Mar 20 05:15:32 +0000 2018,0.349,0.651,FoxNews,0.0,100,China's Xi takes swipe at Trump's new 'doomed to failure' Taiwan policy in nationalistic speech… https://t.co/Je4VCJLsWk
-400,-0.1027,Tue Mar 20 17:32:06 +0000 2018,0.091,0.909,nytimes,0.0,1,Their pay has stood still. Now Oklahoma teachers could be the next to walk. https://t.co/vCjft7hP9f
-401,-0.5267,Tue Mar 20 17:22:07 +0000 2018,0.139,0.861,nytimes,0.0,2,An NYC agency has documented every instance it believes it has caught an police officer lying. But of the 81 cases… https://t.co/DsQTOBOveR
-402,0.4939,Tue Mar 20 17:06:41 +0000 2018,0.0,0.842,nytimes,0.158,3,"Breaking News: President Trump called Vladimir Putin to congratulate him for his re-election victory, days after th… https://t.co/OlTzbOBXZ6"
-403,0.101,Tue Mar 20 17:02:05 +0000 2018,0.097,0.792,nytimes,0.111,4,"RT @jeligon: “One of the most popular liberal post-racial ideas is the idea that the fundamental problem is class and not race, and clearly…"
-404,-0.34,Tue Mar 20 16:55:48 +0000 2018,0.244,0.602,nytimes,0.154,5,"• The shooting suspect in the Great Mills high school shooting has been confirmed dead.
-• Two students were injured… https://t.co/pvsZWuCHWZ"
-405,0.0,Tue Mar 20 16:52:05 +0000 2018,0.0,1.0,nytimes,0.0,6,Mississippi's governor is expected to pick the state's agricultural commissioner — who would be the first woman to… https://t.co/w8trN1KI4m
-406,0.0,Tue Mar 20 16:42:04 +0000 2018,0.0,1.0,nytimes,0.0,7,"Next month, the U.S. economic recovery will become the second-longest on record. Here's how it might end. https://t.co/2mLbMtzQCy"
-407,0.3612,Tue Mar 20 16:32:05 +0000 2018,0.0,0.783,nytimes,0.217,8,Are you ready to quit Facebook? (From March 2017) https://t.co/AJ0vqx0nui
-408,-0.1531,Tue Mar 20 16:22:24 +0000 2018,0.088,0.846,nytimes,0.065,9,"Larry Kwong, the NHL's first player of Asian descent, has died at 94. He played only one game in 1948, but that was… https://t.co/h5RRO4pGmH"
-409,0.0,Tue Mar 20 16:12:05 +0000 2018,0.0,1.0,nytimes,0.0,10,"Canada's outdoor rinks are melting. And with them, so is a way of life. https://t.co/lilvF3C3kS"
-410,-0.2732,Tue Mar 20 16:02:04 +0000 2018,0.084,0.916,nytimes,0.0,11,RT @nytlizrobbins: Is he New York state's Joe Arpaio? A lone New York sheriff signs up to aid immigration crackdown. He says it's for publi…
-411,0.296,Tue Mar 20 15:52:08 +0000 2018,0.113,0.721,nytimes,0.167,12,"La Borinqueña, a Puerto Rican heroine, will be fighting alongside Wonder Woman, Batman, Superman and other DC Comic… https://t.co/gXwfwlBS3T"
-412,-0.5106,Tue Mar 20 15:42:03 +0000 2018,0.136,0.864,nytimes,0.0,13,"RT @nytpolitics: Ben Carson told a House committee he failed to adhere to a federal spending cap for the purchase of a $31,000 mahogany din…"
-413,0.0,Tue Mar 20 15:38:33 +0000 2018,0.0,1.0,nytimes,0.0,14,"Ben Carson said the purchase of a $31,000 dining room set for his office wasn't about decoration. It was about safe… https://t.co/ZLE7c2NQuY"
-414,-0.5574,Tue Mar 20 15:32:04 +0000 2018,0.153,0.847,nytimes,0.0,15,"Andrew McCabe, the former FBI deputy director, was fired late Friday night — on the eve of his retirement. Here’s w… https://t.co/g8NhNgTWtL"
-415,-0.5574,Tue Mar 20 15:22:05 +0000 2018,0.175,0.825,nytimes,0.0,16,The last male northern white rhino in the world has died. Just 2 northern white rhinos now remain. https://t.co/iGPYGlACEH
-416,0.0,Tue Mar 20 15:19:35 +0000 2018,0.0,1.0,nytimes,0.0,17,"Meet Nemo and Mickey, the beagles who hunt bedbugs for NYC's Department of Housing Preservation and Development… https://t.co/6pDggDt2Im"
-417,-0.5574,Tue Mar 20 15:12:05 +0000 2018,0.146,0.854,nytimes,0.0,18,"""I didn't even know what tuberculosis was,"" one woman said. ""Then my mother died and because nobody in my family ha… https://t.co/H5y5h3iA74"
-418,-0.0516,Tue Mar 20 15:02:04 +0000 2018,0.173,0.663,nytimes,0.163,19,The Federal Trade Commission is investigating whether Facebook violated an agreement on data privacy https://t.co/WTUVDrck2a
-419,0.5994,Tue Mar 20 15:02:04 +0000 2018,0.0,0.786,nytimes,0.214,20,RT @UpshotNYT: What recent special elections can and can't tell us about prospects for Democrats in the 2018 midterms. https://t.co/IvyvHVo…
-420,0.3612,Tue Mar 20 14:52:05 +0000 2018,0.0,0.884,nytimes,0.116,21,"New York is getting ready for yet another major snowstorm, just in time for the first day of spring https://t.co/zaiixeU3IV"
-421,0.34,Tue Mar 20 14:42:03 +0000 2018,0.0,0.893,nytimes,0.107,22,"RT @NYTSports: “This is the real March Madness.” 32 teams, seven days and one shared hotel. It's the @NAIA tournament. https://t.co/jmeABGb…"
-422,-0.4767,Tue Mar 20 14:40:08 +0000 2018,0.147,0.853,nytimes,0.0,23,"Your daily @DealBook Briefing: 
+https://t.co/1wfIWb5lRy",2
+403,0.0,Wed Mar 21 03:32:07 +0000 2018,0.0,1.0,nytimes,0.0,Illinois primary election live results https://t.co/ytFGAdLBBC,3
+404,0.0,Wed Mar 21 03:23:03 +0000 2018,0.0,1.0,nytimes,0.0,RT @liamstack: A neo-Nazi who ran unopposed in the primary is now officially the Republican congressional nominee for a district that conta…,4
+405,0.0,Wed Mar 21 03:18:06 +0000 2018,0.0,1.0,nytimes,0.0,"At 26, the Cuban artist Belkis Ayón was invited to show at the Venice Biennale in Italy. But first, she had to get… https://t.co/zfWGyaSuf9",5
+406,0.0,Wed Mar 21 03:02:06 +0000 2018,0.0,1.0,nytimes,0.0,"Ralph Peters, a retired lieutenant colonel, quit his job as an analyst at Fox News, saying he was ""ashamed"" of what… https://t.co/Ye8MhwaAVg",6
+407,0.0,Wed Mar 21 02:48:05 +0000 2018,0.0,1.0,nytimes,0.0,"As the manhunt for a serial bomber in Austin, Texas, continues, officials said an ""incendiary device"" reported Tues… https://t.co/mEMRYMeIyr",7
+408,-0.2263,Wed Mar 21 02:32:03 +0000 2018,0.095,0.905,nytimes,0.0,A New York State judge ruled that a former contestant on “The Apprentice” can proceed with her lawsuit against Pres… https://t.co/zzpDTPJHKg,8
+409,0.0,Wed Mar 21 02:17:04 +0000 2018,0.0,1.0,nytimes,0.0,"RT @nytpolitics: In preparing President Trump for his call with Vladimir Putin, an aide wrote on his briefing materials, “DO NOT CONGRATULA…",9
+410,0.0,Wed Mar 21 02:02:03 +0000 2018,0.0,1.0,nytimes,0.0,Illinois primary election live results https://t.co/LHBdHTt5BE,10
+411,-0.1027,Wed Mar 21 01:47:05 +0000 2018,0.069,0.931,nytimes,0.0,"“Your head is in the sand about racial bias and racial discrimination,” Rep. Barbara Lee said to Education Secretar… https://t.co/C3CJyHxWyC",11
+412,0.5859,Wed Mar 21 01:32:04 +0000 2018,0.0,0.769,nytimes,0.231,Just 2 female northern white rhinos remain. But scientists are hoping to resurrect the population with advanced ste… https://t.co/WzuRArbdZq,12
+413,0.0,Wed Mar 21 01:18:06 +0000 2018,0.0,1.0,nytimes,0.0,"It was Charlie Bucket’s first trip to the movies — to see “Isle of Dogs.” Looking sharp in a flowered bow tie, he g… https://t.co/aqYIPbzs6X",13
+414,-0.4404,Wed Mar 21 01:07:08 +0000 2018,0.213,0.684,nytimes,0.103,"RT @NYTNational: The Illinois Republican Party chairman denounced Arthur Jones as ""a Nazi whose disgusting, bigoted views have no place in…",14
+415,0.0,Wed Mar 21 01:02:07 +0000 2018,0.0,1.0,nytimes,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/qYnfxZtXpd,15
+416,0.0,Wed Mar 21 00:48:06 +0000 2018,0.0,1.0,nytimes,0.0,Illinois primary election live results https://t.co/xRH0fGJRIU,16
+417,-0.4215,Wed Mar 21 00:44:50 +0000 2018,0.123,0.877,nytimes,0.0,"RT @NYTNational: The Austin police responded to a reported explosion and injury at a strip mall on Tuesday evening, apparently the 7th bomb…",17
+418,-0.3412,Wed Mar 21 00:32:03 +0000 2018,0.107,0.893,nytimes,0.0,"A longtime analyst for Fox News is leaving the network, saying he could not “in good conscience” remain with an org… https://t.co/DR3F5AlHrl",18
+419,0.0,Wed Mar 21 00:17:04 +0000 2018,0.0,1.0,nytimes,0.0,RT @nytopinion: President Trump has publicly gone after almost every category of person imaginable. But not Stormy Daniels. Why? https://t.…,19
+420,0.0,Wed Mar 21 00:02:05 +0000 2018,0.0,1.0,nytimes,0.0,Keep this page open for Illinois primary election results when they come in https://t.co/6oDUzKQwfC,20
+421,0.0,Tue Mar 20 23:47:07 +0000 2018,0.0,1.0,nytimes,0.0,"Education Secretary Betsy DeVos has clashed with staff members over a reorganization plan, which they say she tried… https://t.co/0z1zuUsuTU",21
+422,0.0,Tue Mar 20 23:32:05 +0000 2018,0.0,1.0,nytimes,0.0,"How researchers learned to use Facebook ""likes"" to sway your thinking https://t.co/2F4xre9ubW",22
+423,0.0,Tue Mar 20 23:17:05 +0000 2018,0.0,1.0,nytimes,0.0,"RT @sahiltner: In the mid 1950s, Mepkin Abbey, a Trappist monastery in South Carolina, was brimming with monks — 55 at its peak. Today, onl…",23
+424,0.0,Tue Mar 20 23:02:05 +0000 2018,0.0,1.0,nytimes,0.0,One NYT reader's reaction to dogs attending a screening of Wes Anderson's new movie about dogs… https://t.co/jIBdEeW2zk,24
+425,0.0,Tue Mar 20 22:47:03 +0000 2018,0.0,1.0,nytimes,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/ohrdsqS81Y,25
+426,-0.4404,Tue Mar 20 22:32:06 +0000 2018,0.108,0.892,nytimes,0.0,"“Please buy it for your children, buy it for any child you know or buy it because you know it would annoy Mike Penc… https://t.co/X8k7ZhUZnU",26
+427,0.34,Tue Mar 20 22:17:05 +0000 2018,0.0,0.902,nytimes,0.098,"At 26, the Cuban artist Belkis Ayón was invited to show at the Venice Biennale in Italy. She was determined to make… https://t.co/DtLUgMs8TN",27
+428,-0.1779,Tue Mar 20 22:02:04 +0000 2018,0.093,0.844,nytimes,0.062,"Schools will be closed tomorrow in New York City, the mayor said, in anticipation of a storm projected to drop a fo… https://t.co/Ynso9dr7fp",28
+429,-0.5574,Tue Mar 20 21:47:06 +0000 2018,0.217,0.783,nytimes,0.0,"Munich prosecutors have raided BMW's headquarters, looking for evidence of possible emissions cheating https://t.co/gkN30cFsHi",29
+430,0.0,Tue Mar 20 21:38:03 +0000 2018,0.0,1.0,nytimes,0.0,RT @PamelaPaulNYT: This is the story of a little gay bunny. https://t.co/qtlugDsWpt,30
+431,0.0772,Tue Mar 20 21:26:06 +0000 2018,0.0,0.925,nytimes,0.075,Want to dine with major-league baseball players? Go to this supermarket cafeteria. (Order the stewed oxtail.) https://t.co/9Qa5ePQKJo,31
+432,0.2732,Tue Mar 20 21:10:03 +0000 2018,0.08,0.76,nytimes,0.16,A former Playboy model who says she had an affair with Donald Trump is suing to be freed from a 2016 legal deal req… https://t.co/v2h3GgTK3A,32
+433,0.0,Tue Mar 20 20:55:09 +0000 2018,0.0,1.0,nytimes,0.0,"Slammed in September by Hurricanes Irma and Maria, this lush, wild bit of Puerto Rico is still recovering https://t.co/2UXI4pxU1Z",33
+434,0.1779,Tue Mar 20 20:40:07 +0000 2018,0.0,0.914,nytimes,0.086,"Growing hops for beer is resource-intensive, and farmers can’t keep up. So scientists engineered yeast that can hel… https://t.co/wz43aA0qcy",34
+435,-0.5574,Tue Mar 20 20:25:03 +0000 2018,0.175,0.825,nytimes,0.0,Peter G. Peterson has died at 91. The billionaire financier and philanthropist combined a spectacular career in ind… https://t.co/NXeVRJCS52,35
+436,-0.7269,Tue Mar 20 20:18:08 +0000 2018,0.243,0.757,nytimes,0.0,"""When I deployed to Iraq in 2003, there was no war. We had to start it,"" a former Marine Corps tanker writes https://t.co/afxjBT5yZe",36
+437,0.0,Tue Mar 20 20:08:04 +0000 2018,0.0,1.0,nytimes,0.0,"Ben Carson on the $31,000 dining room set: ""I left it to my wife, you know, to choose something"" https://t.co/M2Xy9eqfUW",37
+438,0.0,Tue Mar 20 19:58:04 +0000 2018,0.0,1.0,nytimes,0.0,"RT @ByJamesWagner: On a supermarket and cafeteria that has fed many Mets players over the years, and provided much more: https://t.co/7Z3hd…",38
+439,0.0,Tue Mar 20 19:48:02 +0000 2018,0.0,1.0,nytimes,0.0,Melania Trump wants to end cyberbullying. Here are the times her husband's behavior on Twitter has clashed with tha… https://t.co/VTEVKENZOm,39
+440,-0.4767,Tue Mar 20 19:46:55 +0000 2018,0.147,0.853,nytimes,0.0,"Cambridge Analytica, the data firm with ties to the Trump campaign, suspended its CEO as regulators investigate its… https://t.co/bUeKs74kcZ",40
+441,0.0,Tue Mar 20 19:38:26 +0000 2018,0.0,1.0,nytimes,0.0,RT @NYTScience: Humans interbred with Neanderthals. Migrants from what is now Taiwan settled much of the remote Pacific. Once we knew littl…,41
+442,0.5719,Tue Mar 20 19:28:06 +0000 2018,0.0,0.773,nytimes,0.227,"President Trump welcomed Saudi Arabia’s crown prince to the White House, reaffirming his endorsement of an ambitiou… https://t.co/i9PoQGBqNr",42
+443,-0.34,Tue Mar 20 19:19:51 +0000 2018,0.264,0.569,nytimes,0.167,"Great Mills High School shooting updates:
+• The suspect, Austin Wyatt Rollins, 17, was confirmed dead
+• 16-year-old… https://t.co/Fb2juqoZBU",43
+444,-0.8934,Tue Mar 20 19:18:05 +0000 2018,0.416,0.584,nytimes,0.0,The Minneapolis police officer who fatally shot an Australian woman last summer has been charged with murder https://t.co/ekXNYDvhch,44
+445,-0.6997,Tue Mar 20 19:08:05 +0000 2018,0.347,0.653,nytimes,0.0,"RT @nytgraphics: How a self-driving Uber killed a pedestrian in Arizona.
+https://t.co/Lkpqvmwfmu",45
+446,0.0,Tue Mar 20 18:58:06 +0000 2018,0.0,1.0,nytimes,0.0,Authorities are scrambling for clues that could connect a package that exploded in San Antonio to the explosions in… https://t.co/vDdsdRmsxK,46
+447,0.0,Tue Mar 20 18:52:42 +0000 2018,0.0,1.0,nytimes,0.0,This is a story about dogs at the movies https://t.co/8afzOXv0C1 https://t.co/U6jURj2LPl,47
+448,-0.3182,Tue Mar 20 18:48:05 +0000 2018,0.133,0.867,nytimes,0.0,A California law that requires “crisis pregnancy centers” to provide information about abortion met a skeptical rec… https://t.co/rebHavwlUR,48
+449,0.0772,Tue Mar 20 18:38:03 +0000 2018,0.0,0.942,nytimes,0.058,"RT @nytimesworld: As the number of mountaineers winding through the Everest region has multiplied, so has the trash — beer bottles, food ca…",49
+450,0.2732,Tue Mar 20 18:28:05 +0000 2018,0.0,0.89,nytimes,0.11,RT @nytopinion: Running across a person who had committed genocide was always a possibility in Argentina in the 1990s https://t.co/5RTwC8va…,50
+451,0.4215,Tue Mar 20 18:18:04 +0000 2018,0.0,0.859,nytimes,0.141,"If you liked Kim Kardashian on Facebook, researchers can tell how extroverted (very), conscientious (more than most… https://t.co/Cj11Mh00Kf",51
+452,-0.7184,Tue Mar 20 18:08:21 +0000 2018,0.28,0.72,nytimes,0.0,"Cynthia Nixon, on her first full day as a candidate, wasted no time in confronting Gov. Cuomo in sharp and personal… https://t.co/dAknK25Uvi",52
+453,0.2263,Tue Mar 20 17:58:03 +0000 2018,0.068,0.821,nytimes,0.111,"A Trump administration proposal would limit the ability of the U.S., Mexico and Canada to warn consumers about the… https://t.co/EcOckxj3e3",53
+454,-0.5267,Tue Mar 20 17:48:02 +0000 2018,0.134,0.866,nytimes,0.0,"RT @nytimesarts: The story of ""Roxanne's Revenge"" and Roxanne Shanté, who paved the way for Foxy Brown, Lil' Kim, Cardi B and others https:…",54
+455,0.0,Tue Mar 20 17:41:09 +0000 2018,0.0,1.0,nytimes,0.0,RT @jimrutenberg: EXCLUSIVE/BREAKING: Former Playboy model Karen McDougal sues to get out of “catch and kill” deal with National Enquirer p…,55
+456,0.2732,Tue Mar 20 17:35:50 +0000 2018,0.083,0.751,nytimes,0.166,A former Playboy model who claimed she had an affair with Donald Trump is suing to be freed from a 2016 legal deal… https://t.co/0aeHzdcgS8,56
+457,-0.1027,Tue Mar 20 17:32:06 +0000 2018,0.091,0.909,nytimes,0.0,Their pay has stood still. Now Oklahoma teachers could be the next to walk. https://t.co/vCjft7hP9f,57
+458,-0.5267,Tue Mar 20 17:22:07 +0000 2018,0.139,0.861,nytimes,0.0,An NYC agency has documented every instance it believes it has caught an police officer lying. But of the 81 cases… https://t.co/DsQTOBOveR,58
+459,0.4939,Tue Mar 20 17:06:41 +0000 2018,0.0,0.842,nytimes,0.158,"Breaking News: President Trump called Vladimir Putin to congratulate him for his re-election victory, days after th… https://t.co/OlTzbOBXZ6",59
+460,0.101,Tue Mar 20 17:02:05 +0000 2018,0.097,0.792,nytimes,0.111,"RT @jeligon: “One of the most popular liberal post-racial ideas is the idea that the fundamental problem is class and not race, and clearly…",60
+461,-0.34,Tue Mar 20 16:55:48 +0000 2018,0.244,0.602,nytimes,0.154,"• The shooting suspect in the Great Mills high school shooting has been confirmed dead.
+• Two students were injured… https://t.co/pvsZWuCHWZ",61
+462,0.0,Tue Mar 20 16:52:05 +0000 2018,0.0,1.0,nytimes,0.0,Mississippi's governor is expected to pick the state's agricultural commissioner — who would be the first woman to… https://t.co/w8trN1KI4m,62
+463,0.0,Tue Mar 20 16:42:04 +0000 2018,0.0,1.0,nytimes,0.0,"Next month, the U.S. economic recovery will become the second-longest on record. Here's how it might end. https://t.co/2mLbMtzQCy",63
+464,0.3612,Tue Mar 20 16:32:05 +0000 2018,0.0,0.783,nytimes,0.217,Are you ready to quit Facebook? (From March 2017) https://t.co/AJ0vqx0nui,64
+465,-0.1531,Tue Mar 20 16:22:24 +0000 2018,0.088,0.846,nytimes,0.065,"Larry Kwong, the NHL's first player of Asian descent, has died at 94. He played only one game in 1948, but that was… https://t.co/h5RRO4pGmH",65
+466,0.0,Tue Mar 20 16:12:05 +0000 2018,0.0,1.0,nytimes,0.0,"Canada's outdoor rinks are melting. And with them, so is a way of life. https://t.co/lilvF3C3kS",66
+467,-0.2732,Tue Mar 20 16:02:04 +0000 2018,0.084,0.916,nytimes,0.0,RT @nytlizrobbins: Is he New York state's Joe Arpaio? A lone New York sheriff signs up to aid immigration crackdown. He says it's for publi…,67
+468,0.296,Tue Mar 20 15:52:08 +0000 2018,0.113,0.721,nytimes,0.167,"La Borinqueña, a Puerto Rican heroine, will be fighting alongside Wonder Woman, Batman, Superman and other DC Comic… https://t.co/gXwfwlBS3T",68
+469,-0.5106,Tue Mar 20 15:42:03 +0000 2018,0.136,0.864,nytimes,0.0,"RT @nytpolitics: Ben Carson told a House committee he failed to adhere to a federal spending cap for the purchase of a $31,000 mahogany din…",69
+470,0.0,Tue Mar 20 15:38:33 +0000 2018,0.0,1.0,nytimes,0.0,"Ben Carson said the purchase of a $31,000 dining room set for his office wasn't about decoration. It was about safe… https://t.co/ZLE7c2NQuY",70
+471,-0.5574,Tue Mar 20 15:32:04 +0000 2018,0.153,0.847,nytimes,0.0,"Andrew McCabe, the former FBI deputy director, was fired late Friday night — on the eve of his retirement. Here’s w… https://t.co/g8NhNgTWtL",71
+472,-0.5574,Tue Mar 20 15:22:05 +0000 2018,0.175,0.825,nytimes,0.0,The last male northern white rhino in the world has died. Just 2 northern white rhinos now remain. https://t.co/iGPYGlACEH,72
+473,0.0,Tue Mar 20 15:19:35 +0000 2018,0.0,1.0,nytimes,0.0,"Meet Nemo and Mickey, the beagles who hunt bedbugs for NYC's Department of Housing Preservation and Development… https://t.co/6pDggDt2Im",73
+474,-0.5574,Tue Mar 20 15:12:05 +0000 2018,0.146,0.854,nytimes,0.0,"""I didn't even know what tuberculosis was,"" one woman said. ""Then my mother died and because nobody in my family ha… https://t.co/H5y5h3iA74",74
+475,-0.0516,Tue Mar 20 15:02:04 +0000 2018,0.173,0.663,nytimes,0.163,The Federal Trade Commission is investigating whether Facebook violated an agreement on data privacy https://t.co/WTUVDrck2a,75
+476,0.5994,Tue Mar 20 15:02:04 +0000 2018,0.0,0.786,nytimes,0.214,RT @UpshotNYT: What recent special elections can and can't tell us about prospects for Democrats in the 2018 midterms. https://t.co/IvyvHVo…,76
+477,0.3612,Tue Mar 20 14:52:05 +0000 2018,0.0,0.884,nytimes,0.116,"New York is getting ready for yet another major snowstorm, just in time for the first day of spring https://t.co/zaiixeU3IV",77
+478,0.34,Tue Mar 20 14:42:03 +0000 2018,0.0,0.893,nytimes,0.107,"RT @NYTSports: “This is the real March Madness.” 32 teams, seven days and one shared hotel. It's the @NAIA tournament. https://t.co/jmeABGb…",78
+479,-0.4767,Tue Mar 20 14:40:08 +0000 2018,0.147,0.853,nytimes,0.0,"Your daily @DealBook Briefing: 
 
 • Facebook had a terrible day.
 
 • So did Uber.
 
-• Leaders at the G-20 summit are s… https://t.co/pA9s2WtIhM"
-423,0.34,Tue Mar 20 14:33:17 +0000 2018,0.161,0.595,nytimes,0.244,24,"3 people were injured in a high school shooting in Great Mills, Maryland https://t.co/KhSQHiGmvW"
-424,-0.2732,Tue Mar 20 14:32:06 +0000 2018,0.116,0.884,nytimes,0.0,25,Nigerian officials had been warned that Boko Haram militants were approaching before 110 schoolgirls were kidnapped… https://t.co/3EzNLJixMI
-425,0.0,Tue Mar 20 14:22:02 +0000 2018,0.0,1.0,nytimes,0.0,26,Facebook’s open platform for apps helped it grow. But it has become a privacy nightmare. https://t.co/00Y2uFFUH3
-426,0.0,Tue Mar 20 14:10:31 +0000 2018,0.0,1.0,nytimes,0.0,27,"In Opinion 
+• Leaders at the G-20 summit are s… https://t.co/pA9s2WtIhM",79
+480,0.34,Tue Mar 20 14:33:17 +0000 2018,0.161,0.595,nytimes,0.244,"3 people were injured in a high school shooting in Great Mills, Maryland https://t.co/KhSQHiGmvW",80
+481,-0.2732,Tue Mar 20 14:32:06 +0000 2018,0.116,0.884,nytimes,0.0,Nigerian officials had been warned that Boko Haram militants were approaching before 110 schoolgirls were kidnapped… https://t.co/3EzNLJixMI,81
+482,0.0,Tue Mar 20 14:22:02 +0000 2018,0.0,1.0,nytimes,0.0,Facebook’s open platform for apps helped it grow. But it has become a privacy nightmare. https://t.co/00Y2uFFUH3,82
+483,0.0,Tue Mar 20 14:10:31 +0000 2018,0.0,1.0,nytimes,0.0,"In Opinion 
 
-The Editorial Board writes: Lawmakers and regulators need to force Facebook to quickly identify and al… https://t.co/Tyw2AIc5K2"
-427,0.0,Tue Mar 20 14:00:28 +0000 2018,0.0,1.0,nytimes,0.0,28,Morning Briefing: Here's what you need to know to start your day https://t.co/SWJ1ymff77 https://t.co/DSPkK8sSdL
-428,-0.4939,Tue Mar 20 13:46:07 +0000 2018,0.151,0.849,nytimes,0.0,29,Experts fear that Venezuela is teetering on the brink of a tuberculosis epidemic that could spill over its borders… https://t.co/zqYZEWeISP
-429,0.0,Tue Mar 20 13:30:06 +0000 2018,0.0,1.0,nytimes,0.0,30,What we know about the bombings and explosions in Austin and San Antonio https://t.co/TOvCv2aqTe https://t.co/n7sDDSlH8j
-430,0.0,Tue Mar 20 13:17:05 +0000 2018,0.0,1.0,nytimes,0.0,31,A package that exploded at a FedEx center near San Antonio was addressed to Austin and was believed to be connected… https://t.co/Vzaq1ejguz
-431,-0.7269,Tue Mar 20 13:00:11 +0000 2018,0.243,0.757,nytimes,0.0,32,"""When I deployed to Iraq in 2003, there was no war. We had to start it,"" a former Marine Corps tanker writes https://t.co/RYFCbhplRc"
-432,-0.2263,Tue Mar 20 12:45:04 +0000 2018,0.113,0.81,nytimes,0.077,33,The Uber car was in autonomous mode with a human safety driver at the wheel but carrying no passengers when it stru… https://t.co/I5FryTdFCz
-433,0.0,Tue Mar 20 12:28:03 +0000 2018,0.0,1.0,nytimes,0.0,34,"Education Secretary Betsy DeVos has clashed with staff members over a reorganization plan, which they say she tried… https://t.co/SlIjmhturB"
-434,0.0,Tue Mar 20 12:15:08 +0000 2018,0.0,1.0,nytimes,0.0,35,"Andrew Cuomo directed the state attorney general to review how the Manhattan district attorney, Cyrus Vance, handle… https://t.co/BHP29AUBm9"
-435,0.0,Tue Mar 20 12:00:06 +0000 2018,0.0,1.0,nytimes,0.0,36,Morning Briefing: Here's what you need to know to start your day https://t.co/dUPBGiOjj1 https://t.co/vkuvAEbjDz
-436,0.25,Tue Mar 20 11:50:08 +0000 2018,0.0,0.889,nytimes,0.111,37,"In Opinion
+The Editorial Board writes: Lawmakers and regulators need to force Facebook to quickly identify and al… https://t.co/Tyw2AIc5K2",83
+484,0.0,Tue Mar 20 14:00:28 +0000 2018,0.0,1.0,nytimes,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/SWJ1ymff77 https://t.co/DSPkK8sSdL,84
+485,-0.4939,Tue Mar 20 13:46:07 +0000 2018,0.151,0.849,nytimes,0.0,Experts fear that Venezuela is teetering on the brink of a tuberculosis epidemic that could spill over its borders… https://t.co/zqYZEWeISP,85
+486,0.0,Tue Mar 20 13:30:06 +0000 2018,0.0,1.0,nytimes,0.0,What we know about the bombings and explosions in Austin and San Antonio https://t.co/TOvCv2aqTe https://t.co/n7sDDSlH8j,86
+487,0.0,Tue Mar 20 13:17:05 +0000 2018,0.0,1.0,nytimes,0.0,A package that exploded at a FedEx center near San Antonio was addressed to Austin and was believed to be connected… https://t.co/Vzaq1ejguz,87
+488,-0.7269,Tue Mar 20 13:00:11 +0000 2018,0.243,0.757,nytimes,0.0,"""When I deployed to Iraq in 2003, there was no war. We had to start it,"" a former Marine Corps tanker writes https://t.co/RYFCbhplRc",88
+489,-0.2263,Tue Mar 20 12:45:04 +0000 2018,0.113,0.81,nytimes,0.077,The Uber car was in autonomous mode with a human safety driver at the wheel but carrying no passengers when it stru… https://t.co/I5FryTdFCz,89
+490,0.0,Tue Mar 20 12:28:03 +0000 2018,0.0,1.0,nytimes,0.0,"Education Secretary Betsy DeVos has clashed with staff members over a reorganization plan, which they say she tried… https://t.co/SlIjmhturB",90
+491,0.0,Tue Mar 20 12:15:08 +0000 2018,0.0,1.0,nytimes,0.0,"Andrew Cuomo directed the state attorney general to review how the Manhattan district attorney, Cyrus Vance, handle… https://t.co/BHP29AUBm9",91
+492,0.0,Tue Mar 20 12:00:06 +0000 2018,0.0,1.0,nytimes,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/dUPBGiOjj1 https://t.co/vkuvAEbjDz,92
+493,0.25,Tue Mar 20 11:50:08 +0000 2018,0.0,0.889,nytimes,0.111,"In Opinion
 
-Op-Ed columnist @michelleinbklyn writes: ""If the Trump campaign had a social media advantage, one reaso… https://t.co/uza16auFHK"
-437,0.1451,Tue Mar 20 11:39:04 +0000 2018,0.105,0.765,nytimes,0.13,38,"""Thanks to Britain, they've ensured a level of turnout we weren't hoping to achieve by ourselves."" Russia has credi… https://t.co/6vZ9ZGFnhB"
-438,0.5809,Tue Mar 20 11:30:07 +0000 2018,0.072,0.701,nytimes,0.227,39,"""The company regrets that it cannot undo the damage Harvey Weinstein caused, but hopes that today's events will mar… https://t.co/RAclA0ufYj"
-439,0.4754,Tue Mar 20 11:20:08 +0000 2018,0.0,0.808,nytimes,0.192,40,A look at how the most powerful man in Russia is staying that way https://t.co/FfeEbyu00E
-440,0.296,Tue Mar 20 11:11:05 +0000 2018,0.0,0.879,nytimes,0.121,41,"Steven Mnuchin: ""The objective is not to put tariffs on everybody but to solve the issue"" https://t.co/VErv4gPvSS"
-441,0.3818,Tue Mar 20 11:00:04 +0000 2018,0.0,0.885,nytimes,0.115,42,"President Trump has weighed aloud in recent days to close associates whether to dismiss his lawyer Ty Cobb, who had… https://t.co/Ca6ekto0ZX"
-442,0.4215,Tue Mar 20 10:44:03 +0000 2018,0.0,0.877,nytimes,0.123,43,"In Opinion 
+Op-Ed columnist @michelleinbklyn writes: ""If the Trump campaign had a social media advantage, one reaso… https://t.co/uza16auFHK",93
+494,0.1451,Tue Mar 20 11:39:04 +0000 2018,0.105,0.765,nytimes,0.13,"""Thanks to Britain, they've ensured a level of turnout we weren't hoping to achieve by ourselves."" Russia has credi… https://t.co/6vZ9ZGFnhB",94
+495,0.5809,Tue Mar 20 11:30:07 +0000 2018,0.072,0.701,nytimes,0.227,"""The company regrets that it cannot undo the damage Harvey Weinstein caused, but hopes that today's events will mar… https://t.co/RAclA0ufYj",95
+496,0.4754,Tue Mar 20 11:20:08 +0000 2018,0.0,0.808,nytimes,0.192,A look at how the most powerful man in Russia is staying that way https://t.co/FfeEbyu00E,96
+497,0.296,Tue Mar 20 11:11:05 +0000 2018,0.0,0.879,nytimes,0.121,"Steven Mnuchin: ""The objective is not to put tariffs on everybody but to solve the issue"" https://t.co/VErv4gPvSS",97
+498,0.3818,Tue Mar 20 11:00:04 +0000 2018,0.0,0.885,nytimes,0.115,"President Trump has weighed aloud in recent days to close associates whether to dismiss his lawyer Ty Cobb, who had… https://t.co/Ca6ekto0ZX",98
+499,0.4215,Tue Mar 20 10:44:03 +0000 2018,0.0,0.877,nytimes,0.123,"In Opinion 
 
-Op-Ed contributor Sinan Antoon writes: ""The invasion of Iraq is often spoken of in the United States a… https://t.co/ulyJNeBDLY"
-443,0.0,Tue Mar 20 10:36:06 +0000 2018,0.0,1.0,nytimes,0.0,44,"Morning Briefing: Here's what you need to know to start your day 
-https://t.co/OnA4rHBW9i https://t.co/BAD5GT7f8L"
-444,0.0,Tue Mar 20 10:14:01 +0000 2018,0.0,1.0,nytimes,0.0,45,RT @nytimesworld: NGOs operate about 40 women's shelters in Afghanistan. The Afghan government is seeking to take financial control of them…
-445,-0.5859,Tue Mar 20 10:00:07 +0000 2018,0.183,0.817,nytimes,0.0,46,"Britain's foreign secretary said that Russia's denials of responsibility in the poisoning of a former spy were ""inc… https://t.co/yavwUc9rpH"
-446,0.0,Tue Mar 20 09:45:09 +0000 2018,0.0,1.0,nytimes,0.0,47,"At a conference on whale biology in 1971, a female attendee was photographed but not identified. Last week, a team… https://t.co/lvcWO61ksG"
-447,-0.4939,Tue Mar 20 09:30:14 +0000 2018,0.144,0.856,nytimes,0.0,48,"The Weinstein Company said it released anyone ""who suffered or witnessed any form of sexual misconduct by Harvey We… https://t.co/nHS3fvgzBX"
-448,0.2732,Tue Mar 20 09:15:06 +0000 2018,0.0,0.851,nytimes,0.149,49,British and EU negotiators agreed on the terms of a 21-month Brexit transition https://t.co/VMU82Vx0X2
-449,0.0,Tue Mar 20 09:00:18 +0000 2018,0.0,1.0,nytimes,0.0,50,A Facebook executive who urged transparency on Russian disinformation is said to be leaving after clashing with oth… https://t.co/YIe5Pp6zb7
-450,0.2023,Tue Mar 20 08:45:06 +0000 2018,0.0,0.795,nytimes,0.205,51,5 important takeaways from China's National People's Congress https://t.co/ktm54IYt4R
-451,0.0,Tue Mar 20 08:30:12 +0000 2018,0.0,1.0,nytimes,0.0,52,Videos appear to show individuals casting multiple ballots during Russia's election  https://t.co/CHuJr7GdJ5
-452,0.4939,Tue Mar 20 08:15:04 +0000 2018,0.0,0.792,nytimes,0.208,53,Britain's government has raised the possibility that it might consider seizing the assets of wealthy Russians like… https://t.co/eoMrHLRvCZ
-453,-0.5994,Tue Mar 20 08:02:02 +0000 2018,0.205,0.795,nytimes,0.0,54,"A U.S. soldier in Niger warned that his unit was ill equipped for a raid on a militant. They were sent anyway, and… https://t.co/c4JMwYfTZf"
-454,-0.4215,Tue Mar 20 07:47:03 +0000 2018,0.118,0.882,nytimes,0.0,55,RT @nytimesworld: The kidnapping of 110 girls by Boko Haram has left anguished parents asking how such a kidnapping could happen again http…
-455,0.0,Tue Mar 20 07:32:03 +0000 2018,0.0,1.0,nytimes,0.0,56,"“Send some girls around to the candidate’s house.”
-
-As part of a monthslong investigation into Cambridge Analytica,… https://t.co/yArOs3bQmM"
-456,0.5574,Tue Mar 20 07:17:04 +0000 2018,0.0,0.787,nytimes,0.213,57,"RT @ScottShaneNYT: Covering Facebook is a bit like covering the government now, in scale and significance. And @nicoleperlroth @sheeraf can…"
-457,0.6124,Tue Mar 20 07:07:42 +0000 2018,0.0,0.615,nytimes,0.385,58,How to Enjoy Fine Dining on a Fast Food Budget https://t.co/Zvv75ozqhq
-458,0.0,Tue Mar 20 07:02:05 +0000 2018,0.0,1.0,nytimes,0.0,59,"The Australian comic Hannah Gadsby calls out Louis C.K., Harvey Weinstein and Bill Clinton, but her real target is… https://t.co/VlFMTsQZti"
-459,0.0,Tue Mar 20 06:33:04 +0000 2018,0.0,1.0,nytimes,0.0,60,RT @nytimesworld: President Bashar al-Assad of Syria took a tour of the eastern Ghouta suburb of Damascus after a government military offen…
-460,-0.4404,Tue Mar 20 06:18:45 +0000 2018,0.244,0.756,nytimes,0.0,61,Can Wikipedia bear the burden of fact-checking YouTube videos? https://t.co/6vZsPdX5z0
-461,0.4404,Tue Mar 20 06:02:03 +0000 2018,0.0,0.818,nytimes,0.182,62,The shopping gems in Belfast's lively city center are the independently owned establishments https://t.co/AwXscJyNqA
-462,0.4588,Tue Mar 20 05:32:05 +0000 2018,0.099,0.705,nytimes,0.196,63,"RT @UpshotNYT: New research shows that even black boys who grow up wealthy are more likely to wind up poor than to stay rich.
-https://t.co/…"
-463,-0.1027,Tue Mar 20 05:02:04 +0000 2018,0.132,0.755,nytimes,0.113,64,"Facebook’s chief information security officer, Alex Stamos, is said to have had internal disagreements over how the… https://t.co/bxcrB2UI4o"
-464,0.0,Tue Mar 20 04:47:04 +0000 2018,0.0,1.0,nytimes,0.0,65,RT @kimseverson: Stuffed ham is a dying art. Or maybe not. Come read about my journey to the land of stuffed ham and decide. https://t.co/9…
-465,0.0,Tue Mar 20 04:32:06 +0000 2018,0.0,1.0,nytimes,0.0,66,Facebook’s open platform for third-party apps helped it grow into a juggernaut. But it’s become a privacy nightmare. https://t.co/HUEJOTDUCF
-466,0.4215,Tue Mar 20 04:17:05 +0000 2018,0.0,0.882,nytimes,0.118,67,RT @marclacey: Can you believe it’s been six months since Harvey flooded Houston? Here’s a powerful look by @nytvideo at one neighborhood t…
-467,-0.5106,Tue Mar 20 04:02:02 +0000 2018,0.212,0.788,nytimes,0.0,68,"As President Trump openly discussed firing one of his lawyers, another considered resigning and a third — who pushe… https://t.co/t6nEelnV6l"
-468,-0.5994,Tue Mar 20 03:47:01 +0000 2018,0.224,0.776,nytimes,0.0,69,Mississippi has imposed a ban on abortions after 15 weeks. The state's only abortion clinic immediately sued to blo… https://t.co/KqLmc4NspZ
-469,0.0,Tue Mar 20 03:32:03 +0000 2018,0.0,1.0,nytimes,0.0,70,RT @kevinroose: New by me: Facebook’s open platform for third-party apps helped it grow into a juggernaut. But it’s become a privacy nightm…
-470,0.2023,Tue Mar 20 03:17:06 +0000 2018,0.175,0.583,nytimes,0.242,71,4 easy ways to cut down your sugar intake https://t.co/rRf9xm6WHS
-471,-0.34,Tue Mar 20 03:02:05 +0000 2018,0.098,0.902,nytimes,0.0,72,RT @nytmike: Dowd wants to quit. Trump’s talking about firing Cobb. Another lawyer — who says FBI made up evidence against Trump — was hire…
-472,-0.2023,Tue Mar 20 02:47:07 +0000 2018,0.087,0.913,nytimes,0.0,73,"The brother of Nikolas Cruz was charged with trespassing at Marjory Stoneman Douglas High School on Monday, the aut… https://t.co/h0o2gTJ7HO"
-473,0.0,Tue Mar 20 02:32:04 +0000 2018,0.0,1.0,nytimes,0.0,74,"Audit your Facebook apps, audit your Facebook privacy settings, and 5 other tips for protecting your data on Facebo… https://t.co/t87b7WJjZH"
-474,0.0,Tue Mar 20 02:17:06 +0000 2018,0.0,1.0,nytimes,0.0,75,"Claire’s, the teen jewelry chain known for its ear-piercing services, filed for Chapter 11 bankruptcy protection https://t.co/mn4hvSQjkf"
-475,-0.6369,Tue Mar 20 02:02:02 +0000 2018,0.346,0.512,nytimes,0.142,76,The Supreme Court rejected an emergency request from Pennsylvania Republicans to block new congressional voting dis… https://t.co/DeLYEPkfdu
-476,0.128,Tue Mar 20 01:47:04 +0000 2018,0.076,0.83,nytimes,0.094,77,RT @sheeraf: To be clear: We spoke to seven current and former Facebook employees for this story on how internal disputes over FB's role in…
-477,-0.5994,Tue Mar 20 01:32:03 +0000 2018,0.205,0.795,nytimes,0.0,78,"A U.S. soldier in Niger warned that his unit was ill equipped for a raid on a militant. They were sent anyway, and… https://t.co/0U7C8aSiyP"
-478,0.0,Tue Mar 20 01:17:03 +0000 2018,0.0,1.0,nytimes,0.0,79,Evening Briefing: Here's what you need to know at the end of the day https://t.co/HYYSMwnO4R
-479,0.2732,Tue Mar 20 01:00:19 +0000 2018,0.0,0.896,nytimes,0.104,80,"After we published an article on tipping and the power imbalance it creates between customers and servers, readers… https://t.co/LJx3uSo2dF"
-480,-0.296,Tue Mar 20 00:48:11 +0000 2018,0.152,0.781,nytimes,0.066,81,"RT @sheeraf: Full story now up. Alex Stamos is the first Facebook executive to leave the company, amid growing internal tensions over disin…"
-481,0.0,Tue Mar 20 00:32:02 +0000 2018,0.0,1.0,nytimes,0.0,82,"At a conference on whale biology in 1971, a female attendee was photographed but not identified. Last week, a team… https://t.co/BfdgD7NSnJ"
-482,0.0,Tue Mar 20 00:17:03 +0000 2018,0.0,1.0,nytimes,0.0,83,"RT @nytopinion: Despite Facebook’s claims, everyone involved in the Cambridge Analytica data-siphoning incident did not give his or her “co…"
-483,0.0,Tue Mar 20 00:02:05 +0000 2018,0.0,1.0,nytimes,0.0,84,Mary Outerbridge set up a tennis court in Staten Island in her 20s. It may have been the first in the U.S. https://t.co/MrVl8V3Mll
-484,-0.8271,Mon Mar 19 23:32:03 +0000 2018,0.303,0.697,nytimes,0.0,85,New York City’s subway hit a new low in January: Just 58.1% of weekday trains arrived on time. The MTA blamed bad w… https://t.co/AjE2LhnBWu
-485,-0.539,Mon Mar 19 23:17:05 +0000 2018,0.302,0.498,nytimes,0.2,86,"RT @KevinQ: The worst places for poor white children are almost all better than the best places for poor black children.
-
-https://t.co/EPZt…"
-486,0.0,Mon Mar 19 23:02:04 +0000 2018,0.0,1.0,nytimes,0.0,87,Evening Briefing: Here's what you need to know at the end of the day https://t.co/tQvejB0Xpm
-487,-0.1027,Mon Mar 19 22:44:07 +0000 2018,0.126,0.766,nytimes,0.108,88,RT @nicoleperlroth: NEW: Facebook's security officer @alexstamos is leaving the company amid disagreements with Facebook execs over how to…
-488,-0.4215,Mon Mar 19 22:34:00 +0000 2018,0.128,0.872,nytimes,0.0,89,Alex Stamos is said to be leaving Facebook after internal disagreements over how the social network should deal wit… https://t.co/2tbsL4WojM
-489,0.0,Mon Mar 19 22:24:55 +0000 2018,0.0,1.0,nytimes,0.0,90,Breaking News: A Facebook executive who urged transparency on Russian disinformation is said to be leaving after cl… https://t.co/iFVb6BY6j7
-490,0.34,Mon Mar 19 22:17:03 +0000 2018,0.082,0.784,nytimes,0.134,91,"RT @UpshotNYT: The Supreme Court today refused to Intervene in the Pa. redistricting case. That means these districts are holding up, and D…"
-491,0.3612,Mon Mar 19 22:02:07 +0000 2018,0.0,0.8,nytimes,0.2,92,Photographers find new ways to frame the natural world https://t.co/dSKQ3jE90n https://t.co/2oMSS8Vyi9
-492,0.0,Mon Mar 19 21:47:01 +0000 2018,0.0,1.0,nytimes,0.0,93,"RT @julieturkewitz: Tweeting some of the reaction to our story today: ""I have long thought the absence of Native Americans from any form of…"
-493,0.0,Mon Mar 19 21:32:07 +0000 2018,0.0,1.0,nytimes,0.0,94,"Al Pacino and Michelle Pfeiffer will reunite for a 35th anniversary screening of ""Scarface"" at the Tribeca Film Fes… https://t.co/CHjotO0oT8"
-494,0.0,Mon Mar 19 21:20:10 +0000 2018,0.0,1.0,nytimes,0.0,95,"“Send some girls around to the candidate’s house.”
-
-As part of a monthslong investigation into Cambridge Analytica,… https://t.co/YP7xSJ59Gx"
-495,0.0,Mon Mar 19 21:10:05 +0000 2018,0.0,1.0,nytimes,0.0,96,RT @readercenter: A @nytimes article published today on race and the income gap led to a big discussion among our readers. Submit a questio…
-496,0.128,Mon Mar 19 21:00:21 +0000 2018,0.132,0.679,nytimes,0.189,97,"Catharine MacKinnon: ""People have asked me for 40 years how not to get sued for sexual harassment. Well, a good fir… https://t.co/aiuh7NXSzK"
-497,0.7351,Mon Mar 19 20:50:06 +0000 2018,0.0,0.763,nytimes,0.237,98,"Justin Verlander brought value to the Astros last season, when he joined in a trade and helped them win the World S… https://t.co/8yl93W3HoA"
-498,-0.2732,Mon Mar 19 20:40:10 +0000 2018,0.091,0.909,nytimes,0.0,99,“Everyone in Austin is in the process of trying to figure out exactly how nervous to be. Are these bombings targete… https://t.co/5Pg0Ep4PRR
-499,-0.5423,Mon Mar 19 20:33:00 +0000 2018,0.156,0.844,nytimes,0.0,100,Read our report on how servers and bartenders weigh harassing behavior from customers against the tips they need to… https://t.co/N9dFagqWIa
+Op-Ed contributor Sinan Antoon writes: ""The invasion of Iraq is often spoken of in the United States a… https://t.co/ulyJNeBDLY",99
